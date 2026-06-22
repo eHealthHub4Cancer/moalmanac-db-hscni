@@ -29423,7 +29423,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended imatinib at 400 mg/day as first-line management of people with KIT (CD117)-positive unresectable and/or KIT (CD117)-positive metastatic gastro-intestinal stromal tumours (GISTs).",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta86"
@@ -29438,7 +29438,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Erlotinib as an option for the first-line treatment of people with locally advanced or metastatic non-small-cell lung cancer (NSCLC) if: the manufacturer provides erlotinib at the discounted price agreed under the patient access scheme (as revised in 2012).",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta258"
@@ -29453,7 +29453,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Vemurafenib as an option for treating BRAF V600 mutationpositive unresectable or metastatic melanoma only if the manufacturer provides vemurafenib with the discount agreed in the patient access scheme.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta269"
@@ -29468,7 +29468,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Vemurafenib as an option for treating BRAF V600 mutationpositive unresectable or metastatic melanoma only if the manufacturer provides vemurafenib with the discount agreed in the patient access scheme.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta269"
@@ -29483,7 +29483,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Dabrafenib, within its marketing authorisation, as a treatment option for treating unresectable or metastatic BRAF V600 mutation-positive melanoma only if the company provides dabrafenib with the discount agreed in the patient access scheme.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta321"
@@ -29498,7 +29498,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Dabrafenib, within its marketing authorisation, as a treatment option for treating unresectable or metastatic BRAF V600 mutation-positive melanoma only if the company provides dabrafenib with the discount agreed in the patient access scheme.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta321"
@@ -29513,7 +29513,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Ceritinib, within its marketing authorisation, as a treatment option for treating advanced anaplastic lymphoma kinase positive non-small-cell lung cancer in adults who have previously had crizotinib. The drug is recommended only if the company provides it with the discount agreed in the patient access scheme.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta395"
@@ -29528,7 +29528,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Trametinib in combination with dabrafenib, within its marketing authorisation, as a treatment option for treating unresectable or metastatic melanoma in adults with a BRAF V600 mutation only when the company provides trametinib and dabrafenib with the discounts agreed in the patient access schemes.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta396"
@@ -29543,7 +29543,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Trametinib in combination with dabrafenib, within its marketing authorisation, as a treatment option for treating unresectable or metastatic melanoma in adults with a BRAF V600 mutation only when the company provides trametinib and dabrafenib with the discounts agreed in the patient access schemes.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta396"
@@ -29558,7 +29558,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Crizotinib, within its marketing authorisation, as a treatment option for untreated anaplastic lymphoma kinase-positive advanced non-small-cell lung cancer in adults. The drug is recommended only if the company provides it with the discount agreed in the patient access scheme.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta406"
@@ -29573,7 +29573,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Pembrolizumab as an option for treating locally advanced or metastatic PD-L1-positive non-small-cell lung cancer in adults who have had at least one chemotherapy (and targeted treatment if they have an epidermal growth factor receptor [EGFR]- or anaplastic lymphoma kinase [ALK]-positive tumour), only if: \u2022 pembrolizumab is stopped at 2 years of uninterrupted treatment and no documented disease progression, and \u2022 the company provides pembrolizumab in line with the commercial access agreement with NHS England.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta428"
@@ -29588,7 +29588,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Ibrutinib alone, within its marketing authorisation, as a treatment option for treating chronic lymphocytic leukaemia in adults: \u2022 who have had at least 1 prior therapy or \u2022 who have a 17p deletion or TP53 mutation, and in whom chemoimmunotherapy is unsuitable and \u2022 only when the company provides ibrutinib with the discount agreed in the patient access scheme.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta429"
@@ -29603,7 +29603,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Ibrutinib alone, within its marketing authorisation, as a treatment option for treating chronic lymphocytic leukaemia in adults: \u2022 who have had at least 1 prior therapy or \u2022 who have a 17p deletion or TP53 mutation, and in whom chemoimmunotherapy is unsuitable and \u2022 only when the company provides ibrutinib with the discount agreed in the patient access scheme.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta429"
@@ -29618,7 +29618,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Trastuzumab emtansine, within its marketing authorisation, as a treatment option for treating human epidermal growth factor receptor 2 (HER2)-positive, unresectable, locally advanced or metastatic breast cancer in adults who previously received trastuzumab and a taxane, separately or in combination. Patients should have either received prior therapy for locally advanced or metastatic disease or developed disease recurrence during or within 6 months of completing adjuvant therapy. Trastuzumab emtansine is recommended only if the company provides it with the discount agreed in the patient access scheme.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta458"
@@ -29633,7 +29633,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Ceritinib, within its marketing authorisation, as a treatment option for untreated anaplastic lymphoma kinase (ALK)-positive advanced non-small-cell lung cancer in adults, only if the company provides it with the discount agreed in the patient access scheme.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta500"
@@ -29648,7 +29648,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Pertuzumab, in combination with trastuzumab and docetaxel,, within its marketing authorisation, for treating HER2-positive metastatic or locally recurrent unresectable breast cancer, in adults who have not had previous anti-HER2 therapy or chemotherapy for their metastatic disease, only if the company provides pertuzumab within the agreed commercial access arrangement.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta509"
@@ -29663,7 +29663,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Brentuximab vedotin as an option for treating CD30-positive Hodgkin lymphoma in adults with relapsed or refractory disease, only if: \u2022 they have already had autologous stem cell transplant or \u2022 they have already had at least 2 previous therapies when autologous stem cell transplant or multi-agent chemotherapy are not suitable and \u2022 the company provides brentuximab vedotin according to the commercial arrangement.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta524"
@@ -29678,7 +29678,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Pembrolizumab as an option for untreated PD-L1-positive metastatic non-small-cell lung cancer (NSCLC) in adults whose tumours express PD-L1 (with at least a 50% tumour proportion score) and have no epidermal growth factor receptor- or anaplastic lymphoma kinase-positive mutations, only if: \u2022 pembrolizumab is stopped at 2 years of uninterrupted treatment or earlier in the event of disease progression and \u2022 the company provides pembrolizumab according to the commercial access agreement.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta531"
@@ -29693,7 +29693,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Alectinib, within its marketing authorisation, as a treatment option for untreated anaplastic lymphoma kinase (ALK)-positive advanced non-small-cell lung cancer (NSCLC) in adults. It is recommended only if the company provides alectinib according to the commercial arrangement.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta536"
@@ -29708,7 +29708,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Gemtuzumab ozogamicin, with daunorubicin and cytarabine, as an option for untreated de novo CD33-positive acute myeloid leukaemia (AML), except acute promyelocytic leukaemia, in people 15 years and over, only if: \u2022 they start induction therapy when either the cytogenetic test confirms that the disease has favourable, intermediate or unknown cytogenetics (that is, because the test was unsuccessful) or when their cytogenetic test results are not yet available and \u2022 they start consolidation therapy when their cytogenetic test confirms that the disease has favourable, intermediate or unknown cytogenetics (because the test was unsuccessful) and \u2022 the company provides gemtuzumab ozogamicin according to the commercial arrangement.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta545"
@@ -29723,7 +29723,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Encorafenib with binimetinib, within its marketing authorisation, as a treatment option for treating BRAF V600 mutation-positive unresectable or metastatic melanoma in adults. It is recommended only if the company provides encorafenib and binimetinib with the discounts agreed in the patient access schemes.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta562"
@@ -29738,7 +29738,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Encorafenib with binimetinib, within its marketing authorisation, as a treatment option for treating BRAF V600 mutation-positive unresectable or metastatic melanoma in adults. It is recommended only if the company provides encorafenib and binimetinib with the discounts agreed in the patient access schemes.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta562"
@@ -29753,7 +29753,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Brigatinib, within its marketing authorisation, for treating anaplastic lymphoma kinase (ALK)-positive advanced non-small-cell lung cancer (NSCLC) in adults who have already had crizotinib. It is recommended only if the company provides it according to the commercial arrangement.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta571"
@@ -29768,7 +29768,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended brentuximab vedotin as an option for treating CD30-positive cutaneous T-cell lymphoma (CTCL) in adults after at least 1 systemic therapy, with: mycosis fungoides (MF) stage 2B or above, primary cutaneous anaplastic large cell lymphoma (pcALCL), or S\u00e9zary syndrome. It is recommended only if the company provides brentuximab vedotin according to the commercial arrangement.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta577"
@@ -29783,7 +29783,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Dacomitinib, within its marketing authorisation, as a treatment option for untreated locally advanced or metastatic epidermal growth factor receptor (EGFR) mutation-positive non-small-cell lung cancer (NSCLC) in adults. It is recommended only if the company provides it according to the commercial arrangement.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta595"
@@ -29798,7 +29798,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Lorlatinib, within its marketing authorisation, as a treatment option for treating ALK-positive advanced non-small-cell lung cancer (NSCLC) in adults whose disease has progressed after alectinib or ceritinib as the first ALK tyrosine kinase inhibitor (TKI), or after crizotinib and at least one other ALK TKI. It is recommended only if the company provides lorlatinib according to the commercial arrangement.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta628"
@@ -29813,7 +29813,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Entrectinib, within its marketing authorisation, as a treatment option for treating ROS1-positive advanced non-small-cell lung cancer (NSCLC) in adults who have not had ROS1 inhibitors. It is recommended only if the company provides entrectinib according to the commercial arrangement.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta643"
@@ -29828,7 +29828,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Osimertinib as an option for treating epidermal growth factor receptor (EGFR) T790M mutation-positive locally advanced or metastatic non-small-cell lung cancer (NSCLC) in adults, only if: \u2022 their disease has progressed after first-line treatment with an EGFR tyrosine kinase inhibitor and \u2022 the company provides osimertinib according to the commercial arrangement.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta653"
@@ -29843,7 +29843,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Osimertinib, within its marketing authorisation, as a treatment option for untreated locally advanced or metastatic epidermal growth factor receptor (EGFR) mutation-positive non-small-cell lung cancer (NSCLC) in adults. It is recommended only if the company provides osimertinib according to the commercial arrangement.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta654"
@@ -29858,7 +29858,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Pembrolizumab as an option for untreated metastatic or unresectable recurrent head and neck squamous cell carcinoma (HNSCC) in adults whose tumours express PD-L1 with a combined positive score (CPS) of 1 or more. This is only if: \u2022 pembrolizumab is given as a monotherapy \u2022 pembrolizumab is stopped at 2 years of uninterrupted treatment, or earlier if disease progresses, and \u2022 the company provides pembrolizumab according to the commercial arrangement.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta661"
@@ -29873,7 +29873,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Encorafenib plus cetuximab, within its marketing authorisation, as a treatment option for treating BRAF V600E mutation-positive metastatic colorectal cancer in adults who have had previous systemic treatment. It is recommended only if the company provides it according to the commercial arrangements.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta668"
@@ -29888,7 +29888,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Brigatinib, within its marketing authorisation, as a treatment option for treating anaplastic lymphoma kinase (ALK)-positive advanced non-small-cell lung cancer (NSCLC) that has not been previously treated with an ALK inhibitor in adults. It is recommended only if the company provides brigatinib according to the commercial arrangement.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta670"
@@ -29903,7 +29903,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Acalabrutinib as monotherapy as an option for untreated chronic lymphocytic leukaemia (CLL) in adults, only if: \u2022 there is a 17p deletion or TP53 mutation, or \u2022 there is no 17p deletion or TP53 mutation, and fludarabine plus cyclophosphamide and rituximab (FCR), or bendamustine plus rituximab (BR) is unsuitable, and \u2022 the company provides the drug according to the commercial arrangement.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta689"
@@ -29918,7 +29918,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Acalabrutinib as monotherapy as an option for untreated chronic lymphocytic leukaemia (CLL) in adults, only if: \u2022 there is a 17p deletion or TP53 mutation, or \u2022 there is no 17p deletion or TP53 mutation, and fludarabine plus cyclophosphamide and rituximab (FCR), or bendamustine plus rituximab (BR) is unsuitable, and \u2022 the company provides the drug according to the commercial arrangement.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta689"
@@ -29933,7 +29933,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Pembrolizumab as an option for untreated metastatic colorectal cancer with high microsatellite instability (MSI) or mismatch repair (MMR) deficiency in adults, only if: \u2022 pembrolizumab is stopped after 2 years and no documented disease progression, and \u2022 the company provides pembrolizumab according to the commercial arrangement.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta709"
@@ -29948,7 +29948,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Pembrolizumab as an option for untreated metastatic colorectal cancer with high microsatellite instability (MSI) or mismatch repair (MMR) deficiency in adults, only if: \u2022 pembrolizumab is stopped after 2 years and no documented disease progression, and \u2022 the company provides pembrolizumab according to the commercial arrangement.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta709"
@@ -29963,7 +29963,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Pemigatinib, within its marketing authorisation, as a treatment option for treating locally advanced or metastatic cholangiocarcinoma with a fibroblast growth factor receptor 2 (FGFR2) fusion or rearrangement that has progressed after systemic therapy in adults. It is recommended only if the company provides pemigatinib according to the commercial arrangement.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta722"
@@ -29978,7 +29978,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Pemigatinib, within its marketing authorisation, as a treatment option for treating locally advanced or metastatic cholangiocarcinoma with a fibroblast growth factor receptor 2 (FGFR2) fusion or rearrangement that has progressed after systemic therapy in adults. It is recommended only if the company provides pemigatinib according to the commercial arrangement.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta722"
@@ -29993,7 +29993,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Dostarlimab for use within the Cancer Drugs Fund as an option for treating advanced or recurrent endometrial cancer with high microsatellite instability or mismatch repair deficiency in adults who have had platinum-based chemotherapy. It is recommended only if the conditions in the managed access agreement are followed.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta779"
@@ -30008,7 +30008,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Dostarlimab for use within the Cancer Drugs Fund as an option for treating advanced or recurrent endometrial cancer with high microsatellite instability or mismatch repair deficiency in adults who have had platinum-based chemotherapy. It is recommended only if the conditions in the managed access agreement are followed.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta779"
@@ -30023,7 +30023,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Tucatinib with trastuzumab and capecitabine, within its marketing authorisation, as a treatment option for treating HER2-positive locally advanced or metastatic breast cancer in adults after 2 or more anti-HER2 treatment therapies, only if the company provides tucatinib according to the commercial arrangement.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta786"
@@ -30038,7 +30038,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Venetoclax monotherapy, within its marketing authorisation, for treating chronic lymphocytic leukaemia (CLL) in adults: \u2022 with a 17p deletion or TP53 mutation and when a B-cell receptor pathway inhibitor is unsuitable, or whose disease has progressed after a B-cell receptor pathway inhibitor or \u2022 without a 17p deletion or TP53 mutation, and whose disease has progressed after both chemo-immunotherapy and a B-cell receptor pathway inhibitor. It is recommended only if the company provides venetoclax according to the commercial arrangement.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta796"
@@ -30053,7 +30053,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Venetoclax monotherapy, within its marketing authorisation, for treating chronic lymphocytic leukaemia (CLL) in adults: \u2022 with a 17p deletion or TP53 mutation and when a B-cell receptor pathway inhibitor is unsuitable, or whose disease has progressed after a B-cell receptor pathway inhibitor or \u2022 without a 17p deletion or TP53 mutation, and whose disease has progressed after both chemo-immunotherapy and a B-cell receptor pathway inhibitor. It is recommended only if the company provides venetoclax according to the commercial arrangement.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta796"
@@ -30068,7 +30068,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Durvalumab as an option for treating locally advanced unresectable non-small-cell lung cancer (NSCLC) in adults whose tumours express programmed cell death ligand 1 (PD-L1) on 1% or more of cells and whose disease has not progressed after platinum-based chemoradiation, only if: \u2022 they have had concurrent platinum-based chemoradiation \u2022 the company provides durvalumab according to the commercial arrangement.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta798"
@@ -30083,7 +30083,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended trastuzumab deruxtecan for use within the Cancer Drugs Fund as a treatment option for treating HER2-positive unresectable or metastatic breast cancer in adults after 1 or more anti-HER2-based regimens. It is recommended only if the conditions in the managed access agreement are followed.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta862"
@@ -30098,7 +30098,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Olaparib, within its marketing authorisation, as a treatment option for treating hormone-relapsed metastatic prostate cancer with BRCA1 or BRCA2 mutations that has progressed after a newer hormonal treatment (such as abiraterone or enzalutamide) in adults. Olaparib is only recommended if the company provides it according to the commercial arrangement.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta887"
@@ -30113,7 +30113,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Olaparib, within its marketing authorisation, as a treatment option for treating hormone-relapsed metastatic prostate cancer with BRCA1 or BRCA2 mutations that has progressed after a newer hormonal treatment (such as abiraterone or enzalutamide) in adults. Olaparib is only recommended if the company provides it according to the commercial arrangement.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta887"
@@ -30128,7 +30128,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Olaparib, within its marketing authorisation, as a treatment option for treating hormone-relapsed metastatic prostate cancer with BRCA1 or BRCA2 mutations that has progressed after a newer hormonal treatment (such as abiraterone or enzalutamide) in adults. Olaparib is only recommended if the company provides it according to the commercial arrangement.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta887"
@@ -30143,7 +30143,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Olaparib, within its marketing authorisation, as a treatment option for treating hormone-relapsed metastatic prostate cancer with BRCA1 or BRCA2 mutations that has progressed after a newer hormonal treatment (such as abiraterone or enzalutamide) in adults. Olaparib is only recommended if the company provides it according to the commercial arrangement.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta887"
@@ -30158,7 +30158,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Dabrafenib plus trametinib as an option for treating BRAF V600 mutation-positive advanced non-small-cell lung cancer (NSCLC) in adults, only if: it is used as first-line treatment of advanced stage cancer, and It is only recommended if the company provides it according to the commercial arrangement.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta898"
@@ -30173,7 +30173,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Dabrafenib plus trametinib as an option for treating BRAF V600 mutation-positive advanced non-small-cell lung cancer (NSCLC) in adults, only if: it is used as first-line treatment of advanced stage cancer, and It is only recommended if the company provides it according to the commercial arrangement.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta898"
@@ -30188,7 +30188,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has reviewed Selpercatinib. Selpercatinib is recommended with managed access as an option for treating RET fusion-positive advanced non-small-cell lung cancer (NSCLC) in adults, only if: \u2022 it is untreated \u2022 the conditions in the managed access agreement for selpercatinib are followed.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta911"
@@ -30203,7 +30203,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Zanubrutinib, within its marketing authorisation, as a treatment option for treating chronic lymphocytic leukaemia (CLL) in adults with a 17p deletion or TP53 mutation who have not had treatment before. It is recommended only if the company provides zanubrutinib according to the commercial arrangement.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta931"
@@ -30218,7 +30218,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Zanubrutinib, within its marketing authorisation, as a treatment option for treating chronic lymphocytic leukaemia (CLL) in adults with a 17p deletion or TP53 mutation who have not had treatment before. It is recommended only if the company provides zanubrutinib according to the commercial arrangement.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta931"
@@ -30233,7 +30233,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Olaparib, within its marketing authorisation, as a treatment option for maintenance treatment of BRCA mutation-positive, advanced (FIGO stages 3 and 4), high-grade epithelial ovarian, fallopian tube or primary peritoneal cancer that has responded to first-line platinum-based chemotherapy in adults. It is only recommended if the company provides it according to the commercial arrangement.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta962"
@@ -30248,7 +30248,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Olaparib, within its marketing authorisation, as a treatment option for maintenance treatment of BRCA mutation-positive, advanced (FIGO stages 3 and 4), high-grade epithelial ovarian, fallopian tube or primary peritoneal cancer that has responded to first-line platinum-based chemotherapy in adults. It is only recommended if the company provides it according to the commercial arrangement.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta962"
@@ -30263,7 +30263,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Olaparib, within its marketing authorisation, as a treatment option for maintenance treatment of BRCA mutation-positive, advanced (FIGO stages 3 and 4), high-grade epithelial ovarian, fallopian tube or primary peritoneal cancer that has responded to first-line platinum-based chemotherapy in adults. It is only recommended if the company provides it according to the commercial arrangement.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta962"
@@ -30278,7 +30278,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Olaparib, within its marketing authorisation, as a treatment option for maintenance treatment of BRCA mutation-positive, advanced (FIGO stages 3 and 4), high-grade epithelial ovarian, fallopian tube or primary peritoneal cancer that has responded to first-line platinum-based chemotherapy in adults. It is only recommended if the company provides it according to the commercial arrangement.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta962"
@@ -30293,7 +30293,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Olaparib, within its marketing authorisation, as a treatment option for maintenance treatment of BRCA mutation-positive, advanced (FIGO stages 3 and 4), high-grade epithelial ovarian, fallopian tube or primary peritoneal cancer that has responded to first-line platinum-based chemotherapy in adults. It is only recommended if the company provides it according to the commercial arrangement.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta962"
@@ -30308,7 +30308,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Olaparib, within its marketing authorisation, as a treatment option for maintenance treatment of BRCA mutation-positive, advanced (FIGO stages 3 and 4), high-grade epithelial ovarian, fallopian tube or primary peritoneal cancer that has responded to first-line platinum-based chemotherapy in adults. It is only recommended if the company provides it according to the commercial arrangement.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta962"
@@ -30323,7 +30323,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Olaparib, within its marketing authorisation, as a treatment option for maintenance treatment of BRCA mutation-positive, advanced (FIGO stages 3 and 4), high-grade epithelial ovarian, fallopian tube or primary peritoneal cancer that has responded to first-line platinum-based chemotherapy in adults. It is only recommended if the company provides it according to the commercial arrangement.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta962"
@@ -30338,7 +30338,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Olaparib, within its marketing authorisation, as a treatment option for maintenance treatment of BRCA mutation-positive, advanced (FIGO stages 3 and 4), high-grade epithelial ovarian, fallopian tube or primary peritoneal cancer that has responded to first-line platinum-based chemotherapy in adults. It is only recommended if the company provides it according to the commercial arrangement.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta962"
@@ -30353,7 +30353,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Olaparib, within its marketing authorisation, as a treatment option for maintenance treatment of BRCA mutation-positive, advanced (FIGO stages 3 and 4), high-grade epithelial ovarian, fallopian tube or primary peritoneal cancer that has responded to first-line platinum-based chemotherapy in adults. It is only recommended if the company provides it according to the commercial arrangement.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta962"
@@ -30368,7 +30368,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Olaparib, within its marketing authorisation, as a treatment option for maintenance treatment of BRCA mutation-positive, advanced (FIGO stages 3 and 4), high-grade epithelial ovarian, fallopian tube or primary peritoneal cancer that has responded to first-line platinum-based chemotherapy in adults. It is only recommended if the company provides it according to the commercial arrangement.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta962"
@@ -30383,7 +30383,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Olaparib, within its marketing authorisation, as a treatment option for maintenance treatment of BRCA mutation-positive, advanced (FIGO stages 3 and 4), high-grade epithelial ovarian, fallopian tube or primary peritoneal cancer that has responded to first-line platinum-based chemotherapy in adults. It is only recommended if the company provides it according to the commercial arrangement.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta962"
@@ -30398,7 +30398,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Olaparib, within its marketing authorisation, as a treatment option for maintenance treatment of BRCA mutation-positive, advanced (FIGO stages 3 and 4), high-grade epithelial ovarian, fallopian tube or primary peritoneal cancer that has responded to first-line platinum-based chemotherapy in adults. It is only recommended if the company provides it according to the commercial arrangement.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta962"
@@ -30413,7 +30413,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Dabrafenib with trametinib, within its marketing authorisation, as a treatment option for treating low-grade glioma (LGG) with a BRAF V600E mutation in children and young people aged 1 year and over who need systemic treatment  Dabrafenib with trametinib is only recommended if the company provides it according to the commercial arrangements.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta977"
@@ -30428,7 +30428,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Dabrafenib with trametinib, within its marketing authorisation, as a treatment option for treating:high-grade glioma (HGG) with a BRAF V600E mutation in children and young people aged 1 year and over after at least 1 radiation or chemotherapy treatment.. Dabrafenib with trametinib is only recommended if the company provides it according to the commercial arrangements.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta977"
@@ -30443,7 +30443,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Futibatinib, within its marketing authorisation, as a treatment option for treating locally advanced or metastatic cholangiocarcinoma with a fibroblast growth factor receptor 2 (FGFR2) fusion or rearrangement that has progressed after at least 1 line of systemic treatment in adults. Futibatinib is only recommended if the company provides it according to the commercial arrangement.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta1005"
@@ -30458,7 +30458,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Futibatinib, within its marketing authorisation, as a treatment option for treating locally advanced or metastatic cholangiocarcinoma with a fibroblast growth factor receptor 2 (FGFR2) fusion or rearrangement that has progressed after at least 1 line of systemic treatment in adults. Futibatinib is only recommended if the company provides it according to the commercial arrangement.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta1005"
@@ -30473,7 +30473,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Alectinib, within its marketing authorisation, as a treatment option for the adjuvant treatment of stage 1B (tumours 4 cm or larger) to 3A ALK-positive nonsmall-cell lung cancer (NSCLC) after complete tumour resection in adults. It is only recommended if the company provides it according to the commercial arrangement.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta1014"
@@ -30488,7 +30488,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Elacestrant as an option for treating oestrogen receptor (ER)- positive HER2-negative locally advanced or metastatic breast cancer with an activating ESR1 mutation that has progressed after at least 1 line of endocrine treatment plus a cyclin-dependent kinase (CDK) 4 and 6 inhibitor in: the cancer has progressed after at least 12 months of endocrine treatment plus a CDK 4 and 6 inhibitor, and It is only recommended if women, trans men and non-binary people who have been through the menopause; trans women and men. Elacestrant is recommended only if:; the company provides it according to the commercial arrangement.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta1036"
@@ -30503,7 +30503,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Selpercatinib as an option for treating RET fusion-positive advanced non-small-cell lung cancer (NSCLC) that has not been treated with a RET inhibitor in adults, only if: \u2022 it has been treated before and \u2022 the company provides selpercatinib according to the commercial arrangement.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta1042"
@@ -30518,7 +30518,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Osimertinib, within its marketing authorisation, as a treatment option for the adjuvant treatment of stage 1b to 3a non-small-cell lung cancer (NSCLC) after complete tumour resection. It is for adults whose tumours have epidermal growth factor receptor (EGFR) exon 19 deletions or EGFR exon 21 (L858R) substitution mutations. It is only recommended if: \u2022 osimertinib is stopped at 3 years, or earlier if there is disease recurrence or unacceptable toxicity and \u2022 the company provides it according to the commercial arrangement.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta1043"
@@ -30533,7 +30533,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Osimertinib, within its marketing authorisation, as a treatment option for the adjuvant treatment of stage 1b to 3a non-small-cell lung cancer (NSCLC) after complete tumour resection. It is for adults whose tumours have epidermal growth factor receptor (EGFR) exon 19 deletions or EGFR exon 21 (L858R) substitution mutations. It is only recommended if: \u2022 osimertinib is stopped at 3 years, or earlier if there is disease recurrence or unacceptable toxicity and \u2022 the company provides it according to the commercial arrangement.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta1043"
@@ -30548,7 +30548,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Brentuximab vedotin plus doxorubicin, dacarbazine and vinblastine, within its marketing authorisation, as a treatment option for untreated stage 3 or 4 CD30-positive Hodgkin lymphoma in adults. It can only be used if the company provides it according to the commercial arrangement.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta1059"
@@ -30563,7 +30563,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has approved Nivolumab plus ipilimumab, within its marketing authorisation, as an option for untreated unresectable or metastatic colorectal cancer with high microsatellite instability or mismatch repair deficiency in adults. Nivolumab plus ipilimumab can be used only if the company provides it according to the commercial arrangements. What this means in practice Nivolumab plus ipilimumab must be funded in the NHS in England for the condition and population in the recommendation, if it is considered the most suitable treatment option. Nivolumab plus ipilimumab must be funded in England within 90 days of final publication of this guidance. There is enough evidence to show that nivolumab plus ipilimumab provides clinical benefits and value for money, so it can be used routinely across the NHS in this population. NICE has produced tools and resources to support the implementation of this guidance.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta1065"
@@ -30578,7 +30578,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has approved Nivolumab plus ipilimumab, within its marketing authorisation, as an option for untreated unresectable or metastatic colorectal cancer with high microsatellite instability or mismatch repair deficiency in adults. Nivolumab plus ipilimumab can be used only if the company provides it according to the commercial arrangements. What this means in practice Nivolumab plus ipilimumab must be funded in the NHS in England for the condition and population in the recommendation, if it is considered the most suitable treatment option. Nivolumab plus ipilimumab must be funded in England within 90 days of final publication of this guidance. There is enough evidence to show that nivolumab plus ipilimumab provides clinical benefits and value for money, so it can be used routinely across the NHS in this population. NICE has produced tools and resources to support the implementation of this guidance.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta1065"
@@ -30593,7 +30593,7 @@
     "type": "Statement",
     "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Atezolizumab, within its marketing authorisation, as a treatment option for the adjuvant treatment of non-small-cell lung cancer (NSCLC) after complete resection and platinum-based chemotherapy in adults at high risk of recurrence whose tumours express PD-L1 on 50% or more of tumour cells and are not EGFR-mutant or ALK-positive. It is recommended only if the company provides atezolizumab according to the commercial arrangement.",
     "contributions": [
-      0
+      100
     ],
     "reportedIn": [
       "doc:nice.ta1071"

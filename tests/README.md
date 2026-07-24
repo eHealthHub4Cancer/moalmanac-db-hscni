@@ -4,7 +4,7 @@ This directory contains tests for this repository, using [pytest](https://docs.p
 ### Structure
 Tests are organized by type data being tested. The files are:
 - [`conftest.py`](conftest.py) - shared fixtures to be used by all tests, such as loading data files.
-- [`helpers.py](helpers.py) - helper functions for tests.
+- [`helpers.py`](helpers.py) - helper functions for tests.
 - [`test_dates.py`](test_dates.py) - checks that date fields are logically consistent.
 - [`test_formatting.py`](test_formatting.py) - checks for formatting conventions in strings.
 - [`test_hygiene.py`](test_hygiene.py) - checks that field values within a single dataset are entered as expected.

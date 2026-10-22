@@ -508,6 +508,17 @@
                         ]
                       }
                     }
+                  },
+                  {
+                    "$ref": "extension.schema.json",
+                    "properties": {
+                      "name": {
+                        "const": "statement description"
+                      },
+                      "value": {
+                        "type": "string"
+                      }
+                    }
                   }
                 ]
               },

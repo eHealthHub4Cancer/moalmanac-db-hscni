@@ -78,14 +78,14 @@
           "description": "The publication date for the initial version of this document."
         },
         {
-          "name": "identification_number",
-          "value": 458,
-          "description": "Identification number used by the publishing organization."
-        },
-        {
           "name": "publication_date",
           "value": "2017-07-19",
           "description": "The publication date for the document."
+        },
+        {
+          "name": "regulatory_identifier",
+          "value": "TA458",
+          "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
         },
         {
           "name": "status",
@@ -149,26 +149,26 @@
         {
           "relation": "relatedMatch",
           "coding": {
-            "id": "coding:sctid:702836004",
-            "code": "702836004",
-            "name": "Trastuzumab emtansine",
-            "system": "SNOMED",
-            "systemVersion": "2025-03-01",
+            "id": "coding:rxcui:1371041",
+            "code": "1371041",
+            "name": "ado-trastuzumab emtansine",
+            "system": "RxNorm",
+            "systemVersion": "02-Mar-2026",
             "iris": [
-              "https://browser.ihtsdotools.org/?perspective=full&conceptId1=702836004&edition=MAIN/2025-03-01&release=&languages=en"
+              "https://mor.nlm.nih.gov/RxNav/search?searchBy=RXCUI&searchTerm=1371041"
             ]
           }
         },
         {
           "relation": "relatedMatch",
           "coding": {
-            "id": "coding:omop:45765811",
-            "code": "45765811",
-            "name": "Trastuzumab emtansine",
+            "id": "coding:omop:43525787",
+            "code": "43525787",
+            "name": "ado-trastuzumab emtansine",
             "system": "OMOP",
             "systemVersion": "v20260227",
             "iris": [
-              "https://athena.ohdsi.org/search-terms/terms/45765811"
+              "https://athena.ohdsi.org/search-terms/terms/43525787"
             ]
           }
         }
@@ -343,14 +343,14 @@
                 "description": "The publication date for the initial version of this document."
               },
               {
-                "name": "identification_number",
-                "value": 458,
-                "description": "Identification number used by the publishing organization."
-              },
-              {
                 "name": "publication_date",
                 "value": "2017-07-19",
                 "description": "The publication date for the document."
+              },
+              {
+                "name": "regulatory_identifier",
+                "value": "TA458",
+                "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
               },
               {
                 "name": "status",

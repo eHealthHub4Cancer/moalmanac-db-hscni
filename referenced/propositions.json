@@ -341,7 +341,7 @@
     "biomarker_criteria": [
       "bmkr.criterion:79"
     ],
-    "conditionQualifier_id": "dis:ncit:C3182",
+    "conditionQualifier_id": "dis:ncit:C208352",
     "therapy_id": "tx:ncit:C1005",
     "therapy_group_id": null
   },
@@ -587,7 +587,7 @@
     "biomarker_criteria": [
       "bmkr.criterion:20"
     ],
-    "conditionQualifier_id": "dis:ncit:C9296",
+    "conditionQualifier_id": "dis:ncit:C203675",
     "therapy_id": "tx:ncit:C1794",
     "therapy_group_id": null
   },
@@ -3672,7 +3672,7 @@
       "bmkr.criterion:20",
       "bmkr.criterion:42"
     ],
-    "conditionQualifier_id": "dis:ncit:C9296",
+    "conditionQualifier_id": "dis:ncit:C203675",
     "therapy_id": null,
     "therapy_group_id": "txgrp:53"
   },
@@ -3684,7 +3684,7 @@
       "bmkr.criterion:20",
       "bmkr.criterion:42"
     ],
-    "conditionQualifier_id": "dis:ncit:C9296",
+    "conditionQualifier_id": "dis:ncit:C203675",
     "therapy_id": null,
     "therapy_group_id": "txgrp:54"
   },
@@ -3695,7 +3695,7 @@
     "biomarker_criteria": [
       "bmkr.criterion:2"
     ],
-    "conditionQualifier_id": "dis:ncit:C9296",
+    "conditionQualifier_id": "dis:ncit:C203675",
     "therapy_id": null,
     "therapy_group_id": "txgrp:55"
   },
@@ -3706,7 +3706,7 @@
     "biomarker_criteria": [
       "bmkr.criterion:2"
     ],
-    "conditionQualifier_id": "dis:ncit:C9296",
+    "conditionQualifier_id": "dis:ncit:C203675",
     "therapy_id": null,
     "therapy_group_id": "txgrp:56"
   },
@@ -4733,7 +4733,7 @@
     "biomarker_criteria": [
       "bmkr.criterion:20"
     ],
-    "conditionQualifier_id": "dis:ncit:C9296",
+    "conditionQualifier_id": "dis:ncit:C203675",
     "therapy_id": "tx:ncit:C1647",
     "therapy_group_id": null
   },
@@ -4777,7 +4777,7 @@
     "biomarker_criteria": [
       "bmkr.criterion:20"
     ],
-    "conditionQualifier_id": "dis:ncit:C9296",
+    "conditionQualifier_id": "dis:ncit:C203675",
     "therapy_id": "tx:ncit:C128799",
     "therapy_group_id": null
   },
@@ -5789,7 +5789,7 @@
       "bmkr.criterion:2",
       "bmkr.criterion:103"
     ],
-    "conditionQualifier_id": "dis:ncit:C9296",
+    "conditionQualifier_id": "dis:ncit:C203675",
     "therapy_id": null,
     "therapy_group_id": "txgrp:96"
   },
@@ -5801,7 +5801,7 @@
       "bmkr.criterion:2",
       "bmkr.criterion:103"
     ],
-    "conditionQualifier_id": "dis:ncit:C9296",
+    "conditionQualifier_id": "dis:ncit:C203675",
     "therapy_id": null,
     "therapy_group_id": "txgrp:97"
   },
@@ -6121,7 +6121,7 @@
     "biomarker_criteria": [
       "bmkr.criterion:21"
     ],
-    "conditionQualifier_id": "dis:ncit:C9296",
+    "conditionQualifier_id": "dis:ncit:C203675",
     "therapy_id": "tx:ncit:C128799",
     "therapy_group_id": null
   },
@@ -6676,7 +6676,7 @@
       "bmkr.criterion:20",
       "bmkr.criterion:42"
     ],
-    "conditionQualifier_id": "dis:ncit:C9296",
+    "conditionQualifier_id": "dis:ncit:C203675",
     "therapy_id": null,
     "therapy_group_id": "txgrp:122"
   },
@@ -6688,7 +6688,7 @@
       "bmkr.criterion:2",
       "bmkr.criterion:42"
     ],
-    "conditionQualifier_id": "dis:ncit:C9296",
+    "conditionQualifier_id": "dis:ncit:C203675",
     "therapy_id": null,
     "therapy_group_id": "txgrp:55"
   },
@@ -6700,7 +6700,7 @@
       "bmkr.criterion:2",
       "bmkr.criterion:42"
     ],
-    "conditionQualifier_id": "dis:ncit:C9296",
+    "conditionQualifier_id": "dis:ncit:C203675",
     "therapy_id": null,
     "therapy_group_id": "txgrp:120"
   },
@@ -7709,8 +7709,7 @@
     "type": "VariantTherapeuticResponseProposition",
     "predicate": "predictsSensitivityTo",
     "biomarker_criteria": [
-      "bmkr.criterion:0",
-      "bmkr.criterion:2"
+      "bmkr.criterion:0"
     ],
     "conditionQualifier_id": "dis:ncit:C9357",
     "therapy_id": null,
@@ -7736,7 +7735,7 @@
       "bmkr.criterion:41",
       "bmkr.criterion:2"
     ],
-    "conditionQualifier_id": "dis:ncit:C9296",
+    "conditionQualifier_id": "dis:ncit:C203675",
     "therapy_id": null,
     "therapy_group_id": "txgrp:156"
   },
@@ -8458,7 +8457,7 @@
     "biomarker_criteria": [
       "bmkr.criterion:172"
     ],
-    "conditionQualifier_id": "dis:ncit:C3182",
+    "conditionQualifier_id": "dis:ncit:C208352",
     "therapy_id": "tx:ncit:C1005",
     "therapy_group_id": null
   },
@@ -8822,7 +8821,7 @@
     "biomarker_criteria": [
       "bmkr.criterion:175"
     ],
-    "conditionQualifier_id": "dis:ncit:C9296",
+    "conditionQualifier_id": "dis:ncit:C203675",
     "therapy_id": null,
     "therapy_group_id": "txgrp:188"
   },
@@ -8833,7 +8832,7 @@
     "biomarker_criteria": [
       "bmkr.criterion:175"
     ],
-    "conditionQualifier_id": "dis:ncit:C9296",
+    "conditionQualifier_id": "dis:ncit:C203675",
     "therapy_id": null,
     "therapy_group_id": "txgrp:185"
   },
@@ -9091,7 +9090,7 @@
       "bmkr.criterion:2",
       "bmkr.criterion:178"
     ],
-    "conditionQualifier_id": "dis:ncit:C9296",
+    "conditionQualifier_id": "dis:ncit:C203675",
     "therapy_id": null,
     "therapy_group_id": "txgrp:188"
   },
@@ -9103,7 +9102,7 @@
       "bmkr.criterion:2",
       "bmkr.criterion:178"
     ],
-    "conditionQualifier_id": "dis:ncit:C9296",
+    "conditionQualifier_id": "dis:ncit:C203675",
     "therapy_id": null,
     "therapy_group_id": "txgrp:185"
   },
@@ -9115,7 +9114,7 @@
       "bmkr.criterion:42",
       "bmkr.criterion:2"
     ],
-    "conditionQualifier_id": "dis:ncit:C9296",
+    "conditionQualifier_id": "dis:ncit:C203675",
     "therapy_id": null,
     "therapy_group_id": "txgrp:188"
   },
@@ -9127,7 +9126,7 @@
       "bmkr.criterion:42",
       "bmkr.criterion:2"
     ],
-    "conditionQualifier_id": "dis:ncit:C9296",
+    "conditionQualifier_id": "dis:ncit:C203675",
     "therapy_id": null,
     "therapy_group_id": "txgrp:185"
   },
@@ -9875,8 +9874,377 @@
       "bmkr.criterion:2",
       "bmkr.criterion:42"
     ],
-    "conditionQualifier_id": "dis:ncit:C9296",
+    "conditionQualifier_id": "dis:ncit:C203675",
     "therapy_id": null,
-    "therapy_group_id": "txgrp:213"
+    "therapy_group_id": "txgrp:56"
+  },
+  {
+    "id": "prop:vtxr:965",
+    "type": "VariantTherapeuticResponseProposition",
+    "predicate": "predictsSensitivityTo",
+    "biomarker_criteria": [
+      "bmkr.criterion:1",
+      "bmkr.criterion:20"
+    ],
+    "conditionQualifier_id": "dis:ncit:C9245",
+    "therapy_id": null,
+    "therapy_group_id": "txgrp:214"
+  },
+  {
+    "id": "prop:vtxr:966",
+    "type": "VariantTherapeuticResponseProposition",
+    "predicate": "predictsSensitivityTo",
+    "biomarker_criteria": [
+      "bmkr.criterion:3",
+      "bmkr.criterion:20"
+    ],
+    "conditionQualifier_id": "dis:ncit:C9245",
+    "therapy_id": null,
+    "therapy_group_id": "txgrp:214"
+  },
+  {
+    "id": "prop:vtxr:967",
+    "type": "VariantTherapeuticResponseProposition",
+    "predicate": "predictsSensitivityTo",
+    "biomarker_criteria": [
+      "bmkr.criterion:1",
+      "bmkr.criterion:20"
+    ],
+    "conditionQualifier_id": "dis:ncit:C9245",
+    "therapy_id": null,
+    "therapy_group_id": "txgrp:215"
+  },
+  {
+    "id": "prop:vtxr:968",
+    "type": "VariantTherapeuticResponseProposition",
+    "predicate": "predictsSensitivityTo",
+    "biomarker_criteria": [
+      "bmkr.criterion:3",
+      "bmkr.criterion:20"
+    ],
+    "conditionQualifier_id": "dis:ncit:C9245",
+    "therapy_id": null,
+    "therapy_group_id": "txgrp:215"
+  },
+  {
+    "id": "prop:vtxr:969",
+    "type": "VariantTherapeuticResponseProposition",
+    "predicate": "predictsSensitivityTo",
+    "biomarker_criteria": [
+      "bmkr.criterion:1",
+      "bmkr.criterion:20"
+    ],
+    "conditionQualifier_id": "dis:ncit:C9245",
+    "therapy_id": null,
+    "therapy_group_id": "txgrp:216"
+  },
+  {
+    "id": "prop:vtxr:970",
+    "type": "VariantTherapeuticResponseProposition",
+    "predicate": "predictsSensitivityTo",
+    "biomarker_criteria": [
+      "bmkr.criterion:3",
+      "bmkr.criterion:20"
+    ],
+    "conditionQualifier_id": "dis:ncit:C9245",
+    "therapy_id": null,
+    "therapy_group_id": "txgrp:216"
+  },
+  {
+    "id": "prop:vtxr:971",
+    "type": "VariantTherapeuticResponseProposition",
+    "predicate": "predictsSensitivityTo",
+    "biomarker_criteria": [
+      "bmkr.criterion:1",
+      "bmkr.criterion:20"
+    ],
+    "conditionQualifier_id": "dis:ncit:C9245",
+    "therapy_id": null,
+    "therapy_group_id": "txgrp:217"
+  },
+  {
+    "id": "prop:vtxr:972",
+    "type": "VariantTherapeuticResponseProposition",
+    "predicate": "predictsSensitivityTo",
+    "biomarker_criteria": [
+      "bmkr.criterion:3",
+      "bmkr.criterion:20"
+    ],
+    "conditionQualifier_id": "dis:ncit:C9245",
+    "therapy_id": null,
+    "therapy_group_id": "txgrp:217"
+  },
+  {
+    "id": "prop:vtxr:973",
+    "type": "VariantTherapeuticResponseProposition",
+    "predicate": "predictsSensitivityTo",
+    "biomarker_criteria": [
+      "bmkr.criterion:1",
+      "bmkr.criterion:20"
+    ],
+    "conditionQualifier_id": "dis:ncit:C9245",
+    "therapy_id": null,
+    "therapy_group_id": "txgrp:218"
+  },
+  {
+    "id": "prop:vtxr:974",
+    "type": "VariantTherapeuticResponseProposition",
+    "predicate": "predictsSensitivityTo",
+    "biomarker_criteria": [
+      "bmkr.criterion:3",
+      "bmkr.criterion:20"
+    ],
+    "conditionQualifier_id": "dis:ncit:C9245",
+    "therapy_id": null,
+    "therapy_group_id": "txgrp:218"
+  },
+  {
+    "id": "prop:vtxr:975",
+    "type": "VariantTherapeuticResponseProposition",
+    "predicate": "predictsSensitivityTo",
+    "biomarker_criteria": [
+      "bmkr.criterion:1",
+      "bmkr.criterion:20"
+    ],
+    "conditionQualifier_id": "dis:ncit:C9245",
+    "therapy_id": null,
+    "therapy_group_id": "txgrp:219"
+  },
+  {
+    "id": "prop:vtxr:976",
+    "type": "VariantTherapeuticResponseProposition",
+    "predicate": "predictsSensitivityTo",
+    "biomarker_criteria": [
+      "bmkr.criterion:3",
+      "bmkr.criterion:20"
+    ],
+    "conditionQualifier_id": "dis:ncit:C9245",
+    "therapy_id": null,
+    "therapy_group_id": "txgrp:219"
+  },
+  {
+    "id": "prop:vtxr:977",
+    "type": "VariantTherapeuticResponseProposition",
+    "predicate": "predictsSensitivityTo",
+    "biomarker_criteria": [
+      "bmkr.criterion:1",
+      "bmkr.criterion:20"
+    ],
+    "conditionQualifier_id": "dis:ncit:C9245",
+    "therapy_id": null,
+    "therapy_group_id": "txgrp:220"
+  },
+  {
+    "id": "prop:vtxr:978",
+    "type": "VariantTherapeuticResponseProposition",
+    "predicate": "predictsSensitivityTo",
+    "biomarker_criteria": [
+      "bmkr.criterion:3",
+      "bmkr.criterion:20"
+    ],
+    "conditionQualifier_id": "dis:ncit:C9245",
+    "therapy_id": null,
+    "therapy_group_id": "txgrp:220"
+  },
+  {
+    "id": "prop:vtxr:979",
+    "type": "VariantTherapeuticResponseProposition",
+    "predicate": "predictsSensitivityTo",
+    "biomarker_criteria": [
+      "bmkr.criterion:1",
+      "bmkr.criterion:20"
+    ],
+    "conditionQualifier_id": "dis:ncit:C9245",
+    "therapy_id": null,
+    "therapy_group_id": "txgrp:221"
+  },
+  {
+    "id": "prop:vtxr:980",
+    "type": "VariantTherapeuticResponseProposition",
+    "predicate": "predictsSensitivityTo",
+    "biomarker_criteria": [
+      "bmkr.criterion:3",
+      "bmkr.criterion:20"
+    ],
+    "conditionQualifier_id": "dis:ncit:C9245",
+    "therapy_id": null,
+    "therapy_group_id": "txgrp:221"
+  },
+  {
+    "id": "prop:vtxr:981",
+    "type": "VariantTherapeuticResponseProposition",
+    "predicate": "predictsSensitivityTo",
+    "biomarker_criteria": [
+      "bmkr.criterion:20"
+    ],
+    "conditionQualifier_id": "dis:ncit:C9245",
+    "therapy_id": null,
+    "therapy_group_id": "txgrp:222"
+  },
+  {
+    "id": "prop:vtxr:982",
+    "type": "VariantTherapeuticResponseProposition",
+    "predicate": "predictsSensitivityTo",
+    "biomarker_criteria": [
+      "bmkr.criterion:1",
+      "bmkr.criterion:2",
+      "bmkr.criterion:58"
+    ],
+    "conditionQualifier_id": "dis:ncit:C9245",
+    "therapy_id": "tx:ncit:C165420",
+    "therapy_group_id": null
+  },
+  {
+    "id": "prop:vtxr:983",
+    "type": "VariantTherapeuticResponseProposition",
+    "predicate": "predictsSensitivityTo",
+    "biomarker_criteria": [
+      "bmkr.criterion:156"
+    ],
+    "conditionQualifier_id": "dis:ncit:C4436",
+    "therapy_id": "tx:ncit:C152948",
+    "therapy_group_id": null
+  },
+  {
+    "id": "prop:vtxr:984",
+    "type": "VariantTherapeuticResponseProposition",
+    "predicate": "predictsSensitivityTo",
+    "biomarker_criteria": [
+      "bmkr.criterion:41",
+      "bmkr.criterion:43",
+      "bmkr.criterion:2",
+      "bmkr.criterion:44"
+    ],
+    "conditionQualifier_id": "dis:ncit:C9245",
+    "therapy_id": null,
+    "therapy_group_id": "txgrp:223"
+  },
+  {
+    "id": "prop:vtxr:985",
+    "type": "VariantTherapeuticResponseProposition",
+    "predicate": "predictsSensitivityTo",
+    "biomarker_criteria": [
+      "bmkr.criterion:191"
+    ],
+    "conditionQualifier_id": "dis:ncit:C2919",
+    "therapy_id": null,
+    "therapy_group_id": "txgrp:224"
+  },
+  {
+    "id": "prop:vtxr:986",
+    "type": "VariantTherapeuticResponseProposition",
+    "predicate": "predictsSensitivityTo",
+    "biomarker_criteria": [
+      "bmkr.criterion:12"
+    ],
+    "conditionQualifier_id": "dis:ncit:C3167",
+    "therapy_id": "tx:ncit:C95777",
+    "therapy_group_id": null
+  },
+  {
+    "id": "prop:vtxr:987",
+    "type": "VariantTherapeuticResponseProposition",
+    "predicate": "predictsSensitivityTo",
+    "biomarker_criteria": [
+      "bmkr.criterion:14",
+      "bmkr.criterion:12"
+    ],
+    "conditionQualifier_id": "dis:ncit:C3167",
+    "therapy_id": "tx:ncit:C62528",
+    "therapy_group_id": null
+  },
+  {
+    "id": "prop:vtxr:988",
+    "type": "VariantTherapeuticResponseProposition",
+    "predicate": "predictsSensitivityTo",
+    "biomarker_criteria": [
+      "bmkr.criterion:13",
+      "bmkr.criterion:12"
+    ],
+    "conditionQualifier_id": "dis:ncit:C3167",
+    "therapy_id": "tx:ncit:C71542",
+    "therapy_group_id": null
+  },
+  {
+    "id": "prop:vtxr:989",
+    "type": "VariantTherapeuticResponseProposition",
+    "predicate": "predictsSensitivityTo",
+    "biomarker_criteria": [
+      "bmkr.criterion:84"
+    ],
+    "conditionQualifier_id": "dis:ncit:C3163",
+    "therapy_id": "tx:ncit:C113442",
+    "therapy_group_id": null
+  },
+  {
+    "id": "prop:vtxr:990",
+    "type": "VariantTherapeuticResponseProposition",
+    "predicate": "predictsSensitivityTo",
+    "biomarker_criteria": [
+      "bmkr.criterion:83"
+    ],
+    "conditionQualifier_id": "dis:ncit:C3163",
+    "therapy_id": "tx:ncit:C113442",
+    "therapy_group_id": null
+  },
+  {
+    "id": "prop:vtxr:991",
+    "type": "VariantTherapeuticResponseProposition",
+    "predicate": "predictsSensitivityTo",
+    "biomarker_criteria": [
+      "bmkr.criterion:41"
+    ],
+    "conditionQualifier_id": "dis:ncit:C4024",
+    "therapy_id": null,
+    "therapy_group_id": "txgrp:55"
+  },
+  {
+    "id": "prop:vtxr:992",
+    "type": "VariantTherapeuticResponseProposition",
+    "predicate": "predictsSensitivityTo",
+    "biomarker_criteria": [
+      "bmkr.criterion:41"
+    ],
+    "conditionQualifier_id": "dis:ncit:C4024",
+    "therapy_id": "tx:ncit:C106432",
+    "therapy_group_id": null
+  },
+  {
+    "id": "prop:vtxr:993",
+    "type": "VariantTherapeuticResponseProposition",
+    "predicate": "predictsSensitivityTo",
+    "biomarker_criteria": [
+      "bmkr.criterion:2",
+      "bmkr.criterion:3",
+      "bmkr.criterion:88"
+    ],
+    "conditionQualifier_id": "dis:ncit:C9245",
+    "therapy_id": null,
+    "therapy_group_id": "txgrp:12"
+  },
+  {
+    "id": "prop:vtxr:994",
+    "type": "VariantTherapeuticResponseProposition",
+    "predicate": "predictsSensitivityTo",
+    "biomarker_criteria": [
+      "bmkr.criterion:1",
+      "bmkr.criterion:2",
+      "bmkr.criterion:3",
+      "bmkr.criterion:88"
+    ],
+    "conditionQualifier_id": "dis:ncit:C9245",
+    "therapy_id": null,
+    "therapy_group_id": "txgrp:12"
+  },
+  {
+    "id": "prop:vtxr:995",
+    "type": "VariantTherapeuticResponseProposition",
+    "predicate": "predictsSensitivityTo",
+    "biomarker_criteria": [
+      "bmkr.criterion:179"
+    ],
+    "conditionQualifier_id": "dis:ncit:C2926",
+    "therapy_id": "tx:ncit:C65530",
+    "therapy_group_id": null
   }
 ]

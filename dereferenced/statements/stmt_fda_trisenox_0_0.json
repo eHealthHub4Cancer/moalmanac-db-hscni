@@ -91,18 +91,81 @@
           "description": "The publication date for the initial version of this document."
         },
         {
-          "name": "identification_number",
-          "value": 21248,
-          "description": "Identification number used by the publishing organization."
-        },
-        {
           "name": "publication_date",
           "value": "2020-10-20",
           "description": "The publication date for the document."
         },
         {
+          "name": "regulatory_identifier",
+          "value": "NDA021248",
+          "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
+        },
+        {
           "name": "status",
           "value": "Active",
+          "description": "Whether this document is Active or Deprecated within moalmanac-db."
+        }
+      ]
+    },
+    {
+      "id": "doc:fda:trisenox:2018-01-12",
+      "type": "Document",
+      "documentType": "Regulatory approval",
+      "name": "Trisenox (arsenic trioxide) [package insert]. FDA.",
+      "title": null,
+      "aliases": [],
+      "description": "Cephalon, Inc. Trisenox (arsenic trioxide) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/021248s015lbledt.pdf. Revised January 2018. Accessed October 6, 2026.",
+      "urls": [
+        "https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/021248s015lbledt.pdf",
+        "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=021248"
+      ],
+      "doi": null,
+      "pmid": null,
+      "extensions": [
+        {
+          "name": "agent",
+          "value": {
+            "id": "agent:org:fda",
+            "type": "Agent",
+            "agentType": "organization",
+            "name": "Food and Drug Administration",
+            "description": "Regulatory agency that approves drugs for use in the United States."
+          },
+          "description": "The organization that published this document."
+        },
+        {
+          "name": "company",
+          "value": "Cephalon, Inc.",
+          "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
+        },
+        {
+          "name": "drug_name_brand",
+          "value": "Trisenox",
+          "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
+        },
+        {
+          "name": "drug_name_generic",
+          "value": "arsenic trioxide",
+          "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
+        },
+        {
+          "name": "first_publication_date",
+          "value": null,
+          "description": "The publication date for the initial version of this document."
+        },
+        {
+          "name": "publication_date",
+          "value": "2018-01-12",
+          "description": "The publication date for the document."
+        },
+        {
+          "name": "regulatory_identifier",
+          "value": "NDA021248",
+          "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
+        },
+        {
+          "name": "status",
+          "value": "Deprecated",
           "description": "Whether this document is Active or Deprecated within moalmanac-db."
         }
       ]
@@ -118,12 +181,12 @@
       "description": "Placeholder. Cat-VRS does not yet support sets of categorical variants. See the 'biomarkers' extension for biomarkers associated with this Proposition."
     },
     "conditionQualifier": {
-      "id": "dis:ncit:C3182",
+      "id": "dis:ncit:C208352",
       "conceptType": "Disease",
-      "name": "Acute Promyelocytic Leukemia with PML::RARA",
+      "name": "Acute Promyelocytic Leukemia",
       "mappings": [
         {
-          "relation": "exactMatch",
+          "relation": "narrowMatch",
           "coding": {
             "id": "coding:oncotree:APLPMLRARA",
             "code": "APLPMLRARA",
@@ -144,13 +207,13 @@
         }
       ],
       "primaryCoding": {
-        "id": "coding:ncit:C3182",
-        "code": "C3182",
-        "name": "Acute Promyelocytic Leukemia with t(15;17)(q24.1;q21.2); PML-RARA",
+        "id": "coding:ncit:C208352",
+        "code": "C208352",
+        "name": "Acute Promyelocytic Leukemia",
         "system": "https://evsexplore.semantics.cancer.gov",
         "systemVersion": "26.08e",
         "iris": [
-          "https://evsexplore.semantics.cancer.gov/evsexplore/concept/ncit/C3182"
+          "https://evsexplore.semantics.cancer.gov/evsexplore/concept/ncit/C208352"
         ]
       }
     },
@@ -182,32 +245,6 @@
             "systemVersion": "v20260227",
             "iris": [
               "https://athena.ohdsi.org/search-terms/terms/1333379"
-            ]
-          }
-        },
-        {
-          "relation": "relatedMatch",
-          "coding": {
-            "id": "coding:sctid:72251000",
-            "code": "72251000",
-            "name": "Arsenic trioxide",
-            "system": "SNOMED",
-            "systemVersion": "2025-03-01",
-            "iris": [
-              "https://browser.ihtsdotools.org/?perspective=full&conceptId1=72251000&edition=MAIN/2025-03-01&release=&languages=en"
-            ]
-          }
-        },
-        {
-          "relation": "relatedMatch",
-          "coding": {
-            "id": "coding:omop:4218959",
-            "code": "4218959",
-            "name": "Arsenic trioxide",
-            "system": "OMOP",
-            "systemVersion": "v20260227",
-            "iris": [
-              "https://athena.ohdsi.org/search-terms/terms/4218959"
             ]
           }
         }
@@ -482,18 +519,81 @@
                 "description": "The publication date for the initial version of this document."
               },
               {
-                "name": "identification_number",
-                "value": 21248,
-                "description": "Identification number used by the publishing organization."
-              },
-              {
                 "name": "publication_date",
                 "value": "2020-10-20",
                 "description": "The publication date for the document."
               },
               {
+                "name": "regulatory_identifier",
+                "value": "NDA021248",
+                "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
+              },
+              {
                 "name": "status",
                 "value": "Active",
+                "description": "Whether this document is Active or Deprecated within moalmanac-db."
+              }
+            ]
+          },
+          {
+            "id": "doc:fda:trisenox:2018-01-12",
+            "type": "Document",
+            "documentType": "Regulatory approval",
+            "name": "Trisenox (arsenic trioxide) [package insert]. FDA.",
+            "title": null,
+            "aliases": [],
+            "description": "Cephalon, Inc. Trisenox (arsenic trioxide) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/021248s015lbledt.pdf. Revised January 2018. Accessed October 6, 2026.",
+            "urls": [
+              "https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/021248s015lbledt.pdf",
+              "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=021248"
+            ],
+            "doi": null,
+            "pmid": null,
+            "extensions": [
+              {
+                "name": "agent",
+                "value": {
+                  "id": "agent:org:fda",
+                  "type": "Agent",
+                  "agentType": "organization",
+                  "name": "Food and Drug Administration",
+                  "description": "Regulatory agency that approves drugs for use in the United States."
+                },
+                "description": "The organization that published this document."
+              },
+              {
+                "name": "company",
+                "value": "Cephalon, Inc.",
+                "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
+              },
+              {
+                "name": "drug_name_brand",
+                "value": "Trisenox",
+                "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
+              },
+              {
+                "name": "drug_name_generic",
+                "value": "arsenic trioxide",
+                "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
+              },
+              {
+                "name": "first_publication_date",
+                "value": null,
+                "description": "The publication date for the initial version of this document."
+              },
+              {
+                "name": "publication_date",
+                "value": "2018-01-12",
+                "description": "The publication date for the document."
+              },
+              {
+                "name": "regulatory_identifier",
+                "value": "NDA021248",
+                "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
+              },
+              {
+                "name": "status",
+                "value": "Deprecated",
                 "description": "Whether this document is Active or Deprecated within moalmanac-db."
               }
             ]

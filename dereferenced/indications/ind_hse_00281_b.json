@@ -58,7 +58,7 @@
         },
         {
           "name": "company",
-          "value": "",
+          "value": null,
           "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
         },
         {
@@ -77,14 +77,14 @@
           "description": "The publication date for the initial version of this document."
         },
         {
-          "name": "identification_number",
-          "value": null,
-          "description": "Identification number used by the publishing organization."
-        },
-        {
           "name": "publication_date",
           "value": "2024-05-01",
           "description": "The publication date for the document."
+        },
+        {
+          "name": "regulatory_identifier",
+          "value": null,
+          "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
         },
         {
           "name": "status",
@@ -99,6 +99,11 @@
       "name": "status",
       "value": "Approved",
       "description": "Current approval status."
+    },
+    {
+      "name": "statement description",
+      "value": "The Republic of Ireland's Health Service Executive (HSE) has approved gemcitabine (1250mg/m^2) in combination with cisplatin (75mg/m^2) (21 day) and nivolumab for reimbursement as a treatment option for the neoadjuvant treatment of resectable NSCLC at high risk of recurrence in adult patients whose tumours have PD-L1 expression >= 1% (3 cycles only). The regimen further states that this combination is available in NCIS (00849.3).",
+      "description": "The description text for all Statements derived from this Indication."
     },
     {
       "name": "reimbursement_scheme",

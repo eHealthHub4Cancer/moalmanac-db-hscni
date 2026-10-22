@@ -65,14 +65,14 @@
           "description": "The publication date for the initial version of this document."
         },
         {
-          "name": "identification_number",
-          "value": null,
-          "description": "Identification number used by the publishing organization."
-        },
-        {
           "name": "publication_date",
           "value": "2023-11-09",
           "description": "The publication date for the document."
+        },
+        {
+          "name": "regulatory_identifier",
+          "value": null,
+          "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
         },
         {
           "name": "status",
@@ -87,6 +87,11 @@
       "name": "status",
       "value": "Approved",
       "description": "Current approval status."
+    },
+    {
+      "name": "statement description",
+      "value": "Health Canada approved entrectinib for the treatment of adult patients with unresectable locally advanced or metastatic extracranial solid tumours, including brain metastases, that have a neurotrophic tyrosine receptor kinase (NTRK) gene fusion without a known acquired resistance mutation, and with no satisfactory treatment options.",
+      "description": "The description text for all Statements derived from this Indication."
     }
   ]
 }

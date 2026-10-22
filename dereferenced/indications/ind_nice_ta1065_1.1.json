@@ -78,14 +78,14 @@
           "description": "The publication date for the initial version of this document."
         },
         {
-          "name": "identification_number",
-          "value": 1065,
-          "description": "Identification number used by the publishing organization."
-        },
-        {
           "name": "publication_date",
           "value": "2025-05-28",
           "description": "The publication date for the document."
+        },
+        {
+          "name": "regulatory_identifier",
+          "value": "TA1065",
+          "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
         },
         {
           "name": "status",
@@ -100,6 +100,11 @@
       "name": "status",
       "value": "Approved",
       "description": "Current approval status."
+    },
+    {
+      "name": "statement description",
+      "value": "The U.K. National Institute for Health and Care Excellence (NICE) has approved Nivolumab plus ipilimumab, within its marketing authorisation, as an option for untreated unresectable or metastatic colorectal cancer with high microsatellite instability or mismatch repair deficiency in adults. Nivolumab plus ipilimumab can be used only if the company provides it according to the commercial arrangements. What this means in practice Nivolumab plus ipilimumab must be funded in the NHS in England for the condition and population in the recommendation, if it is considered the most suitable treatment option. Nivolumab plus ipilimumab must be funded in England within 90 days of final publication of this guidance. There is enough evidence to show that nivolumab plus ipilimumab provides clinical benefits and value for money, so it can be used routinely across the NHS in this population. NICE has produced tools and resources to support the implementation of this guidance.",
+      "description": "The description text for all Statements derived from this Indication."
     }
   ]
 }

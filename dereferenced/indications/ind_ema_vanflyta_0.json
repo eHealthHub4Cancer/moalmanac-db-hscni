@@ -78,14 +78,14 @@
           "description": "The publication date for the initial version of this document."
         },
         {
-          "name": "identification_number",
-          "value": null,
-          "description": "Identification number used by the publishing organization."
-        },
-        {
           "name": "publication_date",
           "value": "2024-12-18",
           "description": "The publication date for the document."
+        },
+        {
+          "name": "regulatory_identifier",
+          "value": null,
+          "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
         },
         {
           "name": "status",
@@ -100,6 +100,11 @@
       "name": "status",
       "value": "Approved",
       "description": "Current approval status."
+    },
+    {
+      "name": "statement description",
+      "value": "The European Medicines Agency (EMA) has authorized quizartinib in combination with standard cytarabine and anthracycline induction and standard cytarabine consolidation chemotherapy, followed by quizartinib single-agent maintenance therapy for the treatment of adult aptients with newly diagnosed acute myeloid leukemia (AML) that is FLT3-ITD positive. This indication is based on QuANTUM-First (NCT02668653), a randomized, double-blind, placebo-controlled trial of 539 patients where patients received cytarabine with either daunorubicin or idarubicin.",
+      "description": "The description text for all Statements derived from this Indication."
     }
   ]
 }

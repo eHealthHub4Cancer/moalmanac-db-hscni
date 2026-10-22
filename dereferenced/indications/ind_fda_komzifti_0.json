@@ -78,9 +78,67 @@
           "description": "The publication date for the initial version of this document."
         },
         {
-          "name": "identification_number",
-          "value": 220305,
-          "description": "Identification number used by the publishing organization."
+          "name": "publication_date",
+          "value": "2025-11-13",
+          "description": "The publication date for the document."
+        },
+        {
+          "name": "regulatory_identifier",
+          "value": "NDA220305",
+          "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
+        },
+        {
+          "name": "status",
+          "value": "Active",
+          "description": "Whether this document is Active or Deprecated within moalmanac-db."
+        }
+      ]
+    },
+    {
+      "id": "doc:fda:komzifti:2025-11-13",
+      "type": "Document",
+      "documentType": "Regulatory approval",
+      "name": "Komzifti (ziftomenib) [package insert]. FDA.",
+      "title": null,
+      "aliases": [],
+      "description": "Kura Oncology, Inc. Komzifti (ziftomenib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/220305s000lbl.pdf. Revised November 2025. Accessed October 6, 2026.",
+      "urls": [
+        "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/220305s000lbl.pdf",
+        "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=220305"
+      ],
+      "doi": null,
+      "pmid": null,
+      "extensions": [
+        {
+          "name": "agent",
+          "value": {
+            "id": "agent:org:fda",
+            "type": "Agent",
+            "agentType": "organization",
+            "name": "Food and Drug Administration",
+            "description": "Regulatory agency that approves drugs for use in the United States."
+          },
+          "description": "The organization that published this document."
+        },
+        {
+          "name": "company",
+          "value": "Kura Oncology, Inc",
+          "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
+        },
+        {
+          "name": "drug_name_brand",
+          "value": "Komzifti",
+          "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
+        },
+        {
+          "name": "drug_name_generic",
+          "value": "ziftomenib",
+          "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
+        },
+        {
+          "name": "first_publication_date",
+          "value": "2025-11-13",
+          "description": "The publication date for the initial version of this document."
         },
         {
           "name": "publication_date",
@@ -88,8 +146,13 @@
           "description": "The publication date for the document."
         },
         {
+          "name": "regulatory_identifier",
+          "value": "NDA220305",
+          "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
+        },
+        {
           "name": "status",
-          "value": "Active",
+          "value": "Deprecated",
           "description": "Whether this document is Active or Deprecated within moalmanac-db."
         }
       ]
@@ -100,6 +163,11 @@
       "name": "status",
       "value": "Approved",
       "description": "Current approval status."
+    },
+    {
+      "name": "statement description",
+      "value": "The U.S. Food and Drug Administration (FDA) granted approval to ziftomenib for the treatment of adult patients with relapsed or refractory acute myeloid leukemia (AML) with a susceptible nucleophosmin 1 (NPM1) mutation who have no satisfactory alternative treatment options. This approval is based on NCT04067336, an open-label, single-arm, multicenter clinical trial of 112 patients where eligibility criteria included NPM1 mutations, including Type A (c.860_863dupTCTG), B (c.863_864insCATG), and D (c.863_864insCCTG) mutations and other NPM1 mutations likely to result in cytoplasmic localization of the NPM1 protein.",
+      "description": "The description text for all Statements derived from this Indication."
     }
   ]
 }

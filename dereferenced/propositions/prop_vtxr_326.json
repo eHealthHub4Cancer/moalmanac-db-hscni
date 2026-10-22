@@ -7,20 +7,20 @@
     "description": "Placeholder. Cat-VRS does not yet support sets of categorical variants. See the 'biomarkers' extension for biomarkers associated with this Proposition."
   },
   "conditionQualifier": {
-    "id": "dis:ncit:C9296",
+    "id": "dis:ncit:C203675",
     "conceptType": "Disease",
-    "name": "Adenocarcinoma of the Gastroesophageal Junction",
+    "name": "Esophagogastric Adenocarcinoma",
     "mappings": [
       {
-        "relation": "exactMatch",
+        "relation": "broadMatch",
         "coding": {
-          "id": "coding:oncotree:GEJ",
-          "code": "GEJ",
-          "name": "Adenocarcinoma of the Gastroesophageal Junction",
+          "id": "coding:oncotree:EGC",
+          "code": "EGC",
+          "name": "Esophagogastric Adenocarcinoma",
           "system": "https://oncotree.mskcc.org",
           "systemVersion": "oncotree_2025_10_03",
           "iris": [
-            "https://oncotree.mskcc.org/?version=oncotree_2025_10_03&field=NAME&search=Adenocarcinoma+of+the+Gastroesophageal+Junction+%28GEJ%29"
+            "https://oncotree.mskcc.org/?version=oncotree_2025_10_03&field=NAME&search=Esophagogastric+Adenocarcinoma+%28EGC%29"
           ]
         }
       }
@@ -33,13 +33,13 @@
       }
     ],
     "primaryCoding": {
-      "id": "coding:ncit:C9296",
-      "code": "C9296",
-      "name": "Gastroesophageal Junction Adenocarcinoma",
+      "id": "coding:ncit:C203675",
+      "code": "C203675",
+      "name": "Gastroesophageal Junction Carcinoma",
       "system": "https://evsexplore.semantics.cancer.gov",
       "systemVersion": "26.08e",
       "iris": [
-        "https://evsexplore.semantics.cancer.gov/evsexplore/concept/ncit/C9296"
+        "https://evsexplore.semantics.cancer.gov/evsexplore/concept/ncit/C203675"
       ]
     }
   },
@@ -62,32 +62,6 @@
               "systemVersion": "20250602",
               "iris": [
                 "https://mor.nlm.nih.gov/RxNav/search?searchBy=RXCUI&searchTerm=194000"
-              ]
-            }
-          },
-          {
-            "relation": "relatedMatch",
-            "coding": {
-              "id": "coding:omop:4305099",
-              "code": "4305099",
-              "name": "Capecitabine",
-              "system": "OMOP",
-              "systemVersion": "v20250827",
-              "iris": [
-                "https://athena.ohdsi.org/search-terms/terms/4305099"
-              ]
-            }
-          },
-          {
-            "relation": "relatedMatch",
-            "coding": {
-              "id": "coding:sctid:386906001",
-              "code": "386906001",
-              "name": "Capecitabine",
-              "system": "SNOMED",
-              "systemVersion": "2026-03-01",
-              "iris": [
-                "https://browser.ihtsdotools.org/?perspective=full&conceptId1=386906001&edition=MAIN/2026-03-01&release=&languages=en"
               ]
             }
           },
@@ -145,32 +119,6 @@
               "systemVersion": "20250602",
               "iris": [
                 "https://mor.nlm.nih.gov/RxNav/search?searchBy=RXCUI&searchTerm=32592"
-              ]
-            }
-          },
-          {
-            "relation": "relatedMatch",
-            "coding": {
-              "id": "coding:omop:4216937",
-              "code": "4216937",
-              "name": "Oxaliplatin",
-              "system": "OMOP",
-              "systemVersion": "v20250827",
-              "iris": [
-                "https://athena.ohdsi.org/search-terms/terms/4216937"
-              ]
-            }
-          },
-          {
-            "relation": "relatedMatch",
-            "coding": {
-              "id": "coding:sctid:395814003",
-              "code": "395814003",
-              "name": "Oxaliplatin",
-              "system": "SNOMED",
-              "systemVersion": "2026-03-01",
-              "iris": [
-                "https://browser.ihtsdotools.org/?perspective=full&conceptId1=395814003&edition=MAIN/2026-03-01&release=&languages=en"
               ]
             }
           },
@@ -243,32 +191,6 @@
                 "https://athena.ohdsi.org/search-terms/terms/45775965"
               ]
             }
-          },
-          {
-            "relation": "relatedMatch",
-            "coding": {
-              "id": "coding:sctid:716125002",
-              "code": "716125002",
-              "name": "Pembrolizumab",
-              "system": "SNOMED",
-              "systemVersion": "2025-03-01",
-              "iris": [
-                "https://browser.ihtsdotools.org/?perspective=full&conceptId1=716125002&edition=MAIN/2025-03-01&release=&languages=en"
-              ]
-            }
-          },
-          {
-            "relation": "relatedMatch",
-            "coding": {
-              "id": "coding:omop:37396350",
-              "code": "37396350",
-              "name": "Pembrolizumab",
-              "system": "OMOP",
-              "systemVersion": "v20260227",
-              "iris": [
-                "https://athena.ohdsi.org/search-terms/terms/37396350"
-              ]
-            }
           }
         ],
         "extensions": [
@@ -311,32 +233,6 @@
               "systemVersion": "20250602",
               "iris": [
                 "https://mor.nlm.nih.gov/RxNav/search?searchBy=RXCUI&searchTerm=224905"
-              ]
-            }
-          },
-          {
-            "relation": "relatedMatch",
-            "coding": {
-              "id": "coding:omop:4304158",
-              "code": "4304158",
-              "name": "Trastuzumab",
-              "system": "OMOP",
-              "systemVersion": "v20250827",
-              "iris": [
-                "https://athena.ohdsi.org/search-terms/terms/4304158"
-              ]
-            }
-          },
-          {
-            "relation": "relatedMatch",
-            "coding": {
-              "id": "coding:sctid:387003001",
-              "code": "387003001",
-              "name": "Trastuzumab",
-              "system": "SNOMED",
-              "systemVersion": "2026-03-01",
-              "iris": [
-                "https://browser.ihtsdotools.org/?perspective=full&conceptId1=387003001&edition=MAIN/2026-03-01&release=&languages=en"
               ]
             }
           },

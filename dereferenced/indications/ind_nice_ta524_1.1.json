@@ -78,14 +78,14 @@
           "description": "The publication date for the initial version of this document."
         },
         {
-          "name": "identification_number",
-          "value": 524,
-          "description": "Identification number used by the publishing organization."
-        },
-        {
           "name": "publication_date",
           "value": "2018-06-13",
           "description": "The publication date for the document."
+        },
+        {
+          "name": "regulatory_identifier",
+          "value": "TA524",
+          "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
         },
         {
           "name": "status",
@@ -100,6 +100,11 @@
       "name": "status",
       "value": "Approved",
       "description": "Current approval status."
+    },
+    {
+      "name": "statement description",
+      "value": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Brentuximab vedotin as an option for treating CD30-positive Hodgkin lymphoma in adults with relapsed or refractory disease, only if: \u2022 they have already had autologous stem cell transplant or \u2022 they have already had at least 2 previous therapies when autologous stem cell transplant or multi-agent chemotherapy are not suitable and \u2022 the company provides brentuximab vedotin according to the commercial arrangement.",
+      "description": "The description text for all Statements derived from this Indication."
     }
   ]
 }

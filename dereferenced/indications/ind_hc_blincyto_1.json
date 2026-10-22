@@ -51,14 +51,14 @@
           "description": "The publication date for the initial version of this document."
         },
         {
-          "name": "identification_number",
-          "value": null,
-          "description": "Identification number used by the publishing organization."
-        },
-        {
           "name": "publication_date",
           "value": "2026-02-27",
           "description": "The publication date for the document."
+        },
+        {
+          "name": "regulatory_identifier",
+          "value": null,
+          "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
         },
         {
           "name": "status",
@@ -73,6 +73,11 @@
       "name": "status",
       "value": "Approved",
       "description": "Current approval status."
+    },
+    {
+      "name": "statement description",
+      "value": "Health Canada approved blinatumomab for the treatment of patients with Philadelphia chromosome-negative CD19-positive B-cell precursor ALL in first or second hematologic complete remission with minimal residual disease (MRD) >= 0.1%, as determined by an accredited laboratory using validated assay methods.",
+      "description": "The description text for all Statements derived from this Indication."
     }
   ]
 }

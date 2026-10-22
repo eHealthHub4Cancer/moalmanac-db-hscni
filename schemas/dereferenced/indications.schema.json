@@ -2,7 +2,7 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://moalmanac.org/schemas/dereferenced/indications.schema.json",
   "title": "Indication",
-  "description": "Regulatory approval text and its source, with contributions and documents embedded. Root type `Indication` with one subtype per organization, selected by the id prefix `ind:{org}:`. `status` is an extension; HSE indications additionally carry `reimbursement_scheme` and `reimbursement_comment` extensions.",
+  "description": "Regulatory approval text and its source, with contributions and documents embedded. Root type `Indication` with one subtype per organization, selected by the id prefix `ind:{org}:`. `status` is an extension, and `statement description` is an optional extension present only on standalone indications (absent when embedded in a statement); HSE indications additionally carry `reimbursement_scheme` and `reimbursement_comment` extensions.",
   "$ref": "#/$defs/Indication",
   "allOf": [
     {
@@ -162,7 +162,7 @@
       "description": "Root type shared by every organization. Organization-specific types below extend it; the top-level schema closes the record with unevaluatedProperties."
     },
     "FDA Indication": {
-      "description": "Indication from the organization `fda`.",
+      "description": "Indication from the organization `fda`. `reportedIn` lists the evergreen FDA document (`doc:fda:{drug}`) first, followed by the dated, Deprecated FDA document (`doc:fda:{drug}:{YYYY-MM-DD}`) for the label in which the indication was initially approved.",
       "allOf": [
         {
           "$ref": "#/$defs/Indication"
@@ -191,6 +191,17 @@
                         ]
                       }
                     }
+                  },
+                  {
+                    "$ref": "extension.schema.json",
+                    "properties": {
+                      "name": {
+                        "const": "statement description"
+                      },
+                      "value": {
+                        "type": "string"
+                      }
+                    }
                   }
                 ]
               },
@@ -214,6 +225,47 @@
                   }
                 }
               ]
+            },
+            "reportedIn": {
+              "type": "array",
+              "minItems": 2,
+              "maxItems": 2,
+              "prefixItems": [
+                {
+                  "$ref": "documents.schema.json",
+                  "properties": {
+                    "id": {
+                      "pattern": "^doc:fda:[^:]+$"
+                    }
+                  }
+                },
+                {
+                  "$ref": "documents.schema.json",
+                  "properties": {
+                    "id": {
+                      "pattern": "^doc:fda:[^:]+:\\d{4}-\\d{2}-\\d{2}$"
+                    },
+                    "extensions": {
+                      "contains": {
+                        "type": "object",
+                        "properties": {
+                          "name": {
+                            "const": "status"
+                          },
+                          "value": {
+                            "const": "Deprecated"
+                          }
+                        },
+                        "required": [
+                          "name",
+                          "value"
+                        ]
+                      }
+                    }
+                  }
+                }
+              ],
+              "description": "The evergreen document, then the dated document for the initial approval."
             }
           }
         }
@@ -247,6 +299,17 @@
                           "Superseded",
                           "Withdrawn"
                         ]
+                      }
+                    }
+                  },
+                  {
+                    "$ref": "extension.schema.json",
+                    "properties": {
+                      "name": {
+                        "const": "statement description"
+                      },
+                      "value": {
+                        "type": "string"
                       }
                     }
                   }
@@ -307,6 +370,17 @@
                         ]
                       }
                     }
+                  },
+                  {
+                    "$ref": "extension.schema.json",
+                    "properties": {
+                      "name": {
+                        "const": "statement description"
+                      },
+                      "value": {
+                        "type": "string"
+                      }
+                    }
                   }
                 ]
               },
@@ -363,6 +437,17 @@
                           "Superseded",
                           "Withdrawn"
                         ]
+                      }
+                    }
+                  },
+                  {
+                    "$ref": "extension.schema.json",
+                    "properties": {
+                      "name": {
+                        "const": "statement description"
+                      },
+                      "value": {
+                        "type": "string"
                       }
                     }
                   }
@@ -423,6 +508,17 @@
                         ]
                       }
                     }
+                  },
+                  {
+                    "$ref": "extension.schema.json",
+                    "properties": {
+                      "name": {
+                        "const": "statement description"
+                      },
+                      "value": {
+                        "type": "string"
+                      }
+                    }
                   }
                 ]
               },
@@ -479,6 +575,17 @@
                           "Superseded",
                           "Withdrawn"
                         ]
+                      }
+                    }
+                  },
+                  {
+                    "$ref": "extension.schema.json",
+                    "properties": {
+                      "name": {
+                        "const": "statement description"
+                      },
+                      "value": {
+                        "type": "string"
                       }
                     }
                   },

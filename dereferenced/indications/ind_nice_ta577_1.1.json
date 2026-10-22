@@ -78,14 +78,14 @@
           "description": "The publication date for the initial version of this document."
         },
         {
-          "name": "identification_number",
-          "value": 577,
-          "description": "Identification number used by the publishing organization."
-        },
-        {
           "name": "publication_date",
           "value": "2019-04-24",
           "description": "The publication date for the document."
+        },
+        {
+          "name": "regulatory_identifier",
+          "value": "TA577",
+          "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
         },
         {
           "name": "status",
@@ -100,6 +100,11 @@
       "name": "status",
       "value": "Approved",
       "description": "Current approval status."
+    },
+    {
+      "name": "statement description",
+      "value": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended brentuximab vedotin as an option for treating CD30-positive cutaneous T-cell lymphoma (CTCL) in adults after at least 1 systemic therapy, with: mycosis fungoides (MF) stage 2B or above, primary cutaneous anaplastic large cell lymphoma (pcALCL), or S\u00e9zary syndrome. It is recommended only if the company provides brentuximab vedotin according to the commercial arrangement.",
+      "description": "The description text for all Statements derived from this Indication."
     }
   ]
 }

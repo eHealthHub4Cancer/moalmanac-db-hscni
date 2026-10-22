@@ -65,14 +65,14 @@
           "description": "The publication date for the initial version of this document."
         },
         {
-          "name": "identification_number",
-          "value": null,
-          "description": "Identification number used by the publishing organization."
-        },
-        {
           "name": "publication_date",
           "value": "2026-02-06",
           "description": "The publication date for the document."
+        },
+        {
+          "name": "regulatory_identifier",
+          "value": null,
+          "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
         },
         {
           "name": "status",
@@ -87,6 +87,11 @@
       "name": "status",
       "value": "Approved",
       "description": "Current approval status."
+    },
+    {
+      "name": "statement description",
+      "value": "Health Canada approved nivolumab in combination with platinum-doublet chemotherapy, the neoadjuvant treatment of adult patients with resectable Stage II (>4 cm), IIIA, IIIB (T3-4N2) NSCLC and no known epidermal growth factor Opdivo (nivolumab) receptor (EGFR) mutations or anaplastic lymphoma kinase (ALK) rearrangements, followed by OPDIVO as a single agent in the adjuvant setting after surgical resection. This approval is based on CHECKMATE-816, a randomized, open label trial where patients were offered platinum-doublet chemotherapy consisting of either paclitaxel and carboplatin; pemetrexed and cisplatin for non-squamous histology; or gemcitabine and cisplatin for squamous histology.",
+      "description": "The description text for all Statements derived from this Indication."
     }
   ]
 }

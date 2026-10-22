@@ -78,14 +78,14 @@
           "description": "The publication date for the initial version of this document."
         },
         {
-          "name": "identification_number",
-          "value": 1043,
-          "description": "Identification number used by the publishing organization."
-        },
-        {
           "name": "publication_date",
           "value": "2025-02-26",
           "description": "The publication date for the document."
+        },
+        {
+          "name": "regulatory_identifier",
+          "value": "TA1043",
+          "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
         },
         {
           "name": "status",
@@ -100,6 +100,11 @@
       "name": "status",
       "value": "Approved",
       "description": "Current approval status."
+    },
+    {
+      "name": "statement description",
+      "value": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Osimertinib, within its marketing authorisation, as a treatment option for the adjuvant treatment of stage 1b to 3a non-small-cell lung cancer (NSCLC) after complete tumour resection. It is for adults whose tumours have epidermal growth factor receptor (EGFR) exon 19 deletions or EGFR exon 21 (L858R) substitution mutations. It is only recommended if: \u2022 osimertinib is stopped at 3 years, or earlier if there is disease recurrence or unacceptable toxicity and \u2022 the company provides it according to the commercial arrangement.",
+      "description": "The description text for all Statements derived from this Indication."
     }
   ]
 }

@@ -78,14 +78,14 @@
           "description": "The publication date for the initial version of this document."
         },
         {
-          "name": "identification_number",
-          "value": null,
-          "description": "Identification number used by the publishing organization."
-        },
-        {
           "name": "publication_date",
           "value": "2024-01-11",
           "description": "The publication date for the document."
+        },
+        {
+          "name": "regulatory_identifier",
+          "value": null,
+          "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
         },
         {
           "name": "status",
@@ -100,6 +100,11 @@
       "name": "status",
       "value": "Approved",
       "description": "Current approval status."
+    },
+    {
+      "name": "statement description",
+      "value": "The European Medicines Agency (EMA) has authorized pembrolizumab in combination with chemotherapy and with or without bevacizumab for the treatment of adult patients with persistent, recurrent, or metastatic cervical cancer whose tumors express PD-L1 with a combined positive score (CPS) >= 1. This indication is based on KEYNOTE-826, a multicenter, randomized, double-blind, and placebo-controlled study that studied the efficacy of pembrolizumab in combination with paclitaxel and cisplatin or paclitaxel and carboplatin, with or without bevacizumab in 617 patients meeting this indication's clinical criteria.",
+      "description": "The description text for all Statements derived from this Indication."
     }
   ]
 }

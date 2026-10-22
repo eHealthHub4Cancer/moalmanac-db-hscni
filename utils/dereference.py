@@ -9,10 +9,9 @@ import os
 import pathlib
 import typing
 
-# Local imports
-from utils import json_utils
-from utils import read
-from utils import write
+from . import json_utils
+from . import read
+from . import write
 
 # Maps an indication's regulatory status to the status of its derived statements
 INDICATION_TO_STATEMENT_STATUS = {
@@ -84,6 +83,26 @@ def strip_keys(*keys: str) -> typing.Callable[[dict], dict]:
         typing.Callable[[dict], dict]: A function that accepts a record and returns a copy with the specified keys removed.
     """
     return lambda record: {k: v for k, v in record.items() if k not in keys}
+
+
+def strip_extensions(*names: str) -> typing.Callable[[dict], dict]:
+    """
+    Returns a function that removes extensions with the specified names from a record dict.
+
+    Args:
+        *names (str): Extension names to exclude from the record.
+
+    Returns:
+        typing.Callable[[dict], dict]: A function that accepts a record and returns a copy with the specified extensions removed.
+    """
+    return lambda record: {
+        **record,
+        "extensions": [
+            extension
+            for extension in record.get("extensions", [])
+            if extension["name"] not in names
+        ],
+    }
 
 
 def extract_url_value(url: dict) -> str:
@@ -833,8 +852,8 @@ class Documents(BaseTable):
             "drug_name_brand",
             "drug_name_generic",
             "first_publication_date",
-            "identification_number",
             "publication_date",
+            "regulatory_identifier",
             "status",
         ]
         for record in self.records:
@@ -865,14 +884,14 @@ class Documents(BaseTable):
                     "description": "The publication date for the initial version of this document.",
                 },
                 {
-                    "name": "identification_number",
-                    "value": record["identification_number"],
-                    "description": "Identification number used by the publishing organization.",
-                },
-                {
                     "name": "publication_date",
                     "value": record["publication_date"],
                     "description": "The publication date for the document.",
+                },
+                {
+                    "name": "regulatory_identifier",
+                    "value": record["regulatory_identifier"],
+                    "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184).",
                 },
                 {
                     "name": "status",
@@ -1045,6 +1064,7 @@ class Indications(BaseTable):
 
         extension_fields = [
             "status",
+            "statement_description",
             "superseded_by",
             "reimbursement_scheme",
             "reimbursement_comment",
@@ -1056,6 +1076,13 @@ class Indications(BaseTable):
                     "name": "status",
                     "value": record["status"],
                     "description": "Current approval status.",
+                },
+                {
+                    "name": "statement description",
+                    "value": record["statement_description"],
+                    "description": (
+                        "The description text for all Statements derived from this Indication."
+                    ),
                 },
             ]
             if str(record["id"]).startswith("ind:hse:"):
@@ -1096,7 +1123,6 @@ class Indications(BaseTable):
 
     def remove_keys(self) -> None:
         fields_to_remove = [
-            "statement_description",
             "raw_biomarkers",
             "raw_cancer_types",
             "raw_therapeutics",
@@ -1279,7 +1305,12 @@ class Statements(BaseTable):
     foreign_keys = [
         FKList("contributions", "contributions", lambda db: db.contributions),
         FKList("reportedIn", "reportedIn", lambda db: db.documents),
-        FKSingle("indication_id", "indication", lambda db: db.indications),
+        FKSingle(
+            "indication_id",
+            "indication",
+            lambda db: db.indications,
+            post=strip_extensions("statement description"),
+        ),
         FKSingle("proposition_id", "proposition", lambda db: db.propositions),
         FKSingle("strength_id", "strength", lambda db: db.strengths),
     ]

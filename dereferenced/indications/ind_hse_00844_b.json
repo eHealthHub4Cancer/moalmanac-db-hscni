@@ -58,7 +58,7 @@
         },
         {
           "name": "company",
-          "value": "",
+          "value": null,
           "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
         },
         {
@@ -77,14 +77,14 @@
           "description": "The publication date for the initial version of this document."
         },
         {
-          "name": "identification_number",
-          "value": null,
-          "description": "Identification number used by the publishing organization."
-        },
-        {
           "name": "publication_date",
           "value": "2024-02-20",
           "description": "The publication date for the document."
+        },
+        {
+          "name": "regulatory_identifier",
+          "value": null,
+          "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
         },
         {
           "name": "status",
@@ -99,6 +99,11 @@
       "name": "status",
       "value": "Approved",
       "description": "Current approval status."
+    },
+    {
+      "name": "statement description",
+      "value": "The Republic of Ireland's Health Service Executive (HSE) has approved nivolumab in combination with fluoropyrimidine and platinum-based combination chemotherapy for reimbursement as a treatment option for the first-line treatment of adult patients with HER-2 negative advanced or metastatic gastric (GC), gastroesophageal junction cancer (GEJC) or esophageal adenocarcinoma (EAC), whose tumours express PD-L1 (CPS) >= 5. This regimen specifically cites FOLFOX-6 modified therapy as the chemotherapy. It also notes that, as the platinum and fluoropyrimidine based chemotherapy is not defined in the EMA licensed indication, other evidence-based platinum and fluoropyrimidine regimens may be used in combination with nivolumab.",
+      "description": "The description text for all Statements derived from this Indication."
     },
     {
       "name": "reimbursement_scheme",

@@ -91,14 +91,14 @@
           "description": "The publication date for the initial version of this document."
         },
         {
-          "name": "identification_number",
-          "value": null,
-          "description": "Identification number used by the publishing organization."
-        },
-        {
           "name": "publication_date",
           "value": "2024-08-22",
           "description": "The publication date for the document."
+        },
+        {
+          "name": "regulatory_identifier",
+          "value": null,
+          "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
         },
         {
           "name": "status",
@@ -113,6 +113,11 @@
       "name": "status",
       "value": "Withdrawn",
       "description": "Current approval status."
+    },
+    {
+      "name": "statement description",
+      "value": "The European Medicines Agency (EMA) has authorized tremelimumab in combination with durvalumab and platinum-based chemotherapy for the first-line treatment of adult patients with metastatic non-small cell lung cancer (NSCLC) with no sensitizing EGFR mutations or ALK-positive mutations. This indication is based on POSEIDON, a randomized, open-label, and multicenter study where patients received one of the following chemotherapy regimes: Pemetrexed in combination with carboplatin or cisplatin for patients with non-squamous NSCLC, gemcitabine with cisplatin or carboplatin for patients with squamous NSCLC, and nab-paclitaxel with carboplatin for either non-squamous or squamous NSCLC.",
+      "description": "The description text for all Statements derived from this Indication."
     }
   ]
 }

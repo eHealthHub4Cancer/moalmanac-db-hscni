@@ -58,7 +58,7 @@
         },
         {
           "name": "company",
-          "value": "",
+          "value": null,
           "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
         },
         {
@@ -77,14 +77,14 @@
           "description": "The publication date for the initial version of this document."
         },
         {
-          "name": "identification_number",
-          "value": null,
-          "description": "Identification number used by the publishing organization."
-        },
-        {
           "name": "publication_date",
           "value": "2024-04-27",
           "description": "The publication date for the document."
+        },
+        {
+          "name": "regulatory_identifier",
+          "value": null,
+          "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
         },
         {
           "name": "status",
@@ -99,6 +99,11 @@
       "name": "status",
       "value": "Approved",
       "description": "Current approval status."
+    },
+    {
+      "name": "statement description",
+      "value": "The Republic of Ireland's Health Service Executive (HSE) has approved nivolumab in combination with platinum-based chemotherapy for the neoadjuvant treatment of adult patients with resectable non-small cell lung cancer at high risk of recurrence whose tumors have PD-L1 expression >= 1%. The treatment regimen contains five treatment schedules: (1) nivolumab 360 mg, CARBOplatin (AUC6), and PAClitaxel (200 mg/m^2); (2) nivolumab 360mg, gemcitabine (1000 mg/m^2), and CARBOplatin (AUC5); (3) nivolumab 360 mg, gemcitabine 1250 mg/m^2, and CISplatin 75 mg/m^2; (4) nivolumab 360 mg, PEMEtrexed, and CARBOplatin with folic acid or multivtamin containig 350-1000 micrograms of folic acid; and (5) nivolumab 360 mg, PEMEtrexed, and CISplatin along with folic acid or multivitamin containig 350-1000 mg of folic acid.",
+      "description": "The description text for all Statements derived from this Indication."
     },
     {
       "name": "reimbursement_scheme",

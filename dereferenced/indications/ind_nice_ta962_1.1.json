@@ -78,14 +78,14 @@
           "description": "The publication date for the initial version of this document."
         },
         {
-          "name": "identification_number",
-          "value": 962,
-          "description": "Identification number used by the publishing organization."
-        },
-        {
           "name": "publication_date",
           "value": "2024-03-28",
           "description": "The publication date for the document."
+        },
+        {
+          "name": "regulatory_identifier",
+          "value": "TA962",
+          "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
         },
         {
           "name": "status",
@@ -100,6 +100,11 @@
       "name": "status",
       "value": "Approved",
       "description": "Current approval status."
+    },
+    {
+      "name": "statement description",
+      "value": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Olaparib, within its marketing authorisation, as a treatment option for maintenance treatment of BRCA mutation-positive, advanced (FIGO stages 3 and 4), high-grade epithelial ovarian, fallopian tube or primary peritoneal cancer that has responded to first-line platinum-based chemotherapy in adults. It is only recommended if the company provides it according to the commercial arrangement.",
+      "description": "The description text for all Statements derived from this Indication."
     }
   ]
 }

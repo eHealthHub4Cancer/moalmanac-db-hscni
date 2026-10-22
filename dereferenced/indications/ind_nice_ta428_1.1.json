@@ -78,14 +78,14 @@
           "description": "The publication date for the initial version of this document."
         },
         {
-          "name": "identification_number",
-          "value": 428,
-          "description": "Identification number used by the publishing organization."
-        },
-        {
           "name": "publication_date",
           "value": "2017-01-11",
           "description": "The publication date for the document."
+        },
+        {
+          "name": "regulatory_identifier",
+          "value": "TA428",
+          "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
         },
         {
           "name": "status",
@@ -100,6 +100,11 @@
       "name": "status",
       "value": "Approved",
       "description": "Current approval status."
+    },
+    {
+      "name": "statement description",
+      "value": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Pembrolizumab as an option for treating locally advanced or metastatic PD-L1-positive non-small-cell lung cancer in adults who have had at least one chemotherapy (and targeted treatment if they have an epidermal growth factor receptor [EGFR]- or anaplastic lymphoma kinase [ALK]-positive tumour), only if: \u2022 pembrolizumab is stopped at 2 years of uninterrupted treatment and no documented disease progression, and \u2022 the company provides pembrolizumab in line with the commercial access agreement with NHS England.",
+      "description": "The description text for all Statements derived from this Indication."
     }
   ]
 }

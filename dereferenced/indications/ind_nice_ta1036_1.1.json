@@ -78,14 +78,14 @@
           "description": "The publication date for the initial version of this document."
         },
         {
-          "name": "identification_number",
-          "value": 1036,
-          "description": "Identification number used by the publishing organization."
-        },
-        {
           "name": "publication_date",
           "value": "2025-02-05",
           "description": "The publication date for the document."
+        },
+        {
+          "name": "regulatory_identifier",
+          "value": "TA1036",
+          "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
         },
         {
           "name": "status",
@@ -100,6 +100,11 @@
       "name": "status",
       "value": "Approved",
       "description": "Current approval status."
+    },
+    {
+      "name": "statement description",
+      "value": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Elacestrant as an option for treating oestrogen receptor (ER)- positive HER2-negative locally advanced or metastatic breast cancer with an activating ESR1 mutation that has progressed after at least 1 line of endocrine treatment plus a cyclin-dependent kinase (CDK) 4 and 6 inhibitor in: the cancer has progressed after at least 12 months of endocrine treatment plus a CDK 4 and 6 inhibitor, and It is only recommended if women, trans men and non-binary people who have been through the menopause; trans women and men. Elacestrant is recommended only if:; the company provides it according to the commercial arrangement.",
+      "description": "The description text for all Statements derived from this Indication."
     }
   ]
 }

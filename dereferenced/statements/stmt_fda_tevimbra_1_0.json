@@ -78,18 +78,81 @@
           "description": "The publication date for the initial version of this document."
         },
         {
-          "name": "identification_number",
-          "value": 761232,
-          "description": "Identification number used by the publishing organization."
-        },
-        {
           "name": "publication_date",
           "value": "2025-12-09",
           "description": "The publication date for the document."
         },
         {
+          "name": "regulatory_identifier",
+          "value": "BLA761232",
+          "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
+        },
+        {
           "name": "status",
           "value": "Active",
+          "description": "Whether this document is Active or Deprecated within moalmanac-db."
+        }
+      ]
+    },
+    {
+      "id": "doc:fda:tevimbra:2025-04-22",
+      "type": "Document",
+      "documentType": "Regulatory approval",
+      "name": "Tevimbra (tislelizumab-jsgr) [package insert]. FDA.",
+      "title": null,
+      "aliases": [],
+      "description": "BeOne Medicines USA, Inc. Tevimbra (tislelizumab-jsgr) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/761232s012lbl.pdf. Revised April 2025. Accessed October 6, 2026.",
+      "urls": [
+        "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/761232s012lbl.pdf",
+        "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=761232"
+      ],
+      "doi": null,
+      "pmid": null,
+      "extensions": [
+        {
+          "name": "agent",
+          "value": {
+            "id": "agent:org:fda",
+            "type": "Agent",
+            "agentType": "organization",
+            "name": "Food and Drug Administration",
+            "description": "Regulatory agency that approves drugs for use in the United States."
+          },
+          "description": "The organization that published this document."
+        },
+        {
+          "name": "company",
+          "value": "BeOne Medicines USA, Inc.",
+          "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
+        },
+        {
+          "name": "drug_name_brand",
+          "value": "Tevimbra",
+          "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
+        },
+        {
+          "name": "drug_name_generic",
+          "value": "tislelizumab",
+          "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
+        },
+        {
+          "name": "first_publication_date",
+          "value": "2024-03-13",
+          "description": "The publication date for the initial version of this document."
+        },
+        {
+          "name": "publication_date",
+          "value": "2025-04-22",
+          "description": "The publication date for the document."
+        },
+        {
+          "name": "regulatory_identifier",
+          "value": "BLA761232",
+          "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
+        },
+        {
+          "name": "status",
+          "value": "Deprecated",
           "description": "Whether this document is Active or Deprecated within moalmanac-db."
         }
       ]
@@ -105,20 +168,20 @@
       "description": "Placeholder. Cat-VRS does not yet support sets of categorical variants. See the 'biomarkers' extension for biomarkers associated with this Proposition."
     },
     "conditionQualifier": {
-      "id": "dis:ncit:C9296",
+      "id": "dis:ncit:C203675",
       "conceptType": "Disease",
-      "name": "Adenocarcinoma of the Gastroesophageal Junction",
+      "name": "Esophagogastric Adenocarcinoma",
       "mappings": [
         {
-          "relation": "exactMatch",
+          "relation": "broadMatch",
           "coding": {
-            "id": "coding:oncotree:GEJ",
-            "code": "GEJ",
-            "name": "Adenocarcinoma of the Gastroesophageal Junction",
+            "id": "coding:oncotree:EGC",
+            "code": "EGC",
+            "name": "Esophagogastric Adenocarcinoma",
             "system": "https://oncotree.mskcc.org",
             "systemVersion": "oncotree_2025_10_03",
             "iris": [
-              "https://oncotree.mskcc.org/?version=oncotree_2025_10_03&field=NAME&search=Adenocarcinoma+of+the+Gastroesophageal+Junction+%28GEJ%29"
+              "https://oncotree.mskcc.org/?version=oncotree_2025_10_03&field=NAME&search=Esophagogastric+Adenocarcinoma+%28EGC%29"
             ]
           }
         }
@@ -131,13 +194,13 @@
         }
       ],
       "primaryCoding": {
-        "id": "coding:ncit:C9296",
-        "code": "C9296",
-        "name": "Gastroesophageal Junction Adenocarcinoma",
+        "id": "coding:ncit:C203675",
+        "code": "C203675",
+        "name": "Gastroesophageal Junction Carcinoma",
         "system": "https://evsexplore.semantics.cancer.gov",
         "systemVersion": "26.08e",
         "iris": [
-          "https://evsexplore.semantics.cancer.gov/evsexplore/concept/ncit/C9296"
+          "https://evsexplore.semantics.cancer.gov/evsexplore/concept/ncit/C203675"
         ]
       }
     },
@@ -160,32 +223,6 @@
                 "systemVersion": "20250602",
                 "iris": [
                   "https://mor.nlm.nih.gov/RxNav/search?searchBy=RXCUI&searchTerm=194000"
-                ]
-              }
-            },
-            {
-              "relation": "relatedMatch",
-              "coding": {
-                "id": "coding:omop:4305099",
-                "code": "4305099",
-                "name": "Capecitabine",
-                "system": "OMOP",
-                "systemVersion": "v20250827",
-                "iris": [
-                  "https://athena.ohdsi.org/search-terms/terms/4305099"
-                ]
-              }
-            },
-            {
-              "relation": "relatedMatch",
-              "coding": {
-                "id": "coding:sctid:386906001",
-                "code": "386906001",
-                "name": "Capecitabine",
-                "system": "SNOMED",
-                "systemVersion": "2026-03-01",
-                "iris": [
-                  "https://browser.ihtsdotools.org/?perspective=full&conceptId1=386906001&edition=MAIN/2026-03-01&release=&languages=en"
                 ]
               }
             },
@@ -243,32 +280,6 @@
                 "systemVersion": "20250602",
                 "iris": [
                   "https://mor.nlm.nih.gov/RxNav/search?searchBy=RXCUI&searchTerm=32592"
-                ]
-              }
-            },
-            {
-              "relation": "relatedMatch",
-              "coding": {
-                "id": "coding:omop:4216937",
-                "code": "4216937",
-                "name": "Oxaliplatin",
-                "system": "OMOP",
-                "systemVersion": "v20250827",
-                "iris": [
-                  "https://athena.ohdsi.org/search-terms/terms/4216937"
-                ]
-              }
-            },
-            {
-              "relation": "relatedMatch",
-              "coding": {
-                "id": "coding:sctid:395814003",
-                "code": "395814003",
-                "name": "Oxaliplatin",
-                "system": "SNOMED",
-                "systemVersion": "2026-03-01",
-                "iris": [
-                  "https://browser.ihtsdotools.org/?perspective=full&conceptId1=395814003&edition=MAIN/2026-03-01&release=&languages=en"
                 ]
               }
             },
@@ -547,18 +558,81 @@
                 "description": "The publication date for the initial version of this document."
               },
               {
-                "name": "identification_number",
-                "value": 761232,
-                "description": "Identification number used by the publishing organization."
-              },
-              {
                 "name": "publication_date",
                 "value": "2025-12-09",
                 "description": "The publication date for the document."
               },
               {
+                "name": "regulatory_identifier",
+                "value": "BLA761232",
+                "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
+              },
+              {
                 "name": "status",
                 "value": "Active",
+                "description": "Whether this document is Active or Deprecated within moalmanac-db."
+              }
+            ]
+          },
+          {
+            "id": "doc:fda:tevimbra:2025-04-22",
+            "type": "Document",
+            "documentType": "Regulatory approval",
+            "name": "Tevimbra (tislelizumab-jsgr) [package insert]. FDA.",
+            "title": null,
+            "aliases": [],
+            "description": "BeOne Medicines USA, Inc. Tevimbra (tislelizumab-jsgr) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/761232s012lbl.pdf. Revised April 2025. Accessed October 6, 2026.",
+            "urls": [
+              "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/761232s012lbl.pdf",
+              "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=761232"
+            ],
+            "doi": null,
+            "pmid": null,
+            "extensions": [
+              {
+                "name": "agent",
+                "value": {
+                  "id": "agent:org:fda",
+                  "type": "Agent",
+                  "agentType": "organization",
+                  "name": "Food and Drug Administration",
+                  "description": "Regulatory agency that approves drugs for use in the United States."
+                },
+                "description": "The organization that published this document."
+              },
+              {
+                "name": "company",
+                "value": "BeOne Medicines USA, Inc.",
+                "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
+              },
+              {
+                "name": "drug_name_brand",
+                "value": "Tevimbra",
+                "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
+              },
+              {
+                "name": "drug_name_generic",
+                "value": "tislelizumab",
+                "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
+              },
+              {
+                "name": "first_publication_date",
+                "value": "2024-03-13",
+                "description": "The publication date for the initial version of this document."
+              },
+              {
+                "name": "publication_date",
+                "value": "2025-04-22",
+                "description": "The publication date for the document."
+              },
+              {
+                "name": "regulatory_identifier",
+                "value": "BLA761232",
+                "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
+              },
+              {
+                "name": "status",
+                "value": "Deprecated",
                 "description": "Whether this document is Active or Deprecated within moalmanac-db."
               }
             ]

@@ -58,7 +58,7 @@
         },
         {
           "name": "company",
-          "value": "",
+          "value": null,
           "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
         },
         {
@@ -77,14 +77,14 @@
           "description": "The publication date for the initial version of this document."
         },
         {
-          "name": "identification_number",
-          "value": null,
-          "description": "Identification number used by the publishing organization."
-        },
-        {
           "name": "publication_date",
           "value": "2025-02-25",
           "description": "The publication date for the document."
+        },
+        {
+          "name": "regulatory_identifier",
+          "value": null,
+          "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
         },
         {
           "name": "status",
@@ -99,6 +99,11 @@
       "name": "status",
       "value": "Approved",
       "description": "Current approval status."
+    },
+    {
+      "name": "statement description",
+      "value": "The Republic of Ireland's Health Service Executive (HSE) has approved erdafitinib as a treatment option for the treatment of adult patients with unresectable or metastatic urothelial carcinoma (UC), harbouring susceptible FGFR3 genetic alterations who have previously received at least one line of therapy containing a PD-1 or PD-L1 inhibitor in the unresectable or metastatic treatment setting. This indication is based on BLC3001 Study Cohort 1, a Phase 3, randomised, open-label, multicentre study, where eligible patients were required to have at least one of the following FGFR fusions: FGFR2::BICC1, FGFR2::CASP7, FGFR3::TACC3, FGFR3::BAIAP2L1; or 1 of the following FGFR3 gene mutations: R248C, S249C, G370C, Y373C.",
+      "description": "The description text for all Statements derived from this Indication."
     },
     {
       "name": "reimbursement_scheme",

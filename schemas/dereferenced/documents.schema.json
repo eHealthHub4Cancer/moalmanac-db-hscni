@@ -81,7 +81,10 @@
                 "const": "company"
               },
               "value": {
-                "type": "string"
+                "type": [
+                  "string",
+                  "null"
+                ]
               }
             }
           },
@@ -128,14 +131,10 @@
             "$ref": "extension.schema.json",
             "properties": {
               "name": {
-                "const": "identification_number"
+                "const": "publication_date"
               },
               "value": {
-                "type": [
-                  "integer",
-                  "string",
-                  "null"
-                ]
+                "$ref": "#/$defs/iso_date_or_null"
               }
             }
           },
@@ -143,10 +142,13 @@
             "$ref": "extension.schema.json",
             "properties": {
               "name": {
-                "const": "publication_date"
+                "const": "regulatory_identifier"
               },
               "value": {
-                "$ref": "#/$defs/iso_date_or_null"
+                "type": [
+                  "string",
+                  "null"
+                ]
               }
             }
           },
@@ -193,7 +195,10 @@
                 "const": "company"
               },
               "value": {
-                "type": "string"
+                "type": [
+                  "string",
+                  "null"
+                ]
               }
             }
           }
@@ -248,14 +253,10 @@
             "$ref": "extension.schema.json",
             "properties": {
               "name": {
-                "const": "identification_number"
+                "const": "publication_date"
               },
               "value": {
-                "type": [
-                  "integer",
-                  "string",
-                  "null"
-                ]
+                "$ref": "#/$defs/iso_date_or_null"
               }
             }
           }
@@ -265,10 +266,13 @@
             "$ref": "extension.schema.json",
             "properties": {
               "name": {
-                "const": "publication_date"
+                "const": "regulatory_identifier"
               },
               "value": {
-                "$ref": "#/$defs/iso_date_or_null"
+                "type": [
+                  "string",
+                  "null"
+                ]
               }
             }
           }
@@ -306,6 +310,38 @@
     "extensions"
   ],
   "additionalProperties": false,
+  "allOf": [
+    {
+      "if": {
+        "required": [
+          "id"
+        ],
+        "properties": {
+          "id": {
+            "pattern": "^doc:fda:"
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "extensions": {
+            "contains": {
+              "$ref": "extension.schema.json",
+              "properties": {
+                "name": {
+                  "const": "regulatory_identifier"
+                },
+                "value": {
+                  "type": "string",
+                  "pattern": "^(BLA|NDA)[0-9]{6}$"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
   "$defs": {
     "iso_date_or_null": {
       "description": "An ISO 8601 date (YYYY-MM-DD) or null.",

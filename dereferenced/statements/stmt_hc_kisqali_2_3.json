@@ -65,14 +65,14 @@
           "description": "The publication date for the initial version of this document."
         },
         {
-          "name": "identification_number",
-          "value": null,
-          "description": "Identification number used by the publishing organization."
-        },
-        {
           "name": "publication_date",
           "value": "2026-03-26",
           "description": "The publication date for the document."
+        },
+        {
+          "name": "regulatory_identifier",
+          "value": null,
+          "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
         },
         {
           "name": "status",
@@ -162,32 +162,6 @@
                   "https://athena.ohdsi.org/search-terms/terms/1366310"
                 ]
               }
-            },
-            {
-              "relation": "relatedMatch",
-              "coding": {
-                "id": "coding:sctid:108771008",
-                "code": "108771008",
-                "name": "Goserelin",
-                "system": "SNOMED",
-                "systemVersion": "2025-03-01",
-                "iris": [
-                  "https://browser.ihtsdotools.org/?perspective=full&conceptId1=108771008&edition=MAIN/2025-03-01&release=&languages=en"
-                ]
-              }
-            },
-            {
-              "relation": "relatedMatch",
-              "coding": {
-                "id": "coding:omop:4031929",
-                "code": "4031929",
-                "name": "Goserelin",
-                "system": "OMOP",
-                "systemVersion": "v20260227",
-                "iris": [
-                  "https://athena.ohdsi.org/search-terms/terms/4031929"
-                ]
-              }
             }
           ],
           "extensions": [
@@ -230,32 +204,6 @@
                 "systemVersion": "20250602",
                 "iris": [
                   "https://mor.nlm.nih.gov/RxNav/search?searchBy=RXCUI&searchTerm=72965"
-                ]
-              }
-            },
-            {
-              "relation": "relatedMatch",
-              "coding": {
-                "id": "coding:omop:4297547",
-                "code": "4297547",
-                "name": "Letrozole",
-                "system": "OMOP",
-                "systemVersion": "v20250827",
-                "iris": [
-                  "https://athena.ohdsi.org/search-terms/terms/4297547"
-                ]
-              }
-            },
-            {
-              "relation": "relatedMatch",
-              "coding": {
-                "id": "coding:sctid:386911004",
-                "code": "386911004",
-                "name": "Letrozole",
-                "system": "SNOMED",
-                "systemVersion": "2026-03-01",
-                "iris": [
-                  "https://browser.ihtsdotools.org/?perspective=full&conceptId1=386911004&edition=MAIN/2026-03-01&release=&languages=en"
                 ]
               }
             },
@@ -326,32 +274,6 @@
                 "systemVersion": "v20260227",
                 "iris": [
                   "https://athena.ohdsi.org/search-terms/terms/1592911"
-                ]
-              }
-            },
-            {
-              "relation": "relatedMatch",
-              "coding": {
-                "id": "coding:sctid:732257004",
-                "code": "732257004",
-                "name": "Ribociclib",
-                "system": "SNOMED",
-                "systemVersion": "2025-03-01",
-                "iris": [
-                  "https://browser.ihtsdotools.org/?perspective=full&conceptId1=732257004&edition=MAIN/2025-03-01&release=&languages=en"
-                ]
-              }
-            },
-            {
-              "relation": "relatedMatch",
-              "coding": {
-                "id": "coding:omop:37115766",
-                "code": "37115766",
-                "name": "Ribociclib",
-                "system": "OMOP",
-                "systemVersion": "v20260227",
-                "iris": [
-                  "https://athena.ohdsi.org/search-terms/terms/37115766"
                 ]
               }
             }
@@ -547,14 +469,14 @@
                 "description": "The publication date for the initial version of this document."
               },
               {
-                "name": "identification_number",
-                "value": null,
-                "description": "Identification number used by the publishing organization."
-              },
-              {
                 "name": "publication_date",
                 "value": "2026-03-26",
                 "description": "The publication date for the document."
+              },
+              {
+                "name": "regulatory_identifier",
+                "value": null,
+                "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
               },
               {
                 "name": "status",

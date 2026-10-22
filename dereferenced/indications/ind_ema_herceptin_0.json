@@ -78,14 +78,14 @@
           "description": "The publication date for the initial version of this document."
         },
         {
-          "name": "identification_number",
-          "value": null,
-          "description": "Identification number used by the publishing organization."
-        },
-        {
           "name": "publication_date",
           "value": "2023-03-17",
           "description": "The publication date for the document."
+        },
+        {
+          "name": "regulatory_identifier",
+          "value": null,
+          "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
         },
         {
           "name": "status",
@@ -100,6 +100,11 @@
       "name": "status",
       "value": "Approved",
       "description": "Current approval status."
+    },
+    {
+      "name": "statement description",
+      "value": "The European Medicines Agency (EMA) has authorized trastuzumab as a monotherapy for the treatment of adult patients with HER2 positive metastatic breast cancer (MBC) that have received at least two chemotherapy regimes for their metastatic disease. Prior chemotherapy must have been included at least an anthracycline and a taxane unless patients are unsuitable for these treatments. Hormone receptor positive patients must have also failed hormonal therapy, unless a patient is unsuitable for those treatments. The production information for trastuzumab notes that trastuzumab should only be used in patients with metastatic or early breast cancer whose tumors have either HER2 overexpression or HER2 gene amplification as determined by an accurate and validated assay.",
+      "description": "The description text for all Statements derived from this Indication."
     }
   ]
 }

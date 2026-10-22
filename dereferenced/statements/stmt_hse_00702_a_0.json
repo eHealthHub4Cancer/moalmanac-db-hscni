@@ -58,7 +58,7 @@
         },
         {
           "name": "company",
-          "value": "",
+          "value": null,
           "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
         },
         {
@@ -77,14 +77,14 @@
           "description": "The publication date for the initial version of this document."
         },
         {
-          "name": "identification_number",
-          "value": null,
-          "description": "Identification number used by the publishing organization."
-        },
-        {
           "name": "publication_date",
           "value": "2024-10-01",
           "description": "The publication date for the document."
+        },
+        {
+          "name": "regulatory_identifier",
+          "value": null,
+          "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
         },
         {
           "name": "status",
@@ -168,32 +168,6 @@
             "systemVersion": "v20260227",
             "iris": [
               "https://athena.ohdsi.org/search-terms/terms/37496447"
-            ]
-          }
-        },
-        {
-          "relation": "relatedMatch",
-          "coding": {
-            "id": "coding:sctid:789356007",
-            "code": "789356007",
-            "name": "Entrectinib",
-            "system": "SNOMED",
-            "systemVersion": "2025-03-01",
-            "iris": [
-              "https://browser.ihtsdotools.org/?perspective=full&conceptId1=789356007&edition=MAIN/2025-03-01&release=&languages=en"
-            ]
-          }
-        },
-        {
-          "relation": "relatedMatch",
-          "coding": {
-            "id": "coding:omop:37311552",
-            "code": "37311552",
-            "name": "Entrectinib",
-            "system": "OMOP",
-            "systemVersion": "v20260227",
-            "iris": [
-              "https://athena.ohdsi.org/search-terms/terms/37311552"
             ]
           }
         }
@@ -392,7 +366,7 @@
               },
               {
                 "name": "company",
-                "value": "",
+                "value": null,
                 "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
               },
               {
@@ -411,14 +385,14 @@
                 "description": "The publication date for the initial version of this document."
               },
               {
-                "name": "identification_number",
-                "value": null,
-                "description": "Identification number used by the publishing organization."
-              },
-              {
                 "name": "publication_date",
                 "value": "2024-10-01",
                 "description": "The publication date for the document."
+              },
+              {
+                "name": "regulatory_identifier",
+                "value": null,
+                "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
               },
               {
                 "name": "status",

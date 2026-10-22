@@ -78,14 +78,14 @@
           "description": "The publication date for the initial version of this document."
         },
         {
-          "name": "identification_number",
-          "value": null,
-          "description": "Identification number used by the publishing organization."
-        },
-        {
           "name": "publication_date",
           "value": "2023-06-23",
           "description": "The publication date for the document."
+        },
+        {
+          "name": "regulatory_identifier",
+          "value": null,
+          "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
         },
         {
           "name": "status",
@@ -188,32 +188,6 @@
                   "https://athena.ohdsi.org/search-terms/terms/45776944"
                 ]
               }
-            },
-            {
-              "relation": "relatedMatch",
-              "coding": {
-                "id": "coding:sctid:710278000",
-                "code": "710278000",
-                "name": "Idelalisib",
-                "system": "SNOMED",
-                "systemVersion": "2025-03-01",
-                "iris": [
-                  "https://browser.ihtsdotools.org/?perspective=full&conceptId1=710278000&edition=MAIN/2025-03-01&release=&languages=en"
-                ]
-              }
-            },
-            {
-              "relation": "relatedMatch",
-              "coding": {
-                "id": "coding:omop:46271986",
-                "code": "46271986",
-                "name": "Idelalisib",
-                "system": "OMOP",
-                "systemVersion": "v20260227",
-                "iris": [
-                  "https://athena.ohdsi.org/search-terms/terms/46271986"
-                ]
-              }
             }
           ],
           "extensions": [
@@ -269,32 +243,6 @@
                 "systemVersion": "v20260227",
                 "iris": [
                   "https://athena.ohdsi.org/search-terms/terms/1314273"
-                ]
-              }
-            },
-            {
-              "relation": "relatedMatch",
-              "coding": {
-                "id": "coding:sctid:386919002",
-                "code": "386919002",
-                "name": "Rituximab",
-                "system": "SNOMED",
-                "systemVersion": "2025-03-01",
-                "iris": [
-                  "https://browser.ihtsdotools.org/?perspective=full&conceptId1=386919002&edition=MAIN/2025-03-01&release=&languages=en"
-                ]
-              }
-            },
-            {
-              "relation": "relatedMatch",
-              "coding": {
-                "id": "coding:omop:4299850",
-                "code": "4299850",
-                "name": "Rituximab",
-                "system": "OMOP",
-                "systemVersion": "v20260227",
-                "iris": [
-                  "https://athena.ohdsi.org/search-terms/terms/4299850"
                 ]
               }
             }
@@ -502,14 +450,14 @@
                 "description": "The publication date for the initial version of this document."
               },
               {
-                "name": "identification_number",
-                "value": null,
-                "description": "Identification number used by the publishing organization."
-              },
-              {
                 "name": "publication_date",
                 "value": "2023-06-23",
                 "description": "The publication date for the document."
+              },
+              {
+                "name": "regulatory_identifier",
+                "value": null,
+                "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
               },
               {
                 "name": "status",

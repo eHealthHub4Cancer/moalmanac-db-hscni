@@ -4,6 +4,19 @@
   "description": "The U.S. Food and Drug Administration granted approval to pembrolizumab for the treatment of patients with locally advanced or metastatic esophageal or gastroesophageal junction (GEJ) (tumors with epicenter 1 to 5 centimeters above the GEJ) carcinoma that is not amenable to surgical resection or definitive chemoradiation as a single agent after one or more prior lines of systemic therapy for patients with tumors of squamous cell histology that express PD-L1 (CPS >=10), as determined by an FDA-approved test.",
   "contributions": [
     {
+      "id": "ctrb:vanallenlab:2026-10-22:0",
+      "type": "Contribution",
+      "description": "Deprecated statements associating pembrolizumab monotherapy with esophageal adenocarcinoma and adenocarcinoma of the gastroesophageal junction in favor of a statement for Esophageal Squamous Cell Carcinoma (stmt:fda:keytruda:8:2), as this indication is limited to tumors of squamous cell histology.",
+      "date": "2026-10-22",
+      "contributor": {
+        "id": "agent:user:vanallenlab",
+        "type": "Agent",
+        "agentType": "contributor",
+        "name": "Van Allen lab",
+        "description": "Van Allen lab, Dana-Farber Cancer Institute"
+      }
+    },
+    {
       "id": "ctrb:vanallenlab:2024-10-30:0",
       "type": "Contribution",
       "description": "Initial access of FDA approvals",
@@ -65,18 +78,81 @@
           "description": "The publication date for the initial version of this document."
         },
         {
-          "name": "identification_number",
-          "value": 125514,
-          "description": "Identification number used by the publishing organization."
-        },
-        {
           "name": "publication_date",
           "value": "2026-02-10",
           "description": "The publication date for the document."
         },
         {
+          "name": "regulatory_identifier",
+          "value": "BLA125514",
+          "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
+        },
+        {
           "name": "status",
           "value": "Active",
+          "description": "Whether this document is Active or Deprecated within moalmanac-db."
+        }
+      ]
+    },
+    {
+      "id": "doc:fda:keytruda:2021-03-22",
+      "type": "Document",
+      "documentType": "Regulatory approval",
+      "name": "Keytruda (pembrolizumab) [package insert]. FDA.",
+      "title": null,
+      "aliases": [],
+      "description": "Merck Sharp & Dohme Corp. Keytruda (pembrolizumab) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/125514s096lbl.pdf. Revised March 2021. Accessed October 6, 2026.",
+      "urls": [
+        "https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/125514s096lbl.pdf",
+        "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=125514"
+      ],
+      "doi": null,
+      "pmid": null,
+      "extensions": [
+        {
+          "name": "agent",
+          "value": {
+            "id": "agent:org:fda",
+            "type": "Agent",
+            "agentType": "organization",
+            "name": "Food and Drug Administration",
+            "description": "Regulatory agency that approves drugs for use in the United States."
+          },
+          "description": "The organization that published this document."
+        },
+        {
+          "name": "company",
+          "value": "Merck Sharp & Dohme Corp.",
+          "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
+        },
+        {
+          "name": "drug_name_brand",
+          "value": "Keytruda",
+          "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
+        },
+        {
+          "name": "drug_name_generic",
+          "value": "pembrolizumab",
+          "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
+        },
+        {
+          "name": "first_publication_date",
+          "value": "2014-09-04",
+          "description": "The publication date for the initial version of this document."
+        },
+        {
+          "name": "publication_date",
+          "value": "2021-03-22",
+          "description": "The publication date for the document."
+        },
+        {
+          "name": "regulatory_identifier",
+          "value": "BLA125514",
+          "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
+        },
+        {
+          "name": "status",
+          "value": "Deprecated",
           "description": "Whether this document is Active or Deprecated within moalmanac-db."
         }
       ]
@@ -156,32 +232,6 @@
             "systemVersion": "v20260227",
             "iris": [
               "https://athena.ohdsi.org/search-terms/terms/45775965"
-            ]
-          }
-        },
-        {
-          "relation": "relatedMatch",
-          "coding": {
-            "id": "coding:sctid:716125002",
-            "code": "716125002",
-            "name": "Pembrolizumab",
-            "system": "SNOMED",
-            "systemVersion": "2025-03-01",
-            "iris": [
-              "https://browser.ihtsdotools.org/?perspective=full&conceptId1=716125002&edition=MAIN/2025-03-01&release=&languages=en"
-            ]
-          }
-        },
-        {
-          "relation": "relatedMatch",
-          "coding": {
-            "id": "coding:omop:37396350",
-            "code": "37396350",
-            "name": "Pembrolizumab",
-            "system": "OMOP",
-            "systemVersion": "v20260227",
-            "iris": [
-              "https://athena.ohdsi.org/search-terms/terms/37396350"
             ]
           }
         }
@@ -271,7 +321,7 @@
   "extensions": [
     {
       "name": "status",
-      "value": "Active",
+      "value": "Deprecated",
       "description": "Whether this Statement is Active, Superseded, or Deprecated within moalmanac-db."
     },
     {
@@ -343,18 +393,81 @@
                 "description": "The publication date for the initial version of this document."
               },
               {
-                "name": "identification_number",
-                "value": 125514,
-                "description": "Identification number used by the publishing organization."
-              },
-              {
                 "name": "publication_date",
                 "value": "2026-02-10",
                 "description": "The publication date for the document."
               },
               {
+                "name": "regulatory_identifier",
+                "value": "BLA125514",
+                "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
+              },
+              {
                 "name": "status",
                 "value": "Active",
+                "description": "Whether this document is Active or Deprecated within moalmanac-db."
+              }
+            ]
+          },
+          {
+            "id": "doc:fda:keytruda:2021-03-22",
+            "type": "Document",
+            "documentType": "Regulatory approval",
+            "name": "Keytruda (pembrolizumab) [package insert]. FDA.",
+            "title": null,
+            "aliases": [],
+            "description": "Merck Sharp & Dohme Corp. Keytruda (pembrolizumab) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/125514s096lbl.pdf. Revised March 2021. Accessed October 6, 2026.",
+            "urls": [
+              "https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/125514s096lbl.pdf",
+              "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=125514"
+            ],
+            "doi": null,
+            "pmid": null,
+            "extensions": [
+              {
+                "name": "agent",
+                "value": {
+                  "id": "agent:org:fda",
+                  "type": "Agent",
+                  "agentType": "organization",
+                  "name": "Food and Drug Administration",
+                  "description": "Regulatory agency that approves drugs for use in the United States."
+                },
+                "description": "The organization that published this document."
+              },
+              {
+                "name": "company",
+                "value": "Merck Sharp & Dohme Corp.",
+                "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
+              },
+              {
+                "name": "drug_name_brand",
+                "value": "Keytruda",
+                "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
+              },
+              {
+                "name": "drug_name_generic",
+                "value": "pembrolizumab",
+                "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
+              },
+              {
+                "name": "first_publication_date",
+                "value": "2014-09-04",
+                "description": "The publication date for the initial version of this document."
+              },
+              {
+                "name": "publication_date",
+                "value": "2021-03-22",
+                "description": "The publication date for the document."
+              },
+              {
+                "name": "regulatory_identifier",
+                "value": "BLA125514",
+                "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
+              },
+              {
+                "name": "status",
+                "value": "Deprecated",
                 "description": "Whether this document is Active or Deprecated within moalmanac-db."
               }
             ]

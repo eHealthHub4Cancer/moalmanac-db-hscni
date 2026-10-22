@@ -38,7 +38,70 @@
       "name": "Bizengri (zenocutuzumab-zbco) [package insert]. FDA.",
       "title": null,
       "aliases": [],
-      "description": "Merus N.V. Bizengri (zenocutuzumab-zbco) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/761352s001lbl.pdf. Revised December 2024. Accessed January 10, 2025.",
+      "description": "Merus N.V. Bizengri (zenocutuzumab) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/761352s010lbl.pdf. Revised May 2026. Accessed October 8, 2026.",
+      "urls": [
+        "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/761352s010lbl.pdf",
+        "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=761352"
+      ],
+      "doi": null,
+      "pmid": null,
+      "extensions": [
+        {
+          "name": "agent",
+          "value": {
+            "id": "agent:org:fda",
+            "type": "Agent",
+            "agentType": "organization",
+            "name": "Food and Drug Administration",
+            "description": "Regulatory agency that approves drugs for use in the United States."
+          },
+          "description": "The organization that published this document."
+        },
+        {
+          "name": "company",
+          "value": "Merus N.V.",
+          "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
+        },
+        {
+          "name": "drug_name_brand",
+          "value": "Bizengri",
+          "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
+        },
+        {
+          "name": "drug_name_generic",
+          "value": "zenocutuzumab-zbco",
+          "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
+        },
+        {
+          "name": "first_publication_date",
+          "value": "2024-12-04",
+          "description": "The publication date for the initial version of this document."
+        },
+        {
+          "name": "publication_date",
+          "value": "2026-05-08",
+          "description": "The publication date for the document."
+        },
+        {
+          "name": "regulatory_identifier",
+          "value": "BLA761352",
+          "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
+        },
+        {
+          "name": "status",
+          "value": "Active",
+          "description": "Whether this document is Active or Deprecated within moalmanac-db."
+        }
+      ]
+    },
+    {
+      "id": "doc:fda:bizengri:2024-12-04",
+      "type": "Document",
+      "documentType": "Regulatory approval",
+      "name": "Bizengri (zenocutuzumab-zbco) [package insert]. FDA.",
+      "title": null,
+      "aliases": [],
+      "description": "Merus N.V. Bizengri (zenocutuzumab-zbco) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/761352s001lbl.pdf. Revised December 2024. Accessed October 6, 2026.",
       "urls": [
         "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/761352s001lbl.pdf",
         "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=761352"
@@ -78,18 +141,18 @@
           "description": "The publication date for the initial version of this document."
         },
         {
-          "name": "identification_number",
-          "value": 761352,
-          "description": "Identification number used by the publishing organization."
-        },
-        {
           "name": "publication_date",
           "value": "2024-12-04",
           "description": "The publication date for the document."
         },
         {
+          "name": "regulatory_identifier",
+          "value": "BLA761352",
+          "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
+        },
+        {
           "name": "status",
-          "value": "Active",
+          "value": "Deprecated",
           "description": "Whether this document is Active or Deprecated within moalmanac-db."
         }
       ]
@@ -345,7 +408,70 @@
             "name": "Bizengri (zenocutuzumab-zbco) [package insert]. FDA.",
             "title": null,
             "aliases": [],
-            "description": "Merus N.V. Bizengri (zenocutuzumab-zbco) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/761352s001lbl.pdf. Revised December 2024. Accessed January 10, 2025.",
+            "description": "Merus N.V. Bizengri (zenocutuzumab) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/761352s010lbl.pdf. Revised May 2026. Accessed October 8, 2026.",
+            "urls": [
+              "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/761352s010lbl.pdf",
+              "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=761352"
+            ],
+            "doi": null,
+            "pmid": null,
+            "extensions": [
+              {
+                "name": "agent",
+                "value": {
+                  "id": "agent:org:fda",
+                  "type": "Agent",
+                  "agentType": "organization",
+                  "name": "Food and Drug Administration",
+                  "description": "Regulatory agency that approves drugs for use in the United States."
+                },
+                "description": "The organization that published this document."
+              },
+              {
+                "name": "company",
+                "value": "Merus N.V.",
+                "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
+              },
+              {
+                "name": "drug_name_brand",
+                "value": "Bizengri",
+                "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
+              },
+              {
+                "name": "drug_name_generic",
+                "value": "zenocutuzumab-zbco",
+                "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
+              },
+              {
+                "name": "first_publication_date",
+                "value": "2024-12-04",
+                "description": "The publication date for the initial version of this document."
+              },
+              {
+                "name": "publication_date",
+                "value": "2026-05-08",
+                "description": "The publication date for the document."
+              },
+              {
+                "name": "regulatory_identifier",
+                "value": "BLA761352",
+                "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
+              },
+              {
+                "name": "status",
+                "value": "Active",
+                "description": "Whether this document is Active or Deprecated within moalmanac-db."
+              }
+            ]
+          },
+          {
+            "id": "doc:fda:bizengri:2024-12-04",
+            "type": "Document",
+            "documentType": "Regulatory approval",
+            "name": "Bizengri (zenocutuzumab-zbco) [package insert]. FDA.",
+            "title": null,
+            "aliases": [],
+            "description": "Merus N.V. Bizengri (zenocutuzumab-zbco) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/761352s001lbl.pdf. Revised December 2024. Accessed October 6, 2026.",
             "urls": [
               "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/761352s001lbl.pdf",
               "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=761352"
@@ -385,18 +511,18 @@
                 "description": "The publication date for the initial version of this document."
               },
               {
-                "name": "identification_number",
-                "value": 761352,
-                "description": "Identification number used by the publishing organization."
-              },
-              {
                 "name": "publication_date",
                 "value": "2024-12-04",
                 "description": "The publication date for the document."
               },
               {
+                "name": "regulatory_identifier",
+                "value": "BLA761352",
+                "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
+              },
+              {
                 "name": "status",
-                "value": "Active",
+                "value": "Deprecated",
                 "description": "Whether this document is Active or Deprecated within moalmanac-db."
               }
             ]

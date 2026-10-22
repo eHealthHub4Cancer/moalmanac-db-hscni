@@ -58,7 +58,7 @@
         },
         {
           "name": "company",
-          "value": "",
+          "value": null,
           "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
         },
         {
@@ -77,14 +77,14 @@
           "description": "The publication date for the initial version of this document."
         },
         {
-          "name": "identification_number",
-          "value": null,
-          "description": "Identification number used by the publishing organization."
-        },
-        {
           "name": "publication_date",
           "value": "2024-05-31",
           "description": "The publication date for the document."
+        },
+        {
+          "name": "regulatory_identifier",
+          "value": null,
+          "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
         },
         {
           "name": "status",
@@ -174,32 +174,6 @@
                   "https://athena.ohdsi.org/search-terms/terms/792649"
                 ]
               }
-            },
-            {
-              "relation": "relatedMatch",
-              "coding": {
-                "id": "coding:sctid:761851004",
-                "code": "761851004",
-                "name": "Abemaciclib",
-                "system": "SNOMED",
-                "systemVersion": "2025-03-01",
-                "iris": [
-                  "https://browser.ihtsdotools.org/?perspective=full&conceptId1=761851004&edition=MAIN/2025-03-01&release=&languages=en"
-                ]
-              }
-            },
-            {
-              "relation": "relatedMatch",
-              "coding": {
-                "id": "coding:omop:42539316",
-                "code": "42539316",
-                "name": "Abemaciclib",
-                "system": "OMOP",
-                "systemVersion": "v20260227",
-                "iris": [
-                  "https://athena.ohdsi.org/search-terms/terms/42539316"
-                ]
-              }
             }
           ],
           "extensions": [
@@ -255,32 +229,6 @@
                 "systemVersion": "v20260227",
                 "iris": [
                   "https://athena.ohdsi.org/search-terms/terms/1436678"
-                ]
-              }
-            },
-            {
-              "relation": "relatedMatch",
-              "coding": {
-                "id": "coding:sctid:373345002",
-                "code": "373345002",
-                "name": "Tamoxifen",
-                "system": "SNOMED",
-                "systemVersion": "2025-03-01",
-                "iris": [
-                  "https://browser.ihtsdotools.org/?perspective=full&conceptId1=373345002&edition=MAIN/2025-03-01&release=&languages=en"
-                ]
-              }
-            },
-            {
-              "relation": "relatedMatch",
-              "coding": {
-                "id": "coding:omop:4190066",
-                "code": "4190066",
-                "name": "Tamoxifen",
-                "system": "OMOP",
-                "systemVersion": "v20260227",
-                "iris": [
-                  "https://athena.ohdsi.org/search-terms/terms/4190066"
                 ]
               }
             }
@@ -501,7 +449,7 @@
               },
               {
                 "name": "company",
-                "value": "",
+                "value": null,
                 "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
               },
               {
@@ -520,14 +468,14 @@
                 "description": "The publication date for the initial version of this document."
               },
               {
-                "name": "identification_number",
-                "value": null,
-                "description": "Identification number used by the publishing organization."
-              },
-              {
                 "name": "publication_date",
                 "value": "2024-05-31",
                 "description": "The publication date for the document."
+              },
+              {
+                "name": "regulatory_identifier",
+                "value": null,
+                "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
               },
               {
                 "name": "status",

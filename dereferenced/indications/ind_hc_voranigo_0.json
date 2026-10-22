@@ -65,14 +65,14 @@
           "description": "The publication date for the initial version of this document."
         },
         {
-          "name": "identification_number",
-          "value": null,
-          "description": "Identification number used by the publishing organization."
-        },
-        {
           "name": "publication_date",
           "value": "2024-08-27",
           "description": "The publication date for the document."
+        },
+        {
+          "name": "regulatory_identifier",
+          "value": null,
+          "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
         },
         {
           "name": "status",
@@ -87,6 +87,11 @@
       "name": "status",
       "value": "Approved",
       "description": "Current approval status."
+    },
+    {
+      "name": "statement description",
+      "value": "Health Canada approved vorasidenib for the treatment of Grade 2a astrocytoma or oligodendroglioma with a susceptible isocitrate dehydrogenase-1 (IDH1) mutation or isocitrate dehydrogenase-2 (IDH2) mutation in adults and pediatric patients aged 12 years and older following surgical intervention.",
+      "description": "The description text for all Statements derived from this Indication."
     }
   ]
 }

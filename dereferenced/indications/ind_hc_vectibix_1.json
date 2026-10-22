@@ -65,14 +65,14 @@
           "description": "The publication date for the initial version of this document."
         },
         {
-          "name": "identification_number",
-          "value": null,
-          "description": "Identification number used by the publishing organization."
-        },
-        {
           "name": "publication_date",
           "value": "2021-10-25",
           "description": "The publication date for the document."
+        },
+        {
+          "name": "regulatory_identifier",
+          "value": null,
+          "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
         },
         {
           "name": "status",
@@ -87,6 +87,11 @@
       "name": "status",
       "value": "Approved",
       "description": "Current approval status."
+    },
+    {
+      "name": "statement description",
+      "value": "Health Canada approved panitumumab as monotherapy for the treatment of patients with non-mutated (wild-type) RAS mCRC after failure of fluoropyrimidine-, oxaliplatin-, and irinotecan-containing chemotherapy regimens.",
+      "description": "The description text for all Statements derived from this Indication."
     }
   ]
 }

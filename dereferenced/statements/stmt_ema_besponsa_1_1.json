@@ -78,14 +78,14 @@
           "description": "The publication date for the initial version of this document."
         },
         {
-          "name": "identification_number",
-          "value": null,
-          "description": "Identification number used by the publishing organization."
-        },
-        {
           "name": "publication_date",
           "value": "2026-05-18",
           "description": "The publication date for the document."
+        },
+        {
+          "name": "regulatory_identifier",
+          "value": null,
+          "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
         },
         {
           "name": "status",
@@ -97,7 +97,7 @@
   ],
   "direction": "supports",
   "proposition": {
-    "id": "prop:vtxr:543",
+    "id": "prop:vtxr:988",
     "type": "VariantTherapeuticResponseProposition",
     "predicate": "predictsSensitivityTo",
     "subjectVariant": {
@@ -175,32 +175,6 @@
         {
           "relation": "relatedMatch",
           "coding": {
-            "id": "coding:omop:42537249",
-            "code": "42537249",
-            "name": "Inotuzumab ozogamicin",
-            "system": "OMOP",
-            "systemVersion": "v20250827",
-            "iris": [
-              "https://athena.ohdsi.org/search-terms/terms/42537249"
-            ]
-          }
-        },
-        {
-          "relation": "relatedMatch",
-          "coding": {
-            "id": "coding:sctid:736495009",
-            "code": "736495009",
-            "name": "Inotuzumab ozogamicin",
-            "system": "SNOMED",
-            "systemVersion": "2026-03-01",
-            "iris": [
-              "https://browser.ihtsdotools.org/?perspective=full&conceptId1=736495009&edition=MAIN/2026-03-01&release=&languages=en"
-            ]
-          }
-        },
-        {
-          "relation": "relatedMatch",
-          "coding": {
             "id": "coding:omop:794068",
             "code": "794068",
             "name": "inotuzumab ozogamicin",
@@ -242,8 +216,40 @@
         "name": "biomarkers",
         "value": [
           {
-            "id": "bmkr.criterion:15",
-            "present": false,
+            "id": "bmkr.criterion:13",
+            "present": true,
+            "subject": {
+              "id": "bmkr:13",
+              "type": "CategoricalVariant",
+              "name": "CD22 +",
+              "constraints": [],
+              "extensions": [
+                {
+                  "name": "biomarker_type",
+                  "value": "Protein expression"
+                },
+                {
+                  "name": "marker",
+                  "value": "CD22"
+                },
+                {
+                  "name": "unit",
+                  "value": "status"
+                },
+                {
+                  "name": "equality",
+                  "value": "="
+                },
+                {
+                  "name": "value",
+                  "value": "Positive"
+                }
+              ]
+            }
+          },
+          {
+            "id": "bmkr.criterion:12",
+            "present": true,
             "subject": {
               "id": "bmkr:12",
               "type": "CategoricalVariant",
@@ -359,38 +365,6 @@
                 }
               ]
             }
-          },
-          {
-            "id": "bmkr.criterion:13",
-            "present": true,
-            "subject": {
-              "id": "bmkr:13",
-              "type": "CategoricalVariant",
-              "name": "CD22 +",
-              "constraints": [],
-              "extensions": [
-                {
-                  "name": "biomarker_type",
-                  "value": "Protein expression"
-                },
-                {
-                  "name": "marker",
-                  "value": "CD22"
-                },
-                {
-                  "name": "unit",
-                  "value": "status"
-                },
-                {
-                  "name": "equality",
-                  "value": "="
-                },
-                {
-                  "name": "value",
-                  "value": "Positive"
-                }
-              ]
-            }
           }
         ],
         "description": "The biomarkers associated with this Proposition, each with a `present` flag indicating if the biomarker is present (true) or absent (false). Multiple biomarkers are combined with implied AND logic."
@@ -501,14 +475,14 @@
                 "description": "The publication date for the initial version of this document."
               },
               {
-                "name": "identification_number",
-                "value": null,
-                "description": "Identification number used by the publishing organization."
-              },
-              {
                 "name": "publication_date",
                 "value": "2026-05-18",
                 "description": "The publication date for the document."
+              },
+              {
+                "name": "regulatory_identifier",
+                "value": null,
+                "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
               },
               {
                 "name": "status",

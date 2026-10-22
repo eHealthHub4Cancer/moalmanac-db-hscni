@@ -65,14 +65,14 @@
           "description": "The publication date for the initial version of this document."
         },
         {
-          "name": "identification_number",
-          "value": null,
-          "description": "Identification number used by the publishing organization."
-        },
-        {
           "name": "publication_date",
           "value": "2025-01-30",
           "description": "The publication date for the document."
+        },
+        {
+          "name": "regulatory_identifier",
+          "value": null,
+          "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
         },
         {
           "name": "status",
@@ -87,6 +87,11 @@
       "name": "status",
       "value": "Approved",
       "description": "Current approval status."
+    },
+    {
+      "name": "statement description",
+      "value": "Health Canada approved cemiplimab as monotherapy for the first-line treatment of adult patients with non-small cell lung cancer (NSCLC) expressing PD-L1 in >= 50% of tumour cells (Tumour Proportion Score [TPS] >= 50%), as determined by a validated test, with no EGFR, ALK or ROS1 aberrations, who have locally advanced NSCLC who are not candidates for surgical resection or definitive chemoradiation, or metastatic NSCLC.",
+      "description": "The description text for all Statements derived from this Indication."
     }
   ]
 }

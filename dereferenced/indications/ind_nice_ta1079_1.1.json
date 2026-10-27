@@ -1,0 +1,110 @@
+{
+  "id": "ind:nice:ta1079:1.1",
+  "type": "Indication",
+  "description": "Fruquintinib can be used as an option at third line or later to treat metastatic colorectal cancer in adults when previous treatment has included fluoropyrimidine-, oxaliplatin-, and irinotecan-based chemotherapy (with or without anti-VEGF treatment), and anti-EGFR treatment if the cancer is RAS wild-type (unless not suitable). Fruquintinib can only be used if trifluridine-tipiracil with bevacizumab is not suitable and the company provides it according to the commercial arrangement.",
+  "contributions": [
+    {
+      "id": "ctrb:qub:2026-06-17:0",
+      "type": "Contribution",
+      "description": "Initial curation of NICE approvals",
+      "date": "2026-06-17",
+      "contributor": {
+        "id": "agent:user:qub",
+        "type": "Agent",
+        "agentType": "contributor",
+        "name": "Queen's University Belfast",
+        "description": "Queen's University Belfast"
+      }
+    },
+    {
+      "id": "ctrb:nice:2025-07-23:0",
+      "type": "Contribution",
+      "description": "Indication recommended by NICE technology appraisal.",
+      "date": "2025-07-23",
+      "contributor": {
+        "id": "agent:org:nice",
+        "type": "Agent",
+        "agentType": "organization",
+        "name": "National Institute for Health and Care Excellence",
+        "description": "Regulatory and guidance body that issues Technology Appraisals recommending medicines for use in England and Wales, endorsed by Health and Social Care Northern Ireland (HSC NI) for use in Northern Ireland."
+      }
+    }
+  ],
+  "reportedIn": [
+    {
+      "id": "doc:nice:ta1079",
+      "type": "Document",
+      "documentType": "Regulatory approval",
+      "name": "Fruzaqla (Fruquintinib) [technology appraisal guidance]. NICE.",
+      "title": null,
+      "aliases": [],
+      "description": "Fruquintinib for previously treated metastatic colorectal cancer, 2025, National Institute for Health and Care Excellence website. https://www.nice.org.uk/guidance/ta1079/resources/fruquintinib-for-previously-treated-metastatic-colorectal-cancer. Revised July 2025. Accessed September 7, 2026.",
+      "urls": [
+        "https://www.nice.org.uk/guidance/ta1079/resources/fruquintinib-for-previously-treated-metastatic-colorectal-cancer",
+        "https://www.nice.org.uk/guidance/ta1079"
+      ],
+      "doi": null,
+      "pmid": null,
+      "extensions": [
+        {
+          "name": "agent",
+          "value": {
+            "id": "agent:org:nice",
+            "type": "Agent",
+            "agentType": "organization",
+            "name": "National Institute for Health and Care Excellence",
+            "description": "Regulatory and guidance body that issues Technology Appraisals recommending medicines for use in England and Wales, endorsed by Health and Social Care Northern Ireland (HSC NI) for use in Northern Ireland."
+          },
+          "description": "The organization that published this document."
+        },
+        {
+          "name": "company",
+          "value": null,
+          "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
+        },
+        {
+          "name": "drug_name_brand",
+          "value": null,
+          "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
+        },
+        {
+          "name": "drug_name_generic",
+          "value": null,
+          "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
+        },
+        {
+          "name": "first_publication_date",
+          "value": null,
+          "description": "The publication date for the initial version of this document."
+        },
+        {
+          "name": "publication_date",
+          "value": "2025-07-23",
+          "description": "The publication date for the document."
+        },
+        {
+          "name": "regulatory_identifier",
+          "value": "TA1079",
+          "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
+        },
+        {
+          "name": "status",
+          "value": "Active",
+          "description": "Whether this document is Active or Deprecated within moalmanac-db."
+        }
+      ]
+    }
+  ],
+  "extensions": [
+    {
+      "name": "status",
+      "value": "Approved",
+      "description": "Current approval status."
+    },
+    {
+      "name": "statement description",
+      "value": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended fruquintinib, within its marketing authorisation, as an option at third line or later to treat metastatic colorectal cancer in adults when previous treatment has included fluoropyrimidine-, oxaliplatin-, and irinotecan-based chemotherapy (with or without anti-VEGF treatment), and anti-EGFR treatment if the cancer is RAS wild-type (unless not suitable). Fruquintinib is recommended only when trifluridine-tipiracil with bevacizumab is not suitable, within its marketing authorisation and subject to the commercial arrangement available to the NHS.",
+      "description": "The description text for all Statements derived from this Indication."
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "id": "ind:nice:ta851:1.1",
+  "type": "Indication",
+  "description": "Pembrolizumab is recommended, within its marketing authorisation, as an option with chemotherapy for neoadjuvant treatment and then continued alone as adjuvant treatment after surgery for adults with triple-negative early breast cancer at high risk of recurrence or locally advanced breast cancer. It is recommended only if the company provides pembrolizumab according to the commercial arrangement.",
+  "contributions": [
+    {
+      "id": "ctrb:qub:2026-06-17:0",
+      "type": "Contribution",
+      "description": "Initial curation of NICE approvals",
+      "date": "2026-06-17",
+      "contributor": {
+        "id": "agent:user:qub",
+        "type": "Agent",
+        "agentType": "contributor",
+        "name": "Queen's University Belfast",
+        "description": "Queen's University Belfast"
+      }
+    },
+    {
+      "id": "ctrb:nice:2022-12-14:0",
+      "type": "Contribution",
+      "description": "Indication recommended by NICE technology appraisal.",
+      "date": "2022-12-14",
+      "contributor": {
+        "id": "agent:org:nice",
+        "type": "Agent",
+        "agentType": "organization",
+        "name": "National Institute for Health and Care Excellence",
+        "description": "Regulatory and guidance body that issues Technology Appraisals recommending medicines for use in England and Wales, endorsed by Health and Social Care Northern Ireland (HSC NI) for use in Northern Ireland."
+      }
+    }
+  ],
+  "reportedIn": [
+    {
+      "id": "doc:nice:ta851",
+      "type": "Document",
+      "documentType": "Regulatory approval",
+      "name": "Keytruda (Pembrolizumab) [technology appraisal guidance]. NICE.",
+      "title": null,
+      "aliases": [],
+      "description": "Pembrolizumab for neoadjuvant and adjuvant treatment of triple-negative early or locally advanced breast cancer, 2022, National Institute for Health and Care Excellence website. https://www.nice.org.uk/guidance/ta851/resources/pembrolizumab-for-neoadjuvant-and-adjuvant-treatment-of-triplenegative-early-or-locally-advanced-breast-cancer-pdf-82613547180997. Revised December 2022. Accessed September 3, 2026.",
+      "urls": [
+        "https://www.nice.org.uk/guidance/ta851/resources/pembrolizumab-for-neoadjuvant-and-adjuvant-treatment-of-triplenegative-early-or-locally-advanced-breast-cancer-pdf-82613547180997",
+        "https://www.nice.org.uk/guidance/ta851"
+      ],
+      "doi": null,
+      "pmid": null,
+      "extensions": [
+        {
+          "name": "agent",
+          "value": {
+            "id": "agent:org:nice",
+            "type": "Agent",
+            "agentType": "organization",
+            "name": "National Institute for Health and Care Excellence",
+            "description": "Regulatory and guidance body that issues Technology Appraisals recommending medicines for use in England and Wales, endorsed by Health and Social Care Northern Ireland (HSC NI) for use in Northern Ireland."
+          },
+          "description": "The organization that published this document."
+        },
+        {
+          "name": "company",
+          "value": null,
+          "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
+        },
+        {
+          "name": "drug_name_brand",
+          "value": null,
+          "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
+        },
+        {
+          "name": "drug_name_generic",
+          "value": null,
+          "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
+        },
+        {
+          "name": "first_publication_date",
+          "value": null,
+          "description": "The publication date for the initial version of this document."
+        },
+        {
+          "name": "publication_date",
+          "value": "2022-12-14",
+          "description": "The publication date for the document."
+        },
+        {
+          "name": "regulatory_identifier",
+          "value": "TA851",
+          "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
+        },
+        {
+          "name": "status",
+          "value": "Active",
+          "description": "Whether this document is Active or Deprecated within moalmanac-db."
+        }
+      ]
+    }
+  ],
+  "extensions": [
+    {
+      "name": "status",
+      "value": "Approved",
+      "description": "Current approval status."
+    },
+    {
+      "name": "statement description",
+      "value": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended pembrolizumab, within its marketing authorisation, as an option with chemotherapy for neoadjuvant treatment and then continued alone as adjuvant treatment after surgery, for adults with triple-negative early breast cancer at high risk of recurrence or locally advanced breast cancer. Pembrolizumab is recommended within its marketing authorisation and subject to the commercial arrangement available to the NHS.",
+      "description": "The description text for all Statements derived from this Indication."
+    }
+  ]
+}

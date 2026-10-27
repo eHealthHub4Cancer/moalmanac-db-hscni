@@ -1,7 +1,7 @@
 {
   "id": "stmt:nice:ta1036:1.1:0",
   "type": "Statement",
-  "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Elacestrant as an option for treating oestrogen receptor (ER)- positive HER2-negative locally advanced or metastatic breast cancer with an activating ESR1 mutation that has progressed after at least 1 line of endocrine treatment plus a cyclin-dependent kinase (CDK) 4 and 6 inhibitor in: the cancer has progressed after at least 12 months of endocrine treatment plus a CDK 4 and 6 inhibitor, and It is only recommended if women, trans men and non-binary people who have been through the menopause; trans women and men. Elacestrant is recommended only if:; the company provides it according to the commercial arrangement.",
+  "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended elacestrant (Orserdu) for the treatment of adults with oestrogen receptor (ER)-positive, HER2-negative locally advanced or metastatic breast cancer with an activating ESR1 mutation, whose disease has progressed after at least 12 months of endocrine treatment plus a CDK 4 and 6 inhibitor. Elacestrant is recommended within its marketing authorisation and subject to the commercial arrangements available to the NHS.",
   "contributions": [
     {
       "id": "ctrb:qub:2026-06-17:0",
@@ -59,17 +59,17 @@
         },
         {
           "name": "company",
-          "value": "Menarini",
+          "value": null,
           "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
         },
         {
           "name": "drug_name_brand",
-          "value": "Orserdu",
+          "value": null,
           "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
         },
         {
           "name": "drug_name_generic",
-          "value": "Elacestrant",
+          "value": null,
           "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
         },
         {
@@ -527,17 +527,17 @@
               },
               {
                 "name": "company",
-                "value": "Menarini",
+                "value": null,
                 "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
               },
               {
                 "name": "drug_name_brand",
-                "value": "Orserdu",
+                "value": null,
                 "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
               },
               {
                 "name": "drug_name_generic",
-                "value": "Elacestrant",
+                "value": null,
                 "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
               },
               {

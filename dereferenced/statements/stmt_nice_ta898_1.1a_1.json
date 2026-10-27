@@ -1,7 +1,7 @@
 {
   "id": "stmt:nice:ta898:1.1a:1",
   "type": "Statement",
-  "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Dabrafenib plus trametinib as an option for treating BRAF V600 mutation-positive advanced non-small-cell lung cancer (NSCLC) in adults, only if: it is used as first-line treatment of advanced stage cancer, and It is only recommended if the company provides it according to the commercial arrangement.",
+  "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended dabrafenib plus trametinib as first-line treatment of BRAF V600 mutation-positive advanced non-small-cell lung cancer (NSCLC) in adults. Dabrafenib plus trametinib is recommended within its marketing authorisation and subject to the commercial arrangement available to the NHS.",
   "contributions": [
     {
       "id": "ctrb:qub:2026-06-17:0",
@@ -59,17 +59,17 @@
         },
         {
           "name": "company",
-          "value": "Novartis",
+          "value": null,
           "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
         },
         {
           "name": "drug_name_brand",
-          "value": "Tafinlar",
+          "value": null,
           "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
         },
         {
           "name": "drug_name_generic",
-          "value": "Dabrafenib",
+          "value": null,
           "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
         },
         {
@@ -469,7 +469,7 @@
       "value": {
         "id": "ind:nice:ta898:1.1a",
         "type": "Indication",
-        "description": "Dabrafenib plus trametinib is recommended as an option for treating BRAF V600 mutation-positive advanced non-small-cell lung cancer (NSCLC) in adults, only if: it is used as first-line treatment of advanced stage cancer, and It is only recommended if the company provides it according to the commercial arrangement.",
+        "description": "Dabrafenib plus trametinib is recommended as an option for treating BRAF V600 mutation-positive advanced non-small-cell lung cancer (NSCLC) in adults, only if it is used as first-line treatment of advanced stage cancer and the company provides it according to the commercial arrangement.",
         "contributions": [
           {
             "id": "ctrb:qub:2026-06-17:0",
@@ -527,17 +527,17 @@
               },
               {
                 "name": "company",
-                "value": "Novartis",
+                "value": null,
                 "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
               },
               {
                 "name": "drug_name_brand",
-                "value": "Tafinlar",
+                "value": null,
                 "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
               },
               {
                 "name": "drug_name_generic",
-                "value": "Dabrafenib",
+                "value": null,
                 "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
               },
               {

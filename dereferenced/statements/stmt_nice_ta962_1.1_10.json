@@ -1,7 +1,7 @@
 {
   "id": "stmt:nice:ta962:1.1:10",
   "type": "Statement",
-  "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Olaparib, within its marketing authorisation, as a treatment option for maintenance treatment of BRCA mutation-positive, advanced (FIGO stages 3 and 4), high-grade epithelial ovarian, fallopian tube or primary peritoneal cancer that has responded to first-line platinum-based chemotherapy in adults. It is only recommended if the company provides it according to the commercial arrangement.",
+  "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended olaparib for the maintenance treatment of BRCA mutation-positive advanced high-grade epithelial ovarian, fallopian tube or primary peritoneal cancer in adults after complete or partial response to first-line platinum-based chemotherapy. Olaparib is recommended within its marketing authorisation and subject to the commercial arrangement available to the NHS",
   "contributions": [
     {
       "id": "ctrb:qub:2026-06-17:0",
@@ -59,17 +59,17 @@
         },
         {
           "name": "company",
-          "value": "AstraZeneca / MSD",
+          "value": null,
           "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
         },
         {
           "name": "drug_name_brand",
-          "value": "Lynparza",
+          "value": null,
           "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
         },
         {
           "name": "drug_name_generic",
-          "value": "Olaparib",
+          "value": null,
           "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
         },
         {
@@ -447,17 +447,17 @@
               },
               {
                 "name": "company",
-                "value": "AstraZeneca / MSD",
+                "value": null,
                 "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
               },
               {
                 "name": "drug_name_brand",
-                "value": "Lynparza",
+                "value": null,
                 "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
               },
               {
                 "name": "drug_name_generic",
-                "value": "Olaparib",
+                "value": null,
                 "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
               },
               {

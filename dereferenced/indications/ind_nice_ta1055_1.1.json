@@ -1,0 +1,110 @@
+{
+  "id": "ind:nice:ta1055:1.1",
+  "type": "Indication",
+  "description": "Rucaparib is recommended as an option for the maintenance treatment of advanced (FIGO stages 3 and 4) high-grade epithelial ovarian, fallopian tube or primary peritoneal cancer after complete or partial response to first-line platinum-based chemotherapy in adults, only if: it is BRCA mutation-negative and homologous recombination deficiency (HRD)-positive, or it is BRCA mutation-negative, and HRD status is negative or unknown, and bevacizumab is not a treatment option because NHS England's BEV3 and BEV10 commissioning approval criteria for having it are not met, or it is contraindicated or not tolerated; and the company provides rucaparib according to the commercial arrangement.",
+  "contributions": [
+    {
+      "id": "ctrb:qub:2026-06-17:0",
+      "type": "Contribution",
+      "description": "Initial curation of NICE approvals",
+      "date": "2026-06-17",
+      "contributor": {
+        "id": "agent:user:qub",
+        "type": "Agent",
+        "agentType": "contributor",
+        "name": "Queen's University Belfast",
+        "description": "Queen's University Belfast"
+      }
+    },
+    {
+      "id": "ctrb:nice:2025-04-16:0",
+      "type": "Contribution",
+      "description": "Indication recommended by NICE technology appraisal.",
+      "date": "2025-04-16",
+      "contributor": {
+        "id": "agent:org:nice",
+        "type": "Agent",
+        "agentType": "organization",
+        "name": "National Institute for Health and Care Excellence",
+        "description": "Regulatory and guidance body that issues Technology Appraisals recommending medicines for use in England and Wales, endorsed by Health and Social Care Northern Ireland (HSC NI) for use in Northern Ireland."
+      }
+    }
+  ],
+  "reportedIn": [
+    {
+      "id": "doc:nice:ta1055",
+      "type": "Document",
+      "documentType": "Regulatory approval",
+      "name": "Rubraca (Rucaparib) [technology appraisal guidance]. NICE.",
+      "title": null,
+      "aliases": [],
+      "description": "Rucaparib for maintenance treatment of advanced ovarian, fallopian tube and peritoneal cancer after response to first-line platinum-based chemotherapy, 2025, National Institute for Health and Care Excellence website. https://www.nice.org.uk/guidance/ta1055/resources/rucaparib-for-maintenance-treatment-of-advanced-ovarian-fallopian-tube-and-peritoneal-cancer-after-response-to-firstline-platinumbased-chemotherapy-pdf-2973528517306309. Revised April 2025. Accessed September 3, 2026.",
+      "urls": [
+        "https://www.nice.org.uk/guidance/ta1055/resources/rucaparib-for-maintenance-treatment-of-advanced-ovarian-fallopian-tube-and-peritoneal-cancer-after-response-to-firstline-platinumbased-chemotherapy-pdf-2973528517306309",
+        "https://www.nice.org.uk/guidance/ta1055"
+      ],
+      "doi": null,
+      "pmid": null,
+      "extensions": [
+        {
+          "name": "agent",
+          "value": {
+            "id": "agent:org:nice",
+            "type": "Agent",
+            "agentType": "organization",
+            "name": "National Institute for Health and Care Excellence",
+            "description": "Regulatory and guidance body that issues Technology Appraisals recommending medicines for use in England and Wales, endorsed by Health and Social Care Northern Ireland (HSC NI) for use in Northern Ireland."
+          },
+          "description": "The organization that published this document."
+        },
+        {
+          "name": "company",
+          "value": null,
+          "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
+        },
+        {
+          "name": "drug_name_brand",
+          "value": null,
+          "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
+        },
+        {
+          "name": "drug_name_generic",
+          "value": null,
+          "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
+        },
+        {
+          "name": "first_publication_date",
+          "value": null,
+          "description": "The publication date for the initial version of this document."
+        },
+        {
+          "name": "publication_date",
+          "value": "2025-04-16",
+          "description": "The publication date for the document."
+        },
+        {
+          "name": "regulatory_identifier",
+          "value": "TA1055",
+          "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
+        },
+        {
+          "name": "status",
+          "value": "Active",
+          "description": "Whether this document is Active or Deprecated within moalmanac-db."
+        }
+      ]
+    }
+  ],
+  "extensions": [
+    {
+      "name": "status",
+      "value": "Approved",
+      "description": "Current approval status."
+    },
+    {
+      "name": "statement description",
+      "value": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended rucaparib, within its marketing authorisation, as an option for the maintenance treatment of advanced (FIGO stages 3 and 4) high-grade epithelial ovarian, fallopian tube or primary peritoneal cancer in adults after complete or partial response to first-line platinum-based chemotherapy, only if it is BRCA mutation-negative and either homologous recombination deficiency (HRD)-positive, or HRD-negative or unknown with bevacizumab not a treatment option. Rucaparib is recommended within its marketing authorisation and subject to the commercial arrangement available to the NHS.",
+      "description": "The description text for all Statements derived from this Indication."
+    }
+  ]
+}

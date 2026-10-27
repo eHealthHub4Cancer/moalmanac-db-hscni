@@ -1,0 +1,110 @@
+{
+  "id": "ind:nice:ta34:1.1",
+  "type": "Indication",
+  "description": "Trastuzumab in combination with paclitaxel is recommended as an option for people with tumours expressing human epidermal growth factor receptor 2 (HER2) scored at levels of 3 or more who have not received chemotherapy for metastatic breast cancer and in whom anthracycline treatment is inappropriate. Trastuzumab monotherapy is recommended as an option for people with tumours expressing HER2 scored at levels of 3 or more who have received at least 2 chemotherapy regimens for metastatic breast cancer.",
+  "contributions": [
+    {
+      "id": "ctrb:qub:2026-06-17:0",
+      "type": "Contribution",
+      "description": "Initial curation of NICE approvals",
+      "date": "2026-06-17",
+      "contributor": {
+        "id": "agent:user:qub",
+        "type": "Agent",
+        "agentType": "contributor",
+        "name": "Queen's University Belfast",
+        "description": "Queen's University Belfast"
+      }
+    },
+    {
+      "id": "ctrb:nice:2002-03-15:0",
+      "type": "Contribution",
+      "description": "Indication recommended by NICE technology appraisal.",
+      "date": "2002-03-15",
+      "contributor": {
+        "id": "agent:org:nice",
+        "type": "Agent",
+        "agentType": "organization",
+        "name": "National Institute for Health and Care Excellence",
+        "description": "Regulatory and guidance body that issues Technology Appraisals recommending medicines for use in England and Wales, endorsed by Health and Social Care Northern Ireland (HSC NI) for use in Northern Ireland."
+      }
+    }
+  ],
+  "reportedIn": [
+    {
+      "id": "doc:nice:ta34",
+      "type": "Document",
+      "documentType": "Regulatory approval",
+      "name": "Herceptin (Trastuzumab) [technology appraisal guidance]. NICE.",
+      "title": null,
+      "aliases": [],
+      "description": "Guidance on the use of trastuzumab for the treatment of advanced breast cancer, 2002, National Institute for Health and Care Excellence website. https://www.nice.org.uk/guidance/ta34/resources/guidance-on-the-use-of-trastuzumab-for-the-treatment-of-advanced-breast-cancer-pdf-2294590. Revised March 2002. Accessed September 6, 2026.",
+      "urls": [
+        "https://www.nice.org.uk/guidance/ta34/resources/guidance-on-the-use-of-trastuzumab-for-the-treatment-of-advanced-breast-cancer-pdf-2294590",
+        "https://www.nice.org.uk/guidance/ta34"
+      ],
+      "doi": null,
+      "pmid": null,
+      "extensions": [
+        {
+          "name": "agent",
+          "value": {
+            "id": "agent:org:nice",
+            "type": "Agent",
+            "agentType": "organization",
+            "name": "National Institute for Health and Care Excellence",
+            "description": "Regulatory and guidance body that issues Technology Appraisals recommending medicines for use in England and Wales, endorsed by Health and Social Care Northern Ireland (HSC NI) for use in Northern Ireland."
+          },
+          "description": "The organization that published this document."
+        },
+        {
+          "name": "company",
+          "value": null,
+          "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
+        },
+        {
+          "name": "drug_name_brand",
+          "value": null,
+          "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
+        },
+        {
+          "name": "drug_name_generic",
+          "value": null,
+          "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
+        },
+        {
+          "name": "first_publication_date",
+          "value": null,
+          "description": "The publication date for the initial version of this document."
+        },
+        {
+          "name": "publication_date",
+          "value": "2002-03-15",
+          "description": "The publication date for the document."
+        },
+        {
+          "name": "regulatory_identifier",
+          "value": "TA34",
+          "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
+        },
+        {
+          "name": "status",
+          "value": "Active",
+          "description": "Whether this document is Active or Deprecated within moalmanac-db."
+        }
+      ]
+    }
+  ],
+  "extensions": [
+    {
+      "name": "status",
+      "value": "Approved",
+      "description": "Current approval status."
+    },
+    {
+      "name": "statement description",
+      "value": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended trastuzumab, within its marketing authorisation, in combination with paclitaxel for people with HER2 IHC3+ metastatic breast cancer who have not received chemotherapy for metastatic disease and in whom anthracycline treatment is inappropriate, or as monotherapy for people with HER2 IHC3+ metastatic breast cancer who have received at least 2 prior chemotherapy regimens.",
+      "description": "The description text for all Statements derived from this Indication."
+    }
+  ]
+}

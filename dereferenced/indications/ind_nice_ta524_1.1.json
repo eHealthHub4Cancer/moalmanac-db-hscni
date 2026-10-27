@@ -1,7 +1,7 @@
 {
   "id": "ind:nice:ta524:1.1",
   "type": "Indication",
-  "description": "Brentuximab vedotin is recommended as an option for treating CD30-positive Hodgkin lymphoma in adults with relapsed or refractory disease, only if: \u2022 they have already had autologous stem cell transplant or \u2022 they have already had at least 2 previous therapies when autologous stem cell transplant or multi-agent chemotherapy are not suitable and \u2022 the company provides brentuximab vedotin according to the commercial arrangement.",
+  "description": "Brentuximab vedotin is recommended as an option for treating CD30-positive Hodgkin lymphoma in adults with relapsed or refractory disease who have either already had autologous stem cell transplant, or already had at least 2 previous therapies when autologous stem cell transplant or multi-agent chemotherapy are not suitable. It is recommended only if the company provides brentuximab vedotin according to the commercial arrangement.",
   "contributions": [
     {
       "id": "ctrb:qub:2026-06-17:0",
@@ -59,17 +59,17 @@
         },
         {
           "name": "company",
-          "value": "Seagen / Takeda",
+          "value": null,
           "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
         },
         {
           "name": "drug_name_brand",
-          "value": "Adcetris",
+          "value": null,
           "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
         },
         {
           "name": "drug_name_generic",
-          "value": "Brentuximab vedotin",
+          "value": null,
           "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
         },
         {
@@ -103,7 +103,7 @@
     },
     {
       "name": "statement description",
-      "value": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Brentuximab vedotin as an option for treating CD30-positive Hodgkin lymphoma in adults with relapsed or refractory disease, only if: \u2022 they have already had autologous stem cell transplant or \u2022 they have already had at least 2 previous therapies when autologous stem cell transplant or multi-agent chemotherapy are not suitable and \u2022 the company provides brentuximab vedotin according to the commercial arrangement.",
+      "value": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended brentuximab vedotin for the treatment of adults with relapsed or refractory CD30-positive Hodgkin lymphoma who have already had autologous stem cell transplant, or who have already had at least 2 previous therapies when autologous stem cell transplant or multi-agent chemotherapy are not suitable. Brentuximab vedotin is recommended within its marketing authorisation and subject to the commercial arrangement available to the NHS",
       "description": "The description text for all Statements derived from this Indication."
     }
   ]

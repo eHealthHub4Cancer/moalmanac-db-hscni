@@ -1,7 +1,7 @@
 {
   "id": "stmt:nice:ta977:1.1a:0",
   "type": "Statement",
-  "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Dabrafenib with trametinib, within its marketing authorisation, as a treatment option for treating low-grade glioma (LGG) with a BRAF V600E mutation in children and young people aged 1 year and over who need systemic treatment  Dabrafenib with trametinib is only recommended if the company provides it according to the commercial arrangements.",
+  "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended dabrafenib with trametinib for the treatment of children and young people aged 1 year and over with low-grade glioma (LGG) with a BRAF V600E mutation who need systemic treatment. Dabrafenib with trametinib is recommended within its marketing authorisation and subject to the commercial arrangements available to the NHS",
   "contributions": [
     {
       "id": "ctrb:qub:2026-06-17:0",
@@ -35,7 +35,7 @@
       "id": "doc:nice:ta977",
       "type": "Document",
       "documentType": "Regulatory approval",
-      "name": "Tafinlar (Dabrafenib with trametinib) [technology appraisal guidance]. NICE.",
+      "name": "Tafinlar (Dabrafenib) [technology appraisal guidance]. NICE.",
       "title": null,
       "aliases": [],
       "description": "Dabrafenib with trametinib for treating BRAF V600E mutation-positive glioma in children and young people aged 1 year and over, 2024, National Institute for Health and Care Excellence website. https://www.nice.org.uk/guidance/ta977/resources/dabrafenib-with-trametinib-for-treating-braf-v600e-mutationpositive-glioma-in-children-and-young-people-aged-1-year-and-over-pdf-82615854973381. Revised May 2024. Accessed October 20, 2025.",
@@ -59,17 +59,17 @@
         },
         {
           "name": "company",
-          "value": "Novartis",
+          "value": null,
           "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
         },
         {
           "name": "drug_name_brand",
-          "value": "Tafinlar",
+          "value": null,
           "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
         },
         {
           "name": "drug_name_generic",
-          "value": "Dabrafenib with trametinib",
+          "value": null,
           "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
         },
         {
@@ -503,7 +503,7 @@
             "id": "doc:nice:ta977",
             "type": "Document",
             "documentType": "Regulatory approval",
-            "name": "Tafinlar (Dabrafenib with trametinib) [technology appraisal guidance]. NICE.",
+            "name": "Tafinlar (Dabrafenib) [technology appraisal guidance]. NICE.",
             "title": null,
             "aliases": [],
             "description": "Dabrafenib with trametinib for treating BRAF V600E mutation-positive glioma in children and young people aged 1 year and over, 2024, National Institute for Health and Care Excellence website. https://www.nice.org.uk/guidance/ta977/resources/dabrafenib-with-trametinib-for-treating-braf-v600e-mutationpositive-glioma-in-children-and-young-people-aged-1-year-and-over-pdf-82615854973381. Revised May 2024. Accessed October 20, 2025.",
@@ -527,17 +527,17 @@
               },
               {
                 "name": "company",
-                "value": "Novartis",
+                "value": null,
                 "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
               },
               {
                 "name": "drug_name_brand",
-                "value": "Tafinlar",
+                "value": null,
                 "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
               },
               {
                 "name": "drug_name_generic",
-                "value": "Dabrafenib with trametinib",
+                "value": null,
                 "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
               },
               {

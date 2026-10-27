@@ -1,0 +1,110 @@
+{
+  "id": "ind:nice:ta642:1.1",
+  "type": "Indication",
+  "description": "Gilteritinib monotherapy is recommended as an option for treating relapsed or refractory FLT3-mutation-positive acute myeloid leukaemia (AML) in adults only if the company provides gilteritinib according to the commercial arrangement. Gilteritinib should not be given as maintenance therapy after a haematopoietic stem cell transplant.",
+  "contributions": [
+    {
+      "id": "ctrb:qub:2026-06-17:0",
+      "type": "Contribution",
+      "description": "Initial curation of NICE approvals",
+      "date": "2026-06-17",
+      "contributor": {
+        "id": "agent:user:qub",
+        "type": "Agent",
+        "agentType": "contributor",
+        "name": "Queen's University Belfast",
+        "description": "Queen's University Belfast"
+      }
+    },
+    {
+      "id": "ctrb:nice:2020-08-12:0",
+      "type": "Contribution",
+      "description": "Indication recommended by NICE technology appraisal.",
+      "date": "2020-08-12",
+      "contributor": {
+        "id": "agent:org:nice",
+        "type": "Agent",
+        "agentType": "organization",
+        "name": "National Institute for Health and Care Excellence",
+        "description": "Regulatory and guidance body that issues Technology Appraisals recommending medicines for use in England and Wales, endorsed by Health and Social Care Northern Ireland (HSC NI) for use in Northern Ireland."
+      }
+    }
+  ],
+  "reportedIn": [
+    {
+      "id": "doc:nice:ta642",
+      "type": "Document",
+      "documentType": "Regulatory approval",
+      "name": "Xospata (Gilteritinib) [technology appraisal guidance]. NICE.",
+      "title": null,
+      "aliases": [],
+      "description": "Gilteritinib for treating relapsed or refractory acute myeloid leukaemia, 2020, National Institute for Health and Care Excellence website. https://www.nice.org.uk/guidance/ta642/resources/gilteritinib-for-treating-relapsed-or-refractory-acute-myeloid-leukaemia-pdf-82609134829765. Revised August 2020. Accessed September 4, 2026.",
+      "urls": [
+        "https://www.nice.org.uk/guidance/ta642/resources/gilteritinib-for-treating-relapsed-or-refractory-acute-myeloid-leukaemia-pdf-82609134829765",
+        "https://www.nice.org.uk/guidance/ta642"
+      ],
+      "doi": null,
+      "pmid": null,
+      "extensions": [
+        {
+          "name": "agent",
+          "value": {
+            "id": "agent:org:nice",
+            "type": "Agent",
+            "agentType": "organization",
+            "name": "National Institute for Health and Care Excellence",
+            "description": "Regulatory and guidance body that issues Technology Appraisals recommending medicines for use in England and Wales, endorsed by Health and Social Care Northern Ireland (HSC NI) for use in Northern Ireland."
+          },
+          "description": "The organization that published this document."
+        },
+        {
+          "name": "company",
+          "value": null,
+          "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
+        },
+        {
+          "name": "drug_name_brand",
+          "value": null,
+          "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
+        },
+        {
+          "name": "drug_name_generic",
+          "value": null,
+          "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
+        },
+        {
+          "name": "first_publication_date",
+          "value": null,
+          "description": "The publication date for the initial version of this document."
+        },
+        {
+          "name": "publication_date",
+          "value": "2020-08-12",
+          "description": "The publication date for the document."
+        },
+        {
+          "name": "regulatory_identifier",
+          "value": "TA642",
+          "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
+        },
+        {
+          "name": "status",
+          "value": "Active",
+          "description": "Whether this document is Active or Deprecated within moalmanac-db."
+        }
+      ]
+    }
+  ],
+  "extensions": [
+    {
+      "name": "status",
+      "value": "Approved",
+      "description": "Current approval status."
+    },
+    {
+      "name": "statement description",
+      "value": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended gilteritinib monotherapy, within its marketing authorisation, as an option for treating relapsed or refractory FLT3-mutation-positive acute myeloid leukaemia in adults. Gilteritinib should not be given as maintenance therapy after a haematopoietic stem cell transplant. Gilteritinib is recommended within its marketing authorisation and subject to the commercial arrangement available to the NHS.",
+      "description": "The description text for all Statements derived from this Indication."
+    }
+  ]
+}

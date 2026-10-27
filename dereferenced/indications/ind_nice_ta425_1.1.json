@@ -1,0 +1,110 @@
+{
+  "id": "ind:nice:ta425:1.1",
+  "type": "Indication",
+  "description": "Dasatinib and nilotinib are recommended as options for treating only chronic- or accelerated-phase Philadelphia-chromosome-positive chronic myeloid leukaemia in adults, if: they cannot have imatinib, or their disease is imatinib-resistant, and the companies provide the drugs with the discounts agreed in the relevant patient access schemes.",
+  "contributions": [
+    {
+      "id": "ctrb:qub:2026-06-17:0",
+      "type": "Contribution",
+      "description": "Initial curation of NICE approvals",
+      "date": "2026-06-17",
+      "contributor": {
+        "id": "agent:user:qub",
+        "type": "Agent",
+        "agentType": "contributor",
+        "name": "Queen's University Belfast",
+        "description": "Queen's University Belfast"
+      }
+    },
+    {
+      "id": "ctrb:nice:2016-12-21:0",
+      "type": "Contribution",
+      "description": "Indication recommended by NICE technology appraisal.",
+      "date": "2016-12-21",
+      "contributor": {
+        "id": "agent:org:nice",
+        "type": "Agent",
+        "agentType": "organization",
+        "name": "National Institute for Health and Care Excellence",
+        "description": "Regulatory and guidance body that issues Technology Appraisals recommending medicines for use in England and Wales, endorsed by Health and Social Care Northern Ireland (HSC NI) for use in Northern Ireland."
+      }
+    }
+  ],
+  "reportedIn": [
+    {
+      "id": "doc:nice:ta425",
+      "type": "Document",
+      "documentType": "Regulatory approval",
+      "name": "Sprycel, Tasigna (Dasatinib, Nilotinib) [technology appraisal guidance]. NICE.",
+      "title": null,
+      "aliases": [],
+      "description": "Dasatinib, nilotinib and high-dose imatinib for treating imatinib-resistant or intolerant chronic myeloid leukaemia, 2016, National Institute for Health and Care Excellence website. https://www.nice.org.uk/guidance/ta425/resources/dasatinib-nilotinib-and-highdose-imatinib-for-treating-imatinibresistant-or-intolerant-chronic-myeloid-leukaemia-pdf-82604665371589. Revised December 2016. Accessed September 6, 2026.",
+      "urls": [
+        "https://www.nice.org.uk/guidance/ta425/resources/dasatinib-nilotinib-and-highdose-imatinib-for-treating-imatinibresistant-or-intolerant-chronic-myeloid-leukaemia-pdf-82604665371589",
+        "https://www.nice.org.uk/guidance/ta425"
+      ],
+      "doi": null,
+      "pmid": null,
+      "extensions": [
+        {
+          "name": "agent",
+          "value": {
+            "id": "agent:org:nice",
+            "type": "Agent",
+            "agentType": "organization",
+            "name": "National Institute for Health and Care Excellence",
+            "description": "Regulatory and guidance body that issues Technology Appraisals recommending medicines for use in England and Wales, endorsed by Health and Social Care Northern Ireland (HSC NI) for use in Northern Ireland."
+          },
+          "description": "The organization that published this document."
+        },
+        {
+          "name": "company",
+          "value": null,
+          "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
+        },
+        {
+          "name": "drug_name_brand",
+          "value": null,
+          "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
+        },
+        {
+          "name": "drug_name_generic",
+          "value": null,
+          "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
+        },
+        {
+          "name": "first_publication_date",
+          "value": null,
+          "description": "The publication date for the initial version of this document."
+        },
+        {
+          "name": "publication_date",
+          "value": "2016-12-21",
+          "description": "The publication date for the document."
+        },
+        {
+          "name": "regulatory_identifier",
+          "value": "TA425",
+          "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
+        },
+        {
+          "name": "status",
+          "value": "Active",
+          "description": "Whether this document is Active or Deprecated within moalmanac-db."
+        }
+      ]
+    }
+  ],
+  "extensions": [
+    {
+      "name": "status",
+      "value": "Approved",
+      "description": "Current approval status."
+    },
+    {
+      "name": "statement description",
+      "value": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended dasatinib and nilotinib, within their marketing authorisations, as options for treating chronic- or accelerated-phase Philadelphia-chromosome-positive chronic myeloid leukaemia in adults who cannot have imatinib, or whose disease is imatinib-resistant. Dasatinib and nilotinib are recommended within their marketing authorisations and subject to the discounts agreed in the relevant patient access schemes.",
+      "description": "The description text for all Statements derived from this Indication."
+    }
+  ]
+}

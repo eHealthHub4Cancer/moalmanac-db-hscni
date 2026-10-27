@@ -1,7 +1,7 @@
 {
   "id": "stmt:nice:ta545:1.1:0",
   "type": "Statement",
-  "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Gemtuzumab ozogamicin, with daunorubicin and cytarabine, as an option for untreated de novo CD33-positive acute myeloid leukaemia (AML), except acute promyelocytic leukaemia, in people 15 years and over, only if: \u2022 they start induction therapy when either the cytogenetic test confirms that the disease has favourable, intermediate or unknown cytogenetics (that is, because the test was unsuccessful) or when their cytogenetic test results are not yet available and \u2022 they start consolidation therapy when their cytogenetic test confirms that the disease has favourable, intermediate or unknown cytogenetics (because the test was unsuccessful) and \u2022 the company provides gemtuzumab ozogamicin according to the commercial arrangement.",
+  "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended gemtuzumab ozogamicin with daunorubicin and cytarabine for the treatment of people aged 15 years and over with untreated de novo CD33-positive acute myeloid leukaemia (AML), except acute promyelocytic leukaemia, whose disease has favourable, intermediate or unknown cytogenetics. Gemtuzumab ozogamicin with daunorubicin and cytarabine is recommended within its marketing authorisation and subject to the commercial arrangement available to the NHS",
   "contributions": [
     {
       "id": "ctrb:qub:2026-06-17:0",
@@ -59,17 +59,17 @@
         },
         {
           "name": "company",
-          "value": "Pfizer",
+          "value": null,
           "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
         },
         {
           "name": "drug_name_brand",
-          "value": "Mylotarg",
+          "value": null,
           "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
         },
         {
           "name": "drug_name_generic",
-          "value": "Gemtuzumab ozogamicin",
+          "value": null,
           "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
         },
         {
@@ -386,7 +386,7 @@
       "value": {
         "id": "ind:nice:ta545:1.1",
         "type": "Indication",
-        "description": "Gemtuzumab ozogamicin, with daunorubicin and cytarabine, is recommended as an option for untreated de novo CD33-positive acute myeloid leukaemia (AML), except acute promyelocytic leukaemia, in people 15 years and over, only if: \u2022 they start induction therapy when either the cytogenetic test confirms that the disease has favourable, intermediate or unknown cytogenetics (that is, because the test was unsuccessful) or when their cytogenetic test results are not yet available and \u2022 they start consolidation therapy when their cytogenetic test confirms that the disease has favourable, intermediate or unknown cytogenetics (because the test was unsuccessful) and \u2022 the company provides gemtuzumab ozogamicin according to the commercial arrangement.",
+        "description": "Gemtuzumab ozogamicin, with daunorubicin and cytarabine, is recommended as an option for untreated de novo CD33-positive acute myeloid leukaemia (AML), except acute promyelocytic leukaemia, in people 15 years and over. Induction therapy should start when either the cytogenetic test confirms that the disease has favourable, intermediate or unknown cytogenetics (that is, because the test was unsuccessful) or when cytogenetic test results are not yet available, and consolidation therapy should start when the cytogenetic test confirms that the disease has favourable, intermediate or unknown cytogenetics (because the test was unsuccessful). It is recommended only if the company provides gemtuzumab ozogamicin according to the commercial arrangement.",
         "contributions": [
           {
             "id": "ctrb:qub:2026-06-17:0",
@@ -444,17 +444,17 @@
               },
               {
                 "name": "company",
-                "value": "Pfizer",
+                "value": null,
                 "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
               },
               {
                 "name": "drug_name_brand",
-                "value": "Mylotarg",
+                "value": null,
                 "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
               },
               {
                 "name": "drug_name_generic",
-                "value": "Gemtuzumab ozogamicin",
+                "value": null,
                 "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
               },
               {

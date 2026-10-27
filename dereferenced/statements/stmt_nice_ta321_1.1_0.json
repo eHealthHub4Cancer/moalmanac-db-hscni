@@ -1,7 +1,7 @@
 {
   "id": "stmt:nice:ta321:1.1:0",
   "type": "Statement",
-  "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Dabrafenib, within its marketing authorisation, as a treatment option for treating unresectable or metastatic BRAF V600 mutation-positive melanoma only if the company provides dabrafenib with the discount agreed in the patient access scheme.",
+  "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended dabrafenib for the treatment of BRAF V600 mutation-positive unresectable or metastatic melanoma in adults. Dabrafenib is recommended within its marketing authorisation and subject to the commercial arrangement available to the NHS.",
   "contributions": [
     {
       "id": "ctrb:qub:2026-06-17:0",
@@ -59,17 +59,17 @@
         },
         {
           "name": "company",
-          "value": "Novartis",
+          "value": null,
           "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
         },
         {
           "name": "drug_name_brand",
-          "value": "Tafinlar",
+          "value": null,
           "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
         },
         {
           "name": "drug_name_generic",
-          "value": "Dabrafenib",
+          "value": null,
           "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
         },
         {
@@ -464,17 +464,17 @@
               },
               {
                 "name": "company",
-                "value": "Novartis",
+                "value": null,
                 "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
               },
               {
                 "name": "drug_name_brand",
-                "value": "Tafinlar",
+                "value": null,
                 "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
               },
               {
                 "name": "drug_name_generic",
-                "value": "Dabrafenib",
+                "value": null,
                 "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
               },
               {

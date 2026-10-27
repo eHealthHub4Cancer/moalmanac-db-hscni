@@ -1,7 +1,7 @@
 {
   "id": "stmt:nice:ta1059:1.1:0",
   "type": "Statement",
-  "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Brentuximab vedotin plus doxorubicin, dacarbazine and vinblastine, within its marketing authorisation, as a treatment option for untreated stage 3 or 4 CD30-positive Hodgkin lymphoma in adults. It can only be used if the company provides it according to the commercial arrangement.",
+  "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended brentuximab vedotin with doxorubicin, dacarbazine and vinblastine for the treatment of adults with untreated stage 3 or 4 CD30-positive Hodgkin lymphoma. Brentuximab vedotin with doxorubicin, dacarbazine and vinblastine is recommended within its marketing authorisation and subject to the commercial arrangement available to the NHS.",
   "contributions": [
     {
       "id": "ctrb:qub:2026-06-17:0",
@@ -59,17 +59,17 @@
         },
         {
           "name": "company",
-          "value": "Seagen / Takeda",
+          "value": null,
           "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
         },
         {
           "name": "drug_name_brand",
-          "value": "Adcetris",
+          "value": null,
           "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
         },
         {
           "name": "drug_name_generic",
-          "value": "Brentuximab vedotin",
+          "value": null,
           "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
         },
         {
@@ -501,17 +501,17 @@
               },
               {
                 "name": "company",
-                "value": "Seagen / Takeda",
+                "value": null,
                 "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
               },
               {
                 "name": "drug_name_brand",
-                "value": "Adcetris",
+                "value": null,
                 "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
               },
               {
                 "name": "drug_name_generic",
-                "value": "Brentuximab vedotin",
+                "value": null,
                 "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
               },
               {

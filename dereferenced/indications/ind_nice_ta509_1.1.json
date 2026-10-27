@@ -59,17 +59,17 @@
         },
         {
           "name": "company",
-          "value": "Roche",
+          "value": null,
           "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
         },
         {
           "name": "drug_name_brand",
-          "value": "Perjeta",
+          "value": null,
           "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
         },
         {
           "name": "drug_name_generic",
-          "value": "Pertuzumab",
+          "value": null,
           "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
         },
         {
@@ -103,7 +103,7 @@
     },
     {
       "name": "statement description",
-      "value": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Pertuzumab, in combination with trastuzumab and docetaxel,, within its marketing authorisation, for treating HER2-positive metastatic or locally recurrent unresectable breast cancer, in adults who have not had previous anti-HER2 therapy or chemotherapy for their metastatic disease, only if the company provides pertuzumab within the agreed commercial access arrangement.",
+      "value": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended pertuzumab (Perjeta) in combination with trastuzumab and docetaxel for the first-line treatment of adults with HER2-positive metastatic or locally recurrent unresectable breast cancer who have not previously received anti-HER2 therapy or chemotherapy for their metastatic disease. Pertuzumab with trastuzumab and docetaxel is recommended within its marketing authorisation and subject to the commercial arrangements available to the NHS.",
       "description": "The description text for all Statements derived from this Indication."
     }
   ]

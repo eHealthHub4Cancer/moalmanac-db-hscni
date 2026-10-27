@@ -1,7 +1,7 @@
 {
   "id": "stmt:nice:ta269:1.1:1",
   "type": "Statement",
-  "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Vemurafenib as an option for treating BRAF V600 mutationpositive unresectable or metastatic melanoma only if the manufacturer provides vemurafenib with the discount agreed in the patient access scheme.",
+  "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended vemurafenib for the treatment of BRAF V600 mutation-positive unresectable or metastatic melanoma in adults. Vemurafenib is recommended within its marketing authorisation and subject to the commercial arrangement available to the NHS.",
   "contributions": [
     {
       "id": "ctrb:qub:2026-06-17:0",
@@ -59,17 +59,17 @@
         },
         {
           "name": "company",
-          "value": "Roche",
+          "value": null,
           "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
         },
         {
           "name": "drug_name_brand",
-          "value": "Zelboraf",
+          "value": null,
           "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
         },
         {
           "name": "drug_name_generic",
-          "value": "Vemurafenib",
+          "value": null,
           "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
         },
         {
@@ -464,17 +464,17 @@
               },
               {
                 "name": "company",
-                "value": "Roche",
+                "value": null,
                 "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
               },
               {
                 "name": "drug_name_brand",
-                "value": "Zelboraf",
+                "value": null,
                 "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
               },
               {
                 "name": "drug_name_generic",
-                "value": "Vemurafenib",
+                "value": null,
                 "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
               },
               {

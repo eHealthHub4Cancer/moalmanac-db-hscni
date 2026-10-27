@@ -1,7 +1,7 @@
 {
   "id": "stmt:nice:ta396:1.1:0",
   "type": "Statement",
-  "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Trametinib in combination with dabrafenib, within its marketing authorisation, as a treatment option for treating unresectable or metastatic melanoma in adults with a BRAF V600 mutation only when the company provides trametinib and dabrafenib with the discounts agreed in the patient access schemes.",
+  "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended trametinib in combination with dabrafenib for the treatment of BRAF V600 mutation-positive unresectable or metastatic melanoma in adults. Trametinib and dabrafenib are recommended within their marketing authorisation and subject to the commercial arrangement available to the NHS.",
   "contributions": [
     {
       "id": "ctrb:qub:2026-06-17:0",
@@ -59,17 +59,17 @@
         },
         {
           "name": "company",
-          "value": "Novartis",
+          "value": null,
           "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
         },
         {
           "name": "drug_name_brand",
-          "value": "Mekinist",
+          "value": null,
           "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
         },
         {
           "name": "drug_name_generic",
-          "value": "Trametinib",
+          "value": null,
           "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
         },
         {
@@ -527,17 +527,17 @@
               },
               {
                 "name": "company",
-                "value": "Novartis",
+                "value": null,
                 "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
               },
               {
                 "name": "drug_name_brand",
-                "value": "Mekinist",
+                "value": null,
                 "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
               },
               {
                 "name": "drug_name_generic",
-                "value": "Trametinib",
+                "value": null,
                 "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
               },
               {

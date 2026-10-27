@@ -1,7 +1,7 @@
 {
   "id": "stmt:nice:ta1071:1.1a:0",
   "type": "Statement",
-  "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Atezolizumab, within its marketing authorisation, as a treatment option for the adjuvant treatment of non-small-cell lung cancer (NSCLC) after complete resection and platinum-based chemotherapy in adults at high risk of recurrence whose tumours express PD-L1 on 50% or more of tumour cells and are not EGFR-mutant or ALK-positive. It is recommended only if the company provides atezolizumab according to the commercial arrangement.",
+  "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended atezolizumab for the adjuvant treatment of non-small-cell lung cancer (NSCLC) after complete resection and platinum-based chemotherapy in adults at high risk of recurrence, whose tumours express PD-L1 on 50% or more of tumour cells and are not EGFR-mutant or ALK-positive. Atezolizumab is recommended within its marketing authorisation and subject to the commercial arrangement available to the NHS.",
   "contributions": [
     {
       "id": "ctrb:qub:2026-06-17:0",
@@ -59,17 +59,17 @@
         },
         {
           "name": "company",
-          "value": "Roche",
+          "value": null,
           "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
         },
         {
           "name": "drug_name_brand",
-          "value": "Tecentriq",
+          "value": null,
           "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
         },
         {
           "name": "drug_name_generic",
-          "value": "Atezolizumab",
+          "value": null,
           "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
         },
         {
@@ -530,17 +530,17 @@
               },
               {
                 "name": "company",
-                "value": "Roche",
+                "value": null,
                 "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
               },
               {
                 "name": "drug_name_brand",
-                "value": "Tecentriq",
+                "value": null,
                 "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
               },
               {
                 "name": "drug_name_generic",
-                "value": "Atezolizumab",
+                "value": null,
                 "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
               },
               {

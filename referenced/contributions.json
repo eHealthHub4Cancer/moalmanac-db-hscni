@@ -3766,11 +3766,32 @@
     "date": "2026-06-17"
   },
   {
+    "id": "ctrb:nice:2002-03-15:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2002-03-15"
+  },
+  {
     "id": "ctrb:nice:2004-10-27:0",
     "type": "Contribution",
     "agent_id": "agent:org:nice",
     "description": "Indication recommended by NICE technology appraisal.",
     "date": "2004-10-27"
+  },
+  {
+    "id": "ctrb:nice:2010-07-28:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2010-07-28"
+  },
+  {
+    "id": "ctrb:nice:2010-11-24:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2010-11-24"
   },
   {
     "id": "ctrb:nice:2012-06-27:0",
@@ -3787,11 +3808,32 @@
     "date": "2012-12-12"
   },
   {
+    "id": "ctrb:nice:2014-04-23:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2014-04-23"
+  },
+  {
     "id": "ctrb:nice:2014-10-22:0",
     "type": "Contribution",
     "agent_id": "agent:org:nice",
     "description": "Indication recommended by NICE technology appraisal.",
     "date": "2014-10-22"
+  },
+  {
+    "id": "ctrb:nice:2015-10-28:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2015-10-28"
+  },
+  {
+    "id": "ctrb:nice:2015-12-16:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2015-12-16"
   },
   {
     "id": "ctrb:nice:2016-06-22:0",
@@ -3801,11 +3843,25 @@
     "date": "2016-06-22"
   },
   {
+    "id": "ctrb:nice:2016-08-24:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2016-08-24"
+  },
+  {
     "id": "ctrb:nice:2016-09-28:0",
     "type": "Contribution",
     "agent_id": "agent:org:nice",
     "description": "Indication recommended by NICE technology appraisal.",
     "date": "2016-09-28"
+  },
+  {
+    "id": "ctrb:nice:2016-12-21:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2016-12-21"
   },
   {
     "id": "ctrb:nice:2017-01-11:0",
@@ -3822,11 +3878,39 @@
     "date": "2017-01-25"
   },
   {
+    "id": "ctrb:nice:2017-03-29:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2017-03-29"
+  },
+  {
+    "id": "ctrb:nice:2017-06-28:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2017-06-28"
+  },
+  {
     "id": "ctrb:nice:2017-07-19:0",
     "type": "Contribution",
     "agent_id": "agent:org:nice",
     "description": "Indication recommended by NICE technology appraisal.",
     "date": "2017-07-19"
+  },
+  {
+    "id": "ctrb:nice:2017-10-04:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2017-10-04"
+  },
+  {
+    "id": "ctrb:nice:2017-12-20:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2017-12-20"
   },
   {
     "id": "ctrb:nice:2018-01-24:0",
@@ -3864,11 +3948,32 @@
     "date": "2018-08-08"
   },
   {
+    "id": "ctrb:nice:2018-09-19:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2018-09-19"
+  },
+  {
+    "id": "ctrb:nice:2018-10-17:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2018-10-17"
+  },
+  {
     "id": "ctrb:nice:2018-11-14:0",
     "type": "Contribution",
     "agent_id": "agent:org:nice",
     "description": "Indication recommended by NICE technology appraisal.",
     "date": "2018-11-14"
+  },
+  {
+    "id": "ctrb:nice:2019-01-30:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2019-01-30"
   },
   {
     "id": "ctrb:nice:2019-02-27:0",
@@ -3892,6 +3997,20 @@
     "date": "2019-04-24"
   },
   {
+    "id": "ctrb:nice:2019-06-05:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2019-06-05"
+  },
+  {
+    "id": "ctrb:nice:2019-07-24:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2019-07-24"
+  },
+  {
     "id": "ctrb:nice:2019-08-14:0",
     "type": "Contribution",
     "agent_id": "agent:org:nice",
@@ -3899,11 +4018,39 @@
     "date": "2019-08-14"
   },
   {
+    "id": "ctrb:nice:2019-11-20:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2019-11-20"
+  },
+  {
     "id": "ctrb:nice:2020-05-13:0",
     "type": "Contribution",
     "agent_id": "agent:org:nice",
     "description": "Indication recommended by NICE technology appraisal.",
     "date": "2020-05-13"
+  },
+  {
+    "id": "ctrb:nice:2020-05-27:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2020-05-27"
+  },
+  {
+    "id": "ctrb:nice:2020-06-10:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2020-06-10"
+  },
+  {
+    "id": "ctrb:nice:2020-07-01:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2020-07-01"
   },
   {
     "id": "ctrb:nice:2020-08-12:0",
@@ -3941,11 +4088,39 @@
     "date": "2021-01-27"
   },
   {
+    "id": "ctrb:nice:2021-03-10:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2021-03-10"
+  },
+  {
+    "id": "ctrb:nice:2021-03-31:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2021-03-31"
+  },
+  {
     "id": "ctrb:nice:2021-04-21:0",
     "type": "Contribution",
     "agent_id": "agent:org:nice",
     "description": "Indication recommended by NICE technology appraisal.",
     "date": "2021-04-21"
+  },
+  {
+    "id": "ctrb:nice:2021-05-26:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2021-05-26"
+  },
+  {
+    "id": "ctrb:nice:2021-06-02:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2021-06-02"
   },
   {
     "id": "ctrb:nice:2021-06-23:0",
@@ -3955,11 +4130,53 @@
     "date": "2021-06-23"
   },
   {
+    "id": "ctrb:nice:2021-07-07:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2021-07-07"
+  },
+  {
+    "id": "ctrb:nice:2021-07-28:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2021-07-28"
+  },
+  {
     "id": "ctrb:nice:2021-08-25:0",
     "type": "Contribution",
     "agent_id": "agent:org:nice",
     "description": "Indication recommended by NICE technology appraisal.",
     "date": "2021-08-25"
+  },
+  {
+    "id": "ctrb:nice:2021-09-15:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2021-09-15"
+  },
+  {
+    "id": "ctrb:nice:2021-10-20:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2021-10-20"
+  },
+  {
+    "id": "ctrb:nice:2021-10-27:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2021-10-27"
+  },
+  {
+    "id": "ctrb:nice:2022-02-09:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2022-02-09"
   },
   {
     "id": "ctrb:nice:2022-03-16:0",
@@ -3969,11 +4186,32 @@
     "date": "2022-03-16"
   },
   {
+    "id": "ctrb:nice:2022-03-30:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2022-03-30"
+  },
+  {
+    "id": "ctrb:nice:2022-04-20:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2022-04-20"
+  },
+  {
     "id": "ctrb:nice:2022-04-27:0",
     "type": "Contribution",
     "agent_id": "agent:org:nice",
     "description": "Indication recommended by NICE technology appraisal.",
     "date": "2022-04-27"
+  },
+  {
+    "id": "ctrb:nice:2022-05-18:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2022-05-18"
   },
   {
     "id": "ctrb:nice:2022-06-15:0",
@@ -3990,11 +4228,74 @@
     "date": "2022-06-22"
   },
   {
+    "id": "ctrb:nice:2022-06-29:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2022-06-29"
+  },
+  {
+    "id": "ctrb:nice:2022-07-20:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2022-07-20"
+  },
+  {
+    "id": "ctrb:nice:2022-08-03:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2022-08-03"
+  },
+  {
+    "id": "ctrb:nice:2022-08-10:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2022-08-10"
+  },
+  {
+    "id": "ctrb:nice:2022-08-17:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2022-08-17"
+  },
+  {
+    "id": "ctrb:nice:2022-10-26:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2022-10-26"
+  },
+  {
+    "id": "ctrb:nice:2022-12-14:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2022-12-14"
+  },
+  {
+    "id": "ctrb:nice:2023-01-11:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2023-01-11"
+  },
+  {
     "id": "ctrb:nice:2023-02-01:0",
     "type": "Contribution",
     "agent_id": "agent:org:nice",
     "description": "Indication recommended by NICE technology appraisal.",
     "date": "2023-02-01"
+  },
+  {
+    "id": "ctrb:nice:2023-02-08:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2023-02-08"
   },
   {
     "id": "ctrb:nice:2023-05-10:0",
@@ -4011,6 +4312,13 @@
     "date": "2023-06-14"
   },
   {
+    "id": "ctrb:nice:2023-07-05:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2023-07-05"
+  },
+  {
     "id": "ctrb:nice:2023-07-26:0",
     "type": "Contribution",
     "agent_id": "agent:org:nice",
@@ -4018,11 +4326,46 @@
     "date": "2023-07-26"
   },
   {
+    "id": "ctrb:nice:2023-09-20:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2023-09-20"
+  },
+  {
     "id": "ctrb:nice:2023-11-22:0",
     "type": "Contribution",
     "agent_id": "agent:org:nice",
     "description": "Indication recommended by NICE technology appraisal.",
     "date": "2023-11-22"
+  },
+  {
+    "id": "ctrb:nice:2023-12-13:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2023-12-13"
+  },
+  {
+    "id": "ctrb:nice:2024-01-17:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2024-01-17"
+  },
+  {
+    "id": "ctrb:nice:2024-01-31:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2024-01-31"
+  },
+  {
+    "id": "ctrb:nice:2024-02-21:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2024-02-21"
   },
   {
     "id": "ctrb:nice:2024-03-28:0",
@@ -4039,11 +4382,32 @@
     "date": "2024-05-29"
   },
   {
+    "id": "ctrb:nice:2024-06-05:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2024-06-05"
+  },
+  {
+    "id": "ctrb:nice:2024-08-29:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2024-08-29"
+  },
+  {
     "id": "ctrb:nice:2024-09-11:0",
     "type": "Contribution",
     "agent_id": "agent:org:nice",
     "description": "Indication recommended by NICE technology appraisal.",
     "date": "2024-09-11"
+  },
+  {
+    "id": "ctrb:nice:2024-10-23:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2024-10-23"
   },
   {
     "id": "ctrb:nice:2024-11-13:0",
@@ -4053,11 +4417,39 @@
     "date": "2024-11-13"
   },
   {
+    "id": "ctrb:nice:2024-12-04:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2024-12-04"
+  },
+  {
+    "id": "ctrb:nice:2025-01-09:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2025-01-09"
+  },
+  {
+    "id": "ctrb:nice:2025-01-15:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2025-01-15"
+  },
+  {
     "id": "ctrb:nice:2025-02-05:0",
     "type": "Contribution",
     "agent_id": "agent:org:nice",
     "description": "Indication recommended by NICE technology appraisal.",
     "date": "2025-02-05"
+  },
+  {
+    "id": "ctrb:nice:2025-02-12:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2025-02-12"
   },
   {
     "id": "ctrb:nice:2025-02-19:0",
@@ -4074,11 +4466,53 @@
     "date": "2025-02-26"
   },
   {
+    "id": "ctrb:nice:2025-03-26:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2025-03-26"
+  },
+  {
+    "id": "ctrb:nice:2025-04-16:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2025-04-16"
+  },
+  {
     "id": "ctrb:nice:2025-05-07:0",
     "type": "Contribution",
     "agent_id": "agent:org:nice",
     "description": "Indication recommended by NICE technology appraisal.",
     "date": "2025-05-07"
+  },
+  {
+    "id": "ctrb:nice:2025-05-08:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2025-05-08"
+  },
+  {
+    "id": "ctrb:nice:2025-05-12:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2025-05-12"
+  },
+  {
+    "id": "ctrb:nice:2025-05-15:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2025-05-15"
+  },
+  {
+    "id": "ctrb:nice:2025-05-22:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2025-05-22"
   },
   {
     "id": "ctrb:nice:2025-05-28:0",
@@ -4093,6 +4527,104 @@
     "agent_id": "agent:org:nice",
     "description": "Indication recommended by NICE technology appraisal.",
     "date": "2025-06-19"
+  },
+  {
+    "id": "ctrb:nice:2025-07-23:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2025-07-23"
+  },
+  {
+    "id": "ctrb:nice:2025-08-06:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2025-08-06"
+  },
+  {
+    "id": "ctrb:nice:2025-10-21:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2025-10-21"
+  },
+  {
+    "id": "ctrb:nice:2025-12-16:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2025-12-16"
+  },
+  {
+    "id": "ctrb:nice:2026-01-21:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2026-01-21"
+  },
+  {
+    "id": "ctrb:nice:2026-02-04:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2026-02-04"
+  },
+  {
+    "id": "ctrb:nice:2026-04-29:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2026-04-29"
+  },
+  {
+    "id": "ctrb:nice:2026-05-06:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2026-05-06"
+  },
+  {
+    "id": "ctrb:nice:2026-05-07:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2026-05-07"
+  },
+  {
+    "id": "ctrb:nice:2026-05-21:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2026-05-21"
+  },
+  {
+    "id": "ctrb:nice:2026-05-28:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2026-05-28"
+  },
+  {
+    "id": "ctrb:nice:2026-06-16:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2026-06-16"
+  },
+  {
+    "id": "ctrb:nice:2026-06-24:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2026-06-24"
+  },
+  {
+    "id": "ctrb:nice:2026-08-26:0",
+    "type": "Contribution",
+    "agent_id": "agent:org:nice",
+    "description": "Indication recommended by NICE technology appraisal.",
+    "date": "2026-08-26"
   },
   {
     "id": "ctrb:vanallenlab:2026-10-08:0",

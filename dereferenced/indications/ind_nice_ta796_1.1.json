@@ -1,7 +1,7 @@
 {
   "id": "ind:nice:ta796:1.1",
   "type": "Indication",
-  "description": "Venetoclax monotherapy is recommended, within its marketing authorisation, for treating chronic lymphocytic leukaemia (CLL) in adults: \u2022 with a 17p deletion or TP53 mutation and when a B-cell receptor pathway inhibitor is unsuitable, or whose disease has progressed after a B-cell receptor pathway inhibitor or \u2022 without a 17p deletion or TP53 mutation, and whose disease has progressed after both chemo-immunotherapy and a B-cell receptor pathway inhibitor. It is recommended only if the company provides venetoclax according to the commercial arrangement.",
+  "description": "Venetoclax monotherapy is recommended, within its marketing authorisation, for treating chronic lymphocytic leukaemia (CLL) in adults either with a 17p deletion or TP53 mutation when a B-cell receptor pathway inhibitor is unsuitable or whose disease has progressed after a B-cell receptor pathway inhibitor, or without a 17p deletion or TP53 mutation whose disease has progressed after both chemo-immunotherapy and a B-cell receptor pathway inhibitor. It is recommended only if the company provides venetoclax according to the commercial arrangement.",
   "contributions": [
     {
       "id": "ctrb:qub:2026-06-17:0",
@@ -59,17 +59,17 @@
         },
         {
           "name": "company",
-          "value": "AbbVie / Roche",
+          "value": null,
           "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
         },
         {
           "name": "drug_name_brand",
-          "value": "Venclyxto",
+          "value": null,
           "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
         },
         {
           "name": "drug_name_generic",
-          "value": "Venetoclax",
+          "value": null,
           "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
         },
         {
@@ -103,7 +103,7 @@
     },
     {
       "name": "statement description",
-      "value": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Venetoclax monotherapy, within its marketing authorisation, for treating chronic lymphocytic leukaemia (CLL) in adults: \u2022 with a 17p deletion or TP53 mutation and when a B-cell receptor pathway inhibitor is unsuitable, or whose disease has progressed after a B-cell receptor pathway inhibitor or \u2022 without a 17p deletion or TP53 mutation, and whose disease has progressed after both chemo-immunotherapy and a B-cell receptor pathway inhibitor. It is recommended only if the company provides venetoclax according to the commercial arrangement.",
+      "value": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended venetoclax monotherapy, within its marketing authorisation, for treating chronic lymphocytic leukaemia (CLL) in adults either with a 17p deletion or TP53 mutation when a B-cell receptor pathway inhibitor is unsuitable or whose disease has progressed after a B-cell receptor pathway inhibitor, or without a 17p deletion or TP53 mutation whose disease has progressed after both chemo-immunotherapy and a B-cell receptor pathway inhibitor. It is recommended only if the company provides venetoclax according to the commercial arrangement.",
       "description": "The description text for all Statements derived from this Indication."
     }
   ]

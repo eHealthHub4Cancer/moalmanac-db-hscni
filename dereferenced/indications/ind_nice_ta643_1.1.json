@@ -59,17 +59,17 @@
         },
         {
           "name": "company",
-          "value": "Roche",
+          "value": null,
           "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
         },
         {
           "name": "drug_name_brand",
-          "value": "Rozlytrek",
+          "value": null,
           "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
         },
         {
           "name": "drug_name_generic",
-          "value": "Entrectinib",
+          "value": null,
           "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
         },
         {
@@ -103,7 +103,7 @@
     },
     {
       "name": "statement description",
-      "value": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Entrectinib, within its marketing authorisation, as a treatment option for treating ROS1-positive advanced non-small-cell lung cancer (NSCLC) in adults who have not had ROS1 inhibitors. It is recommended only if the company provides entrectinib according to the commercial arrangement.",
+      "value": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended entrectinib for the treatment of ROS1-positive advanced non-small-cell lung cancer (NSCLC) in adults who have not previously had ROS1 inhibitors. Entrectinib is recommended within its marketing authorisation and subject to the commercial arrangement available to the NHS.",
       "description": "The description text for all Statements derived from this Indication."
     }
   ]

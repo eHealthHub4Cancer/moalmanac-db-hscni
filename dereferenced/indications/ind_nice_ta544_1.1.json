@@ -1,0 +1,110 @@
+{
+  "id": "ind:nice:ta544:1.1",
+  "type": "Indication",
+  "description": "Dabrafenib with trametinib is recommended, within its marketing authorisation, as an option for the adjuvant treatment of resected stage 3 BRAF V600 mutation-positive melanoma in adults. It is recommended only if the company provides dabrafenib and trametinib with the discounts agreed in the commercial arrangements.",
+  "contributions": [
+    {
+      "id": "ctrb:qub:2026-06-17:0",
+      "type": "Contribution",
+      "description": "Initial curation of NICE approvals",
+      "date": "2026-06-17",
+      "contributor": {
+        "id": "agent:user:qub",
+        "type": "Agent",
+        "agentType": "contributor",
+        "name": "Queen's University Belfast",
+        "description": "Queen's University Belfast"
+      }
+    },
+    {
+      "id": "ctrb:nice:2018-10-17:0",
+      "type": "Contribution",
+      "description": "Indication recommended by NICE technology appraisal.",
+      "date": "2018-10-17",
+      "contributor": {
+        "id": "agent:org:nice",
+        "type": "Agent",
+        "agentType": "organization",
+        "name": "National Institute for Health and Care Excellence",
+        "description": "Regulatory and guidance body that issues Technology Appraisals recommending medicines for use in England and Wales, endorsed by Health and Social Care Northern Ireland (HSC NI) for use in Northern Ireland."
+      }
+    }
+  ],
+  "reportedIn": [
+    {
+      "id": "doc:nice:ta544",
+      "type": "Document",
+      "documentType": "Regulatory approval",
+      "name": "Tafinlar (Dabrafenib) [technology appraisal guidance]. NICE.",
+      "title": null,
+      "aliases": [],
+      "description": "Dabrafenib with trametinib for adjuvant treatment of resected BRAF V600 mutation-positive melanoma, 2018, National Institute for Health and Care Excellence website. https://www.nice.org.uk/guidance/ta544/resources/dabrafenib-with-trametinib-for-adjuvant-treatment-of-resected-braf-v600-mutationpositive-melanoma-pdf-82606961406661. Revised October 2018. Accessed September 4, 2026.",
+      "urls": [
+        "https://www.nice.org.uk/guidance/ta544/resources/dabrafenib-with-trametinib-for-adjuvant-treatment-of-resected-braf-v600-mutationpositive-melanoma-pdf-82606961406661",
+        "https://www.nice.org.uk/guidance/ta544"
+      ],
+      "doi": null,
+      "pmid": null,
+      "extensions": [
+        {
+          "name": "agent",
+          "value": {
+            "id": "agent:org:nice",
+            "type": "Agent",
+            "agentType": "organization",
+            "name": "National Institute for Health and Care Excellence",
+            "description": "Regulatory and guidance body that issues Technology Appraisals recommending medicines for use in England and Wales, endorsed by Health and Social Care Northern Ireland (HSC NI) for use in Northern Ireland."
+          },
+          "description": "The organization that published this document."
+        },
+        {
+          "name": "company",
+          "value": null,
+          "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
+        },
+        {
+          "name": "drug_name_brand",
+          "value": null,
+          "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
+        },
+        {
+          "name": "drug_name_generic",
+          "value": null,
+          "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
+        },
+        {
+          "name": "first_publication_date",
+          "value": null,
+          "description": "The publication date for the initial version of this document."
+        },
+        {
+          "name": "publication_date",
+          "value": "2018-10-17",
+          "description": "The publication date for the document."
+        },
+        {
+          "name": "regulatory_identifier",
+          "value": "TA544",
+          "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
+        },
+        {
+          "name": "status",
+          "value": "Active",
+          "description": "Whether this document is Active or Deprecated within moalmanac-db."
+        }
+      ]
+    }
+  ],
+  "extensions": [
+    {
+      "name": "status",
+      "value": "Approved",
+      "description": "Current approval status."
+    },
+    {
+      "name": "statement description",
+      "value": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended dabrafenib, within its marketing authorisation, with trametinib as an option for the adjuvant treatment of resected stage 3 BRAF V600 mutation-positive melanoma in adults. Dabrafenib and trametinib are recommended within their marketing authorisation and subject to the commercial arrangements available to the NHS.",
+      "description": "The description text for all Statements derived from this Indication."
+    }
+  ]
+}

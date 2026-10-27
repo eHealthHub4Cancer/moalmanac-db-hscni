@@ -1,7 +1,7 @@
 {
   "id": "stmt:nice:ta709:1.1:1",
   "type": "Statement",
-  "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Pembrolizumab as an option for untreated metastatic colorectal cancer with high microsatellite instability (MSI) or mismatch repair (MMR) deficiency in adults, only if: \u2022 pembrolizumab is stopped after 2 years and no documented disease progression, and \u2022 the company provides pembrolizumab according to the commercial arrangement.",
+  "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended pembrolizumab for the treatment of adults with untreated metastatic colorectal cancer with high microsatellite instability or mismatch repair deficiency. Pembrolizumab is recommended within its marketing authorisation and subject to the commercial arrangement available to the NHS.",
   "contributions": [
     {
       "id": "ctrb:qub:2026-06-17:0",
@@ -59,17 +59,17 @@
         },
         {
           "name": "company",
-          "value": "MSD (Merck)",
+          "value": null,
           "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
         },
         {
           "name": "drug_name_brand",
-          "value": "Keytruda",
+          "value": null,
           "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
         },
         {
           "name": "drug_name_generic",
-          "value": "Pembrolizumab",
+          "value": null,
           "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
         },
         {
@@ -254,7 +254,7 @@
       "value": {
         "id": "ind:nice:ta709:1.1",
         "type": "Indication",
-        "description": "Pembrolizumab is recommended as an option for untreated metastatic colorectal cancer with high microsatellite instability (MSI) or mismatch repair (MMR) deficiency in adults, only if: \u2022 pembrolizumab is stopped after 2 years and no documented disease progression, and \u2022 the company provides pembrolizumab according to the commercial arrangement.",
+        "description": "Pembrolizumab is recommended as an option for untreated metastatic colorectal cancer with high microsatellite instability (MSI) or mismatch repair (MMR) deficiency in adults, only if pembrolizumab is stopped after 2 years and no documented disease progression, and the company provides pembrolizumab according to the commercial arrangement.",
         "contributions": [
           {
             "id": "ctrb:qub:2026-06-17:0",
@@ -312,17 +312,17 @@
               },
               {
                 "name": "company",
-                "value": "MSD (Merck)",
+                "value": null,
                 "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
               },
               {
                 "name": "drug_name_brand",
-                "value": "Keytruda",
+                "value": null,
                 "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
               },
               {
                 "name": "drug_name_generic",
-                "value": "Pembrolizumab",
+                "value": null,
                 "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
               },
               {

@@ -1,0 +1,110 @@
+{
+  "id": "ind:nice:ta359:1.1",
+  "type": "Indication",
+  "description": "Idelalisib, in combination with rituximab, is recommended: for untreated chronic lymphocytic leukaemia in adults with a 17p deletion or TP53 mutation or for chronic lymphocytic leukaemia in adults when the disease has been treated but has relapsed within 24 months. Idelalisib is recommended only if the company provides the drug with the discount agreed in the simple discount agreement.",
+  "contributions": [
+    {
+      "id": "ctrb:qub:2026-06-17:0",
+      "type": "Contribution",
+      "description": "Initial curation of NICE approvals",
+      "date": "2026-06-17",
+      "contributor": {
+        "id": "agent:user:qub",
+        "type": "Agent",
+        "agentType": "contributor",
+        "name": "Queen's University Belfast",
+        "description": "Queen's University Belfast"
+      }
+    },
+    {
+      "id": "ctrb:nice:2015-10-28:0",
+      "type": "Contribution",
+      "description": "Indication recommended by NICE technology appraisal.",
+      "date": "2015-10-28",
+      "contributor": {
+        "id": "agent:org:nice",
+        "type": "Agent",
+        "agentType": "organization",
+        "name": "National Institute for Health and Care Excellence",
+        "description": "Regulatory and guidance body that issues Technology Appraisals recommending medicines for use in England and Wales, endorsed by Health and Social Care Northern Ireland (HSC NI) for use in Northern Ireland."
+      }
+    }
+  ],
+  "reportedIn": [
+    {
+      "id": "doc:nice:ta359",
+      "type": "Document",
+      "documentType": "Regulatory approval",
+      "name": "Zydelig (Idelalisib) [technology appraisal guidance]. NICE.",
+      "title": null,
+      "aliases": [],
+      "description": "Idelalisib for treating chronic lymphocytic leukaemia, 2015, National Institute for Health and Care Excellence website. https://www.nice.org.uk/guidance/ta359/resources/idelalisib-for-treating-chronic-lymphocytic-leukaemia-pdf-82602345940933. Revised October 2015. Accessed September 6, 2026.",
+      "urls": [
+        "https://www.nice.org.uk/guidance/ta359/resources/idelalisib-for-treating-chronic-lymphocytic-leukaemia-pdf-82602345940933",
+        "https://www.nice.org.uk/guidance/ta359"
+      ],
+      "doi": null,
+      "pmid": null,
+      "extensions": [
+        {
+          "name": "agent",
+          "value": {
+            "id": "agent:org:nice",
+            "type": "Agent",
+            "agentType": "organization",
+            "name": "National Institute for Health and Care Excellence",
+            "description": "Regulatory and guidance body that issues Technology Appraisals recommending medicines for use in England and Wales, endorsed by Health and Social Care Northern Ireland (HSC NI) for use in Northern Ireland."
+          },
+          "description": "The organization that published this document."
+        },
+        {
+          "name": "company",
+          "value": null,
+          "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
+        },
+        {
+          "name": "drug_name_brand",
+          "value": null,
+          "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
+        },
+        {
+          "name": "drug_name_generic",
+          "value": null,
+          "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
+        },
+        {
+          "name": "first_publication_date",
+          "value": null,
+          "description": "The publication date for the initial version of this document."
+        },
+        {
+          "name": "publication_date",
+          "value": "2015-10-28",
+          "description": "The publication date for the document."
+        },
+        {
+          "name": "regulatory_identifier",
+          "value": "TA359",
+          "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
+        },
+        {
+          "name": "status",
+          "value": "Active",
+          "description": "Whether this document is Active or Deprecated within moalmanac-db."
+        }
+      ]
+    }
+  ],
+  "extensions": [
+    {
+      "name": "status",
+      "value": "Approved",
+      "description": "Current approval status."
+    },
+    {
+      "name": "statement description",
+      "value": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended idelalisib, within its marketing authorisation, in combination with rituximab, for untreated chronic lymphocytic leukaemia in adults with a 17p deletion or TP53 mutation, or for chronic lymphocytic leukaemia in adults when the disease has relapsed within 24 months of treatment.",
+      "description": "The description text for all Statements derived from this Indication."
+    }
+  ]
+}

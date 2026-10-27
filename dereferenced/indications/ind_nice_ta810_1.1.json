@@ -1,0 +1,110 @@
+{
+  "id": "ind:nice:ta810:1.1",
+  "type": "Indication",
+  "description": "Abemaciclib with endocrine therapy is recommended, within its marketing authorisation, as an option for adjuvant treatment of hormone receptor-positive, HER2-negative, node-positive early breast cancer in adults whose disease is at high risk of recurrence, defined by clinical and pathological features (at least 4 positive axillary lymph nodes; or 1 to 3 positive axillary lymph nodes with grade 3 disease or a primary tumour of at least 5 cm). It is recommended only if the company provides it according to the commercial arrangement.",
+  "contributions": [
+    {
+      "id": "ctrb:qub:2026-06-17:0",
+      "type": "Contribution",
+      "description": "Initial curation of NICE approvals",
+      "date": "2026-06-17",
+      "contributor": {
+        "id": "agent:user:qub",
+        "type": "Agent",
+        "agentType": "contributor",
+        "name": "Queen's University Belfast",
+        "description": "Queen's University Belfast"
+      }
+    },
+    {
+      "id": "ctrb:nice:2022-07-20:0",
+      "type": "Contribution",
+      "description": "Indication recommended by NICE technology appraisal.",
+      "date": "2022-07-20",
+      "contributor": {
+        "id": "agent:org:nice",
+        "type": "Agent",
+        "agentType": "organization",
+        "name": "National Institute for Health and Care Excellence",
+        "description": "Regulatory and guidance body that issues Technology Appraisals recommending medicines for use in England and Wales, endorsed by Health and Social Care Northern Ireland (HSC NI) for use in Northern Ireland."
+      }
+    }
+  ],
+  "reportedIn": [
+    {
+      "id": "doc:nice:ta810",
+      "type": "Document",
+      "documentType": "Regulatory approval",
+      "name": "Verzenios (Abemaciclib) [technology appraisal guidance]. NICE.",
+      "title": null,
+      "aliases": [],
+      "description": "Abemaciclib with endocrine therapy for adjuvant treatment of hormone receptor-positive, HER2-negative, node-positive early breast cancer at high risk of recurrence, 2022, National Institute for Health and Care Excellence website. https://www.nice.org.uk/guidance/ta810/resources/abemaciclib-with-endocrine-therapy-for-adjuvant-treatment-of-hormone-receptorpositive-her2negative-nodepositive-early-breast-cancer-at-high-risk-of-recurrence-pdf-82613303636677. Revised July 2022. Accessed September 3, 2026.",
+      "urls": [
+        "https://www.nice.org.uk/guidance/ta810/resources/abemaciclib-with-endocrine-therapy-for-adjuvant-treatment-of-hormone-receptorpositive-her2negative-nodepositive-early-breast-cancer-at-high-risk-of-recurrence-pdf-82613303636677",
+        "https://www.nice.org.uk/guidance/ta810"
+      ],
+      "doi": null,
+      "pmid": null,
+      "extensions": [
+        {
+          "name": "agent",
+          "value": {
+            "id": "agent:org:nice",
+            "type": "Agent",
+            "agentType": "organization",
+            "name": "National Institute for Health and Care Excellence",
+            "description": "Regulatory and guidance body that issues Technology Appraisals recommending medicines for use in England and Wales, endorsed by Health and Social Care Northern Ireland (HSC NI) for use in Northern Ireland."
+          },
+          "description": "The organization that published this document."
+        },
+        {
+          "name": "company",
+          "value": null,
+          "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
+        },
+        {
+          "name": "drug_name_brand",
+          "value": null,
+          "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
+        },
+        {
+          "name": "drug_name_generic",
+          "value": null,
+          "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
+        },
+        {
+          "name": "first_publication_date",
+          "value": null,
+          "description": "The publication date for the initial version of this document."
+        },
+        {
+          "name": "publication_date",
+          "value": "2022-07-20",
+          "description": "The publication date for the document."
+        },
+        {
+          "name": "regulatory_identifier",
+          "value": "TA810",
+          "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
+        },
+        {
+          "name": "status",
+          "value": "Active",
+          "description": "Whether this document is Active or Deprecated within moalmanac-db."
+        }
+      ]
+    }
+  ],
+  "extensions": [
+    {
+      "name": "status",
+      "value": "Approved",
+      "description": "Current approval status."
+    },
+    {
+      "name": "statement description",
+      "value": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended abemaciclib, within its marketing authorisation, with endocrine therapy as an option for the adjuvant treatment of hormone receptor-positive, HER2-negative, node-positive early breast cancer at high risk of recurrence in adults. Abemaciclib is recommended within its marketing authorisation and subject to the commercial arrangement available to the NHS. The product information further states that this indication was approved based on results from the monarchE study, a randomized, open label, two cohort, phase 3 study which enrolled a total of 5,637 patients who were randomized in a 1:1 ratio to receive 2 years of abemaciclib plus physician's choice of standard endocrine therapy, or standard endocrine therapy alone. Initial endocrine therapy received by patients included letrozole (39%), tamoxifen (31%), anastrozole (22%), or exemestane (8%).",
+      "description": "The description text for all Statements derived from this Indication."
+    }
+  ]
+}

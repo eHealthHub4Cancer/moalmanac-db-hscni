@@ -1,0 +1,110 @@
+{
+  "id": "ind:nice:ta584:1.1",
+  "type": "Indication",
+  "description": "Atezolizumab plus bevacizumab, carboplatin and paclitaxel is recommended, within its marketing authorisation, as an option for treating metastatic non-squamous non-small-cell lung cancer (NSCLC) in adults who have not had treatment for their metastatic NSCLC before and whose PD-L1 tumour proportion score is between 0% and 49% (with no EGFR- or ALK-positive mutations), or when targeted therapy for EGFR-positive or ALK-positive NSCLC has failed. It is recommended only if: it is stopped at 2 years of uninterrupted treatment, or earlier as specified, and the company provides atezolizumab and bevacizumab according to the commercial arrangements.",
+  "contributions": [
+    {
+      "id": "ctrb:qub:2026-06-17:0",
+      "type": "Contribution",
+      "description": "Initial curation of NICE approvals",
+      "date": "2026-06-17",
+      "contributor": {
+        "id": "agent:user:qub",
+        "type": "Agent",
+        "agentType": "contributor",
+        "name": "Queen's University Belfast",
+        "description": "Queen's University Belfast"
+      }
+    },
+    {
+      "id": "ctrb:nice:2019-06-05:0",
+      "type": "Contribution",
+      "description": "Indication recommended by NICE technology appraisal.",
+      "date": "2019-06-05",
+      "contributor": {
+        "id": "agent:org:nice",
+        "type": "Agent",
+        "agentType": "organization",
+        "name": "National Institute for Health and Care Excellence",
+        "description": "Regulatory and guidance body that issues Technology Appraisals recommending medicines for use in England and Wales, endorsed by Health and Social Care Northern Ireland (HSC NI) for use in Northern Ireland."
+      }
+    }
+  ],
+  "reportedIn": [
+    {
+      "id": "doc:nice:ta584",
+      "type": "Document",
+      "documentType": "Regulatory approval",
+      "name": "Tecentriq and Avastin (Atezolizumab and Bevacizumab) [technology appraisal guidance]. NICE.",
+      "title": null,
+      "aliases": [],
+      "description": "Atezolizumab in combination for treating metastatic non-squamous non-small-cell lung cancer, 2019, National Institute for Health and Care Excellence website. https://www.nice.org.uk/guidance/ta584/resources/atezolizumab-in-combination-for-treating-metastatic-nonsquamous-nonsmallcell-lung-cancer-pdf-82607203271365. Revised June 2019. Accessed September 4, 2026.",
+      "urls": [
+        "https://www.nice.org.uk/guidance/ta584/resources/atezolizumab-in-combination-for-treating-metastatic-nonsquamous-nonsmallcell-lung-cancer-pdf-82607203271365",
+        "https://www.nice.org.uk/guidance/ta584"
+      ],
+      "doi": null,
+      "pmid": null,
+      "extensions": [
+        {
+          "name": "agent",
+          "value": {
+            "id": "agent:org:nice",
+            "type": "Agent",
+            "agentType": "organization",
+            "name": "National Institute for Health and Care Excellence",
+            "description": "Regulatory and guidance body that issues Technology Appraisals recommending medicines for use in England and Wales, endorsed by Health and Social Care Northern Ireland (HSC NI) for use in Northern Ireland."
+          },
+          "description": "The organization that published this document."
+        },
+        {
+          "name": "company",
+          "value": null,
+          "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
+        },
+        {
+          "name": "drug_name_brand",
+          "value": null,
+          "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
+        },
+        {
+          "name": "drug_name_generic",
+          "value": null,
+          "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
+        },
+        {
+          "name": "first_publication_date",
+          "value": null,
+          "description": "The publication date for the initial version of this document."
+        },
+        {
+          "name": "publication_date",
+          "value": "2019-06-05",
+          "description": "The publication date for the document."
+        },
+        {
+          "name": "regulatory_identifier",
+          "value": "TA584",
+          "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
+        },
+        {
+          "name": "status",
+          "value": "Active",
+          "description": "Whether this document is Active or Deprecated within moalmanac-db."
+        }
+      ]
+    }
+  ],
+  "extensions": [
+    {
+      "name": "status",
+      "value": "Approved",
+      "description": "Current approval status."
+    },
+    {
+      "name": "statement description",
+      "value": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended atezolizumab, within its marketing authorisation, plus bevacizumab, carboplatin and paclitaxel as an option for treating metastatic non-squamous non-small-cell lung cancer in adults who have not had treatment for their metastatic NSCLC before and whose PD-L1 tumour proportion score is between 0% and 49% (no EGFR- or ALK-positive mutations), or when targeted therapy for EGFR-positive or ALK-positive NSCLC has failed. Treatment is stopped at 2 years of uninterrupted treatment, or earlier if there is loss of clinical benefit (atezolizumab) or disease progression (bevacizumab). Atezolizumab and bevacizumab are recommended within their marketing authorisation and subject to the commercial arrangements available to the NHS.",
+      "description": "The description text for all Statements derived from this Indication."
+    }
+  ]
+}

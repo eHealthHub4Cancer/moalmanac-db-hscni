@@ -26,17 +26,17 @@
     },
     {
       "name": "company",
-      "value": "Seagen / Takeda",
+      "value": null,
       "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
     },
     {
       "name": "drug_name_brand",
-      "value": "Adcetris",
+      "value": null,
       "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
     },
     {
       "name": "drug_name_generic",
-      "value": "Brentuximab vedotin",
+      "value": null,
       "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
     },
     {

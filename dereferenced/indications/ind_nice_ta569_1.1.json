@@ -1,0 +1,110 @@
+{
+  "id": "ind:nice:ta569:1.1",
+  "type": "Indication",
+  "description": "Pertuzumab, with intravenous trastuzumab and chemotherapy, is recommended for the adjuvant treatment of HER2-positive early stage breast cancer at high risk of recurrence in adults, only if: they have lymph node-positive disease and the company provides it according to the commercial arrangement.",
+  "contributions": [
+    {
+      "id": "ctrb:qub:2026-06-17:0",
+      "type": "Contribution",
+      "description": "Initial curation of NICE approvals",
+      "date": "2026-06-17",
+      "contributor": {
+        "id": "agent:user:qub",
+        "type": "Agent",
+        "agentType": "contributor",
+        "name": "Queen's University Belfast",
+        "description": "Queen's University Belfast"
+      }
+    },
+    {
+      "id": "ctrb:nice:2019-03-20:0",
+      "type": "Contribution",
+      "description": "Indication recommended by NICE technology appraisal.",
+      "date": "2019-03-20",
+      "contributor": {
+        "id": "agent:org:nice",
+        "type": "Agent",
+        "agentType": "organization",
+        "name": "National Institute for Health and Care Excellence",
+        "description": "Regulatory and guidance body that issues Technology Appraisals recommending medicines for use in England and Wales, endorsed by Health and Social Care Northern Ireland (HSC NI) for use in Northern Ireland."
+      }
+    }
+  ],
+  "reportedIn": [
+    {
+      "id": "doc:nice:ta569",
+      "type": "Document",
+      "documentType": "Regulatory approval",
+      "name": "Perjeta (Pertuzumab) [technology appraisal guidance]. NICE.",
+      "title": null,
+      "aliases": [],
+      "description": "Pertuzumab for adjuvant treatment of HER2-positive early stage breast cancer, 2019, National Institute for Health and Care Excellence website. https://www.nice.org.uk/guidance/ta569/resources/pertuzumab-for-adjuvant-treatment-of-her2positive-early-stage-breast-cancer-pdf-82607090737093. Revised March 2019. Accessed September 4, 2026.",
+      "urls": [
+        "https://www.nice.org.uk/guidance/ta569/resources/pertuzumab-for-adjuvant-treatment-of-her2positive-early-stage-breast-cancer-pdf-82607090737093",
+        "https://www.nice.org.uk/guidance/ta569"
+      ],
+      "doi": null,
+      "pmid": null,
+      "extensions": [
+        {
+          "name": "agent",
+          "value": {
+            "id": "agent:org:nice",
+            "type": "Agent",
+            "agentType": "organization",
+            "name": "National Institute for Health and Care Excellence",
+            "description": "Regulatory and guidance body that issues Technology Appraisals recommending medicines for use in England and Wales, endorsed by Health and Social Care Northern Ireland (HSC NI) for use in Northern Ireland."
+          },
+          "description": "The organization that published this document."
+        },
+        {
+          "name": "company",
+          "value": null,
+          "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
+        },
+        {
+          "name": "drug_name_brand",
+          "value": null,
+          "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
+        },
+        {
+          "name": "drug_name_generic",
+          "value": null,
+          "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
+        },
+        {
+          "name": "first_publication_date",
+          "value": null,
+          "description": "The publication date for the initial version of this document."
+        },
+        {
+          "name": "publication_date",
+          "value": "2019-03-20",
+          "description": "The publication date for the document."
+        },
+        {
+          "name": "regulatory_identifier",
+          "value": "TA569",
+          "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
+        },
+        {
+          "name": "status",
+          "value": "Active",
+          "description": "Whether this document is Active or Deprecated within moalmanac-db."
+        }
+      ]
+    }
+  ],
+  "extensions": [
+    {
+      "name": "status",
+      "value": "Approved",
+      "description": "Current approval status."
+    },
+    {
+      "name": "statement description",
+      "value": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended pertuzumab, within its marketing authorisation, with intravenous trastuzumab and chemotherapy, for the adjuvant treatment of HER2-positive early stage breast cancer at high risk of recurrence in adults with lymph node-positive disease. Pertuzumab is recommended within its marketing authorisation and subject to the commercial arrangement available to the NHS. This indication is based on APHINITY (BO25126), a multicenter, randomized, double-blind, placebo-controlled phase 3 trial. Investigators selected one of the following chemotherapy regimens: (i) 3 or 4 cycles of FEC or 5-fluorouracil, doxorubicin and cyclophosphamide (FAC), followed by 3 or 4 cycles of docetaxel or 12 cycles of weekly paclitaxel; (ii) 4 cycles of AC or epirubicin and cyclophosphamide (EC), followed by 3 or 4 cycles of docetaxel or 12 cycles of weekly paclitaxel; or (iii) 6 cycles of docetaxel in combination with carboplatin.",
+      "description": "The description text for all Statements derived from this Indication."
+    }
+  ]
+}

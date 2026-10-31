@@ -2,7 +2,7 @@
   "id": "doc:nice:ta670",
   "type": "Document",
   "documentType": "Regulatory approval",
-  "name": "Brigatinib [technology appraisal guidance]. NICE.",
+  "name": "Alunbrig (Brigatinib) [technology appraisal guidance]. NICE.",
   "title": null,
   "aliases": [],
   "description": "Brigatinib for ALK-positive advanced non-small-cell lung cancer that has not been previously treated with an ALK inhibitor, 2021, National Institute for Health and Care Excellence website. https://www.nice.org.uk/guidance/ta670/resources/brigatinib-for-alkpositive-advanced-nonsmallcell-lung-cancer-that-has-not-been-previously-treated-with-an-alk-inhibitor-pdf-82609312869061. Revised January 2021. Accessed October 20, 2025.",
@@ -26,7 +26,7 @@
     },
     {
       "name": "company",
-      "value": "Takeda",
+      "value": null,
       "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
     },
     {
@@ -36,7 +36,7 @@
     },
     {
       "name": "drug_name_generic",
-      "value": "Brigatinib",
+      "value": null,
       "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
     },
     {

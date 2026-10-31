@@ -1,0 +1,110 @@
+{
+  "id": "ind:nice:ta1156:1.1",
+  "type": "Indication",
+  "description": "Osimertinib can be used, within its marketing authorisation, as an option to treat unresectable locally advanced (stage 3) non-small-cell lung cancer (NSCLC) in adults when the tumours have epidermal growth factor receptor (EGFR) exon 19 deletions or exon 21 L858R substitution mutations, and the cancer has not progressed during or after platinum-based chemoradiotherapy.",
+  "contributions": [
+    {
+      "id": "ctrb:qub:2026-06-17:0",
+      "type": "Contribution",
+      "description": "Initial curation of NICE approvals",
+      "date": "2026-06-17",
+      "contributor": {
+        "id": "agent:user:qub",
+        "type": "Agent",
+        "agentType": "contributor",
+        "name": "Queen's University Belfast",
+        "description": "Queen's University Belfast"
+      }
+    },
+    {
+      "id": "ctrb:nice:2026-05-21:0",
+      "type": "Contribution",
+      "description": "Indication recommended by NICE technology appraisal.",
+      "date": "2026-05-21",
+      "contributor": {
+        "id": "agent:org:nice",
+        "type": "Agent",
+        "agentType": "organization",
+        "name": "National Institute for Health and Care Excellence",
+        "description": "Regulatory and guidance body that issues Technology Appraisals recommending medicines for use in England and Wales, endorsed by Health and Social Care Northern Ireland (HSC NI) for use in Northern Ireland."
+      }
+    }
+  ],
+  "reportedIn": [
+    {
+      "id": "doc:nice:ta1156",
+      "type": "Document",
+      "documentType": "Regulatory approval",
+      "name": "Tagrisso (Osimertinib) [technology appraisal guidance]. NICE.",
+      "title": null,
+      "aliases": [],
+      "description": "Osimertinib for treating EGFR mutation-positive unresectable locally advanced non-small-cell lung cancer after platinum-based chemoradiotherapy, 2026, National Institute for Health and Care Excellence website. https://www.nice.org.uk/guidance/ta1156/resources/osimertinib-for-treating-egfr-mutationpositive-unresectable-locally-advanced-nonsmallcell-lung-cancer-after-platinumbased-chemoradiotherapy-pdf-2973530695768261. Revised May 2026. Accessed September 3, 2026.",
+      "urls": [
+        "https://www.nice.org.uk/guidance/ta1156/resources/osimertinib-for-treating-egfr-mutationpositive-unresectable-locally-advanced-nonsmallcell-lung-cancer-after-platinumbased-chemoradiotherapy-pdf-2973530695768261",
+        "https://www.nice.org.uk/guidance/ta1156"
+      ],
+      "doi": null,
+      "pmid": null,
+      "extensions": [
+        {
+          "name": "agent",
+          "value": {
+            "id": "agent:org:nice",
+            "type": "Agent",
+            "agentType": "organization",
+            "name": "National Institute for Health and Care Excellence",
+            "description": "Regulatory and guidance body that issues Technology Appraisals recommending medicines for use in England and Wales, endorsed by Health and Social Care Northern Ireland (HSC NI) for use in Northern Ireland."
+          },
+          "description": "The organization that published this document."
+        },
+        {
+          "name": "company",
+          "value": null,
+          "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
+        },
+        {
+          "name": "drug_name_brand",
+          "value": null,
+          "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
+        },
+        {
+          "name": "drug_name_generic",
+          "value": null,
+          "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
+        },
+        {
+          "name": "first_publication_date",
+          "value": null,
+          "description": "The publication date for the initial version of this document."
+        },
+        {
+          "name": "publication_date",
+          "value": "2026-05-21",
+          "description": "The publication date for the document."
+        },
+        {
+          "name": "regulatory_identifier",
+          "value": "TA1156",
+          "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
+        },
+        {
+          "name": "status",
+          "value": "Active",
+          "description": "Whether this document is Active or Deprecated within moalmanac-db."
+        }
+      ]
+    }
+  ],
+  "extensions": [
+    {
+      "name": "status",
+      "value": "Approved",
+      "description": "Current approval status."
+    },
+    {
+      "name": "statement description",
+      "value": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended osimertinib, within its marketing authorisation, as an option to treat unresectable locally advanced (stage 3) non-small-cell lung cancer (NSCLC) in adults whose tumours have EGFR exon 19 deletions or exon 21 (L858R) substitution mutations, when the cancer has not progressed during or after platinum-based chemoradiotherapy. Osimertinib is recommended within its marketing authorisation and subject to the commercial arrangement available to the NHS.",
+      "description": "The description text for all Statements derived from this Indication."
+    }
+  ]
+}

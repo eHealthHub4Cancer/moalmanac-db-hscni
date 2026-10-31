@@ -1,7 +1,7 @@
 {
   "id": "stmt:nice:ta862:1.1:0",
   "type": "Statement",
-  "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended trastuzumab deruxtecan for use within the Cancer Drugs Fund as a treatment option for treating HER2-positive unresectable or metastatic breast cancer in adults after 1 or more anti-HER2-based regimens. It is recommended only if the conditions in the managed access agreement are followed.",
+  "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended trastuzumab deruxtecan (Enhertu) with managed access as an option for the treatment of adults with HER2-positive unresectable or metastatic breast cancer who have received one or more prior anti-HER2-based regimens. Trastuzumab deruxtecan is recommended subject to the conditions of the managed access agreement.",
   "contributions": [
     {
       "id": "ctrb:qub:2026-06-17:0",
@@ -59,17 +59,17 @@
         },
         {
           "name": "company",
-          "value": "AstraZeneca / Daiichi Sankyo",
+          "value": null,
           "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
         },
         {
           "name": "drug_name_brand",
-          "value": "Enhertu",
+          "value": null,
           "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
         },
         {
           "name": "drug_name_generic",
-          "value": "Trastuzumab deruxtecan",
+          "value": null,
           "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
         },
         {
@@ -324,17 +324,17 @@
               },
               {
                 "name": "company",
-                "value": "AstraZeneca / Daiichi Sankyo",
+                "value": null,
                 "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
               },
               {
                 "name": "drug_name_brand",
-                "value": "Enhertu",
+                "value": null,
                 "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
               },
               {
                 "name": "drug_name_generic",
-                "value": "Trastuzumab deruxtecan",
+                "value": null,
                 "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
               },
               {

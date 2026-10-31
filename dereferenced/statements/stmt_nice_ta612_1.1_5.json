@@ -1,0 +1,450 @@
+{
+  "id": "stmt:nice:ta612:1.1:5",
+  "type": "Statement",
+  "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended neratinib, within its marketing authorisation, as an option for the extended adjuvant treatment of hormone receptor-positive, HER2-positive early stage breast cancer in adults who completed adjuvant trastuzumab-based therapy less than 1 year ago, when trastuzumab was the only HER2-directed adjuvant treatment they have had. Neratinib is recommended within its marketing authorisation and subject to the commercial arrangement available to the NHS.",
+  "contributions": [
+    {
+      "id": "ctrb:qub:2026-06-17:0",
+      "type": "Contribution",
+      "description": "Initial curation of NICE approvals",
+      "date": "2026-06-17",
+      "contributor": {
+        "id": "agent:user:qub",
+        "type": "Agent",
+        "agentType": "contributor",
+        "name": "Queen's University Belfast",
+        "description": "Queen's University Belfast"
+      }
+    },
+    {
+      "id": "ctrb:nice:2019-11-20:0",
+      "type": "Contribution",
+      "description": "Indication recommended by NICE technology appraisal.",
+      "date": "2019-11-20",
+      "contributor": {
+        "id": "agent:org:nice",
+        "type": "Agent",
+        "agentType": "organization",
+        "name": "National Institute for Health and Care Excellence",
+        "description": "Regulatory and guidance body that issues Technology Appraisals recommending medicines for use in England and Wales, endorsed by Health and Social Care Northern Ireland (HSC NI) for use in Northern Ireland."
+      }
+    }
+  ],
+  "reportedIn": [
+    {
+      "id": "doc:nice:ta612",
+      "type": "Document",
+      "documentType": "Regulatory approval",
+      "name": "Nerlynx (Neratinib) [technology appraisal guidance]. NICE.",
+      "title": null,
+      "aliases": [],
+      "description": "Neratinib for extended adjuvant treatment of hormone receptor-positive, HER2-positive early stage breast cancer after adjuvant trastuzumab, 2019, National Institute for Health and Care Excellence website. https://www.nice.org.uk/guidance/ta612/resources/neratinib-for-extended-adjuvant-treatment-of-hormone-receptorpositive-her2positive-early-stage-breast-cancer-after-adjuvant-trastuzumab-pdf-82608953431237. Revised November 2019. Accessed September 4, 2026.",
+      "urls": [
+        "https://www.nice.org.uk/guidance/ta612/resources/neratinib-for-extended-adjuvant-treatment-of-hormone-receptorpositive-her2positive-early-stage-breast-cancer-after-adjuvant-trastuzumab-pdf-82608953431237",
+        "https://www.nice.org.uk/guidance/ta612"
+      ],
+      "doi": null,
+      "pmid": null,
+      "extensions": [
+        {
+          "name": "agent",
+          "value": {
+            "id": "agent:org:nice",
+            "type": "Agent",
+            "agentType": "organization",
+            "name": "National Institute for Health and Care Excellence",
+            "description": "Regulatory and guidance body that issues Technology Appraisals recommending medicines for use in England and Wales, endorsed by Health and Social Care Northern Ireland (HSC NI) for use in Northern Ireland."
+          },
+          "description": "The organization that published this document."
+        },
+        {
+          "name": "company",
+          "value": null,
+          "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
+        },
+        {
+          "name": "drug_name_brand",
+          "value": null,
+          "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
+        },
+        {
+          "name": "drug_name_generic",
+          "value": null,
+          "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
+        },
+        {
+          "name": "first_publication_date",
+          "value": null,
+          "description": "The publication date for the initial version of this document."
+        },
+        {
+          "name": "publication_date",
+          "value": "2019-11-20",
+          "description": "The publication date for the document."
+        },
+        {
+          "name": "regulatory_identifier",
+          "value": "TA612",
+          "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
+        },
+        {
+          "name": "status",
+          "value": "Active",
+          "description": "Whether this document is Active or Deprecated within moalmanac-db."
+        }
+      ]
+    }
+  ],
+  "direction": "supports",
+  "proposition": {
+    "id": "prop:vtxr:634",
+    "type": "VariantTherapeuticResponseProposition",
+    "predicate": "predictsSensitivityTo",
+    "subjectVariant": {
+      "type": "CategoricalVariant",
+      "description": "Placeholder. Cat-VRS does not yet support sets of categorical variants. See the 'biomarkers' extension for biomarkers associated with this Proposition."
+    },
+    "conditionQualifier": {
+      "id": "dis:ncit:C9245",
+      "conceptType": "Disease",
+      "name": "Invasive Breast Carcinoma",
+      "mappings": [
+        {
+          "relation": "exactMatch",
+          "coding": {
+            "id": "coding:oncotree:BRCA",
+            "code": "BRCA",
+            "name": "Invasive Breast Carcinoma",
+            "system": "https://oncotree.mskcc.org",
+            "systemVersion": "oncotree_2025_10_03",
+            "iris": [
+              "https://oncotree.mskcc.org/?version=oncotree_2025_10_03&field=NAME&search=Invasive+Breast+Carcinoma+%28BRCA%29"
+            ]
+          }
+        }
+      ],
+      "extensions": [
+        {
+          "name": "solid_tumor",
+          "value": true,
+          "description": "Boolean value for if this tumor type is categorized as a solid tumor."
+        }
+      ],
+      "primaryCoding": {
+        "id": "coding:ncit:C9245",
+        "code": "C9245",
+        "name": "Invasive Breast Carcinoma",
+        "system": "https://evsexplore.semantics.cancer.gov",
+        "systemVersion": "26.08e",
+        "iris": [
+          "https://evsexplore.semantics.cancer.gov/evsexplore/concept/ncit/C9245"
+        ]
+      }
+    },
+    "objectTherapeutic": {
+      "id": "tx:ncit:C49094",
+      "conceptType": "Therapy",
+      "name": "Neratinib",
+      "mappings": [
+        {
+          "relation": "relatedMatch",
+          "coding": {
+            "id": "coding:rxcui:1940643",
+            "code": "1940643",
+            "name": "neratinib",
+            "system": "RxNorm",
+            "systemVersion": "02-Mar-2026",
+            "iris": [
+              "https://mor.nlm.nih.gov/RxNav/search?searchBy=RXCUI&searchTerm=1940643"
+            ]
+          }
+        },
+        {
+          "relation": "relatedMatch",
+          "coding": {
+            "id": "coding:omop:793846",
+            "code": "793846",
+            "name": "neratinib",
+            "system": "OMOP",
+            "systemVersion": "v20260227",
+            "iris": [
+              "https://athena.ohdsi.org/search-terms/terms/793846"
+            ]
+          }
+        }
+      ],
+      "extensions": [
+        {
+          "name": "therapy_strategy",
+          "value": [
+            "HER2 inhibition"
+          ],
+          "description": "Associated therapeutic strategy or mechanism of action of the therapy."
+        },
+        {
+          "name": "therapy_type",
+          "value": "Targeted therapy",
+          "description": "Type of cancer treatment from cancer.gov: https://www.cancer.gov/about-cancer/treatment/types"
+        }
+      ],
+      "primaryCoding": {
+        "id": "coding:ncit:C49094",
+        "code": "C49094",
+        "name": "Neratinib",
+        "system": "https://evsexplore.semantics.cancer.gov",
+        "systemVersion": "26.08e",
+        "iris": [
+          "https://evsexplore.semantics.cancer.gov/evsexplore/concept/ncit/C49094"
+        ]
+      }
+    },
+    "extensions": [
+      {
+        "name": "biomarkers",
+        "value": [
+          {
+            "id": "bmkr.criterion:21",
+            "present": true,
+            "subject": {
+              "id": "bmkr:21",
+              "type": "CategoricalVariant",
+              "name": "ERBB2 amplification",
+              "constraints": [
+                {
+                  "type": "FeatureContextConstraint",
+                  "featureContext": {
+                    "id": "gene:hgnc:3430",
+                    "conceptType": "Gene",
+                    "name": "ERBB2",
+                    "primaryCoding": {
+                      "id": "coding:hgnc:3430",
+                      "code": "HGNC:3430",
+                      "system": "https://genenames.org",
+                      "iris": [
+                        "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:3430"
+                      ]
+                    },
+                    "mappings": [
+                      {
+                        "relation": "exactMatch",
+                        "coding": {
+                          "id": "coding:ensembl:ensg00000141736",
+                          "code": "ENSG00000141736",
+                          "system": "https://www.ensembl.org",
+                          "iris": [
+                            "https://www.ensembl.org/id/ENSG00000141736"
+                          ]
+                        }
+                      },
+                      {
+                        "relation": "exactMatch",
+                        "coding": {
+                          "id": "coding:ncbi:2064",
+                          "code": "2064",
+                          "system": "https://www.ncbi.nlm.nih.gov/gene",
+                          "iris": [
+                            "https://www.ncbi.nlm.nih.gov/gene/2064"
+                          ]
+                        }
+                      },
+                      {
+                        "relation": "relatedMatch",
+                        "coding": {
+                          "id": "coding:refseq:NM_004448.4",
+                          "code": "NM_004448.4",
+                          "system": "https://www.ncbi.nlm.nih.gov/nuccore",
+                          "iris": [
+                            "https://www.ncbi.nlm.nih.gov/nuccore/NM_004448.4"
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "CopyChangeConstraint",
+                  "copyChange": "gain"
+                }
+              ],
+              "extensions": [
+                {
+                  "name": "biomarker_type",
+                  "value": "Copy number"
+                },
+                {
+                  "name": "cytoband",
+                  "value": null
+                }
+              ]
+            }
+          },
+          {
+            "id": "bmkr.criterion:3",
+            "present": true,
+            "subject": {
+              "id": "bmkr:3",
+              "type": "CategoricalVariant",
+              "name": "PR positive",
+              "constraints": [],
+              "extensions": [
+                {
+                  "name": "biomarker_type",
+                  "value": "Protein expression"
+                },
+                {
+                  "name": "marker",
+                  "value": "Progesterone receptor (PR)"
+                },
+                {
+                  "name": "unit",
+                  "value": "status"
+                },
+                {
+                  "name": "equality",
+                  "value": "="
+                },
+                {
+                  "name": "value",
+                  "value": "Positive"
+                }
+              ]
+            }
+          }
+        ],
+        "description": "The biomarkers associated with this Proposition, each with a `present` flag indicating if the biomarker is present (true) or absent (false). Multiple biomarkers are combined with implied AND logic."
+      }
+    ]
+  },
+  "strength": {
+    "id": "str:ncit:C25425",
+    "conceptType": "Evidence",
+    "name": "Approval",
+    "mappings": [],
+    "primaryCoding": {
+      "id": "coding:ncit:C25425",
+      "code": "C25425",
+      "name": "Approval",
+      "system": "https://evsexplore.semantics.cancer.gov",
+      "systemVersion": "26.08e",
+      "iris": [
+        "https://evsexplore.semantics.cancer.gov/evsexplore/concept/ncit/C25425"
+      ]
+    }
+  },
+  "extensions": [
+    {
+      "name": "status",
+      "value": "Active",
+      "description": "Whether this Statement is Active, Superseded, or Deprecated within moalmanac-db."
+    },
+    {
+      "name": "indication",
+      "value": {
+        "id": "ind:nice:ta612:1.1",
+        "type": "Indication",
+        "description": "Neratinib is recommended as an option for the extended adjuvant treatment of hormone receptor-positive, HER2-positive early stage breast cancer in adults who completed adjuvant trastuzumab-based therapy less than 1 year ago only if: trastuzumab is the only HER2-directed adjuvant treatment they have had, and if they had neoadjuvant chemotherapy-based regimens, they still had residual invasive disease in the breast or axilla following the neoadjuvant treatment, and the company provides neratinib according to the commercial arrangement.",
+        "contributions": [
+          {
+            "id": "ctrb:qub:2026-06-17:0",
+            "type": "Contribution",
+            "description": "Initial curation of NICE approvals",
+            "date": "2026-06-17",
+            "contributor": {
+              "id": "agent:user:qub",
+              "type": "Agent",
+              "agentType": "contributor",
+              "name": "Queen's University Belfast",
+              "description": "Queen's University Belfast"
+            }
+          },
+          {
+            "id": "ctrb:nice:2019-11-20:0",
+            "type": "Contribution",
+            "description": "Indication recommended by NICE technology appraisal.",
+            "date": "2019-11-20",
+            "contributor": {
+              "id": "agent:org:nice",
+              "type": "Agent",
+              "agentType": "organization",
+              "name": "National Institute for Health and Care Excellence",
+              "description": "Regulatory and guidance body that issues Technology Appraisals recommending medicines for use in England and Wales, endorsed by Health and Social Care Northern Ireland (HSC NI) for use in Northern Ireland."
+            }
+          }
+        ],
+        "reportedIn": [
+          {
+            "id": "doc:nice:ta612",
+            "type": "Document",
+            "documentType": "Regulatory approval",
+            "name": "Nerlynx (Neratinib) [technology appraisal guidance]. NICE.",
+            "title": null,
+            "aliases": [],
+            "description": "Neratinib for extended adjuvant treatment of hormone receptor-positive, HER2-positive early stage breast cancer after adjuvant trastuzumab, 2019, National Institute for Health and Care Excellence website. https://www.nice.org.uk/guidance/ta612/resources/neratinib-for-extended-adjuvant-treatment-of-hormone-receptorpositive-her2positive-early-stage-breast-cancer-after-adjuvant-trastuzumab-pdf-82608953431237. Revised November 2019. Accessed September 4, 2026.",
+            "urls": [
+              "https://www.nice.org.uk/guidance/ta612/resources/neratinib-for-extended-adjuvant-treatment-of-hormone-receptorpositive-her2positive-early-stage-breast-cancer-after-adjuvant-trastuzumab-pdf-82608953431237",
+              "https://www.nice.org.uk/guidance/ta612"
+            ],
+            "doi": null,
+            "pmid": null,
+            "extensions": [
+              {
+                "name": "agent",
+                "value": {
+                  "id": "agent:org:nice",
+                  "type": "Agent",
+                  "agentType": "organization",
+                  "name": "National Institute for Health and Care Excellence",
+                  "description": "Regulatory and guidance body that issues Technology Appraisals recommending medicines for use in England and Wales, endorsed by Health and Social Care Northern Ireland (HSC NI) for use in Northern Ireland."
+                },
+                "description": "The organization that published this document."
+              },
+              {
+                "name": "company",
+                "value": null,
+                "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
+              },
+              {
+                "name": "drug_name_brand",
+                "value": null,
+                "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
+              },
+              {
+                "name": "drug_name_generic",
+                "value": null,
+                "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
+              },
+              {
+                "name": "first_publication_date",
+                "value": null,
+                "description": "The publication date for the initial version of this document."
+              },
+              {
+                "name": "publication_date",
+                "value": "2019-11-20",
+                "description": "The publication date for the document."
+              },
+              {
+                "name": "regulatory_identifier",
+                "value": "TA612",
+                "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
+              },
+              {
+                "name": "status",
+                "value": "Active",
+                "description": "Whether this document is Active or Deprecated within moalmanac-db."
+              }
+            ]
+          }
+        ],
+        "extensions": [
+          {
+            "name": "status",
+            "value": "Approved",
+            "description": "Current approval status."
+          }
+        ]
+      },
+      "description": "The underlying Indication supporting this Statement."
+    }
+  ]
+}

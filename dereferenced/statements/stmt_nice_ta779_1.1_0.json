@@ -1,7 +1,7 @@
 {
   "id": "stmt:nice:ta779:1.1:0",
   "type": "Statement",
-  "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Dostarlimab for use within the Cancer Drugs Fund as an option for treating advanced or recurrent endometrial cancer with high microsatellite instability or mismatch repair deficiency in adults who have had platinum-based chemotherapy. It is recommended only if the conditions in the managed access agreement are followed.",
+  "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended dostarlimab for the treatment of adults with advanced or recurrent endometrial cancer with high microsatellite instability or mismatch repair deficiency who have had platinum-based chemotherapy. Dostarlimab is recommended within its marketing authorisation and subject to the managed access agreement conditions available to the NHS.",
   "contributions": [
     {
       "id": "ctrb:qub:2026-06-17:0",
@@ -59,17 +59,17 @@
         },
         {
           "name": "company",
-          "value": "GSK",
+          "value": null,
           "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
         },
         {
           "name": "drug_name_brand",
-          "value": "Jemperli",
+          "value": null,
           "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
         },
         {
           "name": "drug_name_generic",
-          "value": "Dostarlimab",
+          "value": null,
           "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
         },
         {
@@ -246,7 +246,7 @@
   "extensions": [
     {
       "name": "status",
-      "value": "Active",
+      "value": "Superseded",
       "description": "Whether this Statement is Active, Superseded, or Deprecated within moalmanac-db."
     },
     {
@@ -312,17 +312,17 @@
               },
               {
                 "name": "company",
-                "value": "GSK",
+                "value": null,
                 "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
               },
               {
                 "name": "drug_name_brand",
-                "value": "Jemperli",
+                "value": null,
                 "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
               },
               {
                 "name": "drug_name_generic",
-                "value": "Dostarlimab",
+                "value": null,
                 "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
               },
               {
@@ -351,7 +351,7 @@
         "extensions": [
           {
             "name": "status",
-            "value": "Approved",
+            "value": "Superseded",
             "description": "Current approval status."
           }
         ]

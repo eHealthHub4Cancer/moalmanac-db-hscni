@@ -1,0 +1,63 @@
+{
+  "id": "doc:nice:ta816",
+  "type": "Document",
+  "documentType": "Regulatory approval",
+  "name": "Piqray (Alpelisib) [technology appraisal guidance]. NICE.",
+  "title": null,
+  "aliases": [],
+  "description": "Alpelisib with fulvestrant for treating hormone receptor-positive, HER2-negative, PIK3CA-mutated advanced breast cancer, 2022, National Institute for Health and Care Excellence website. https://www.nice.org.uk/guidance/ta816/resources/alpelisib-with-fulvestrant-for-treating-hormone-receptorpositive-her2negative-pik3camutated-advanced-breast-cancer-pdf-82613313714373. Revised August 2022. Accessed September 3, 2026.",
+  "urls": [
+    "https://www.nice.org.uk/guidance/ta816/resources/alpelisib-with-fulvestrant-for-treating-hormone-receptorpositive-her2negative-pik3camutated-advanced-breast-cancer-pdf-82613313714373",
+    "https://www.nice.org.uk/guidance/ta816"
+  ],
+  "doi": null,
+  "pmid": null,
+  "extensions": [
+    {
+      "name": "agent",
+      "value": {
+        "id": "agent:org:nice",
+        "type": "Agent",
+        "agentType": "organization",
+        "name": "National Institute for Health and Care Excellence",
+        "description": "Regulatory and guidance body that issues Technology Appraisals recommending medicines for use in England and Wales, endorsed by Health and Social Care Northern Ireland (HSC NI) for use in Northern Ireland."
+      },
+      "description": "The organization that published this document."
+    },
+    {
+      "name": "company",
+      "value": null,
+      "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
+    },
+    {
+      "name": "drug_name_brand",
+      "value": null,
+      "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
+    },
+    {
+      "name": "drug_name_generic",
+      "value": null,
+      "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
+    },
+    {
+      "name": "first_publication_date",
+      "value": null,
+      "description": "The publication date for the initial version of this document."
+    },
+    {
+      "name": "publication_date",
+      "value": "2022-08-10",
+      "description": "The publication date for the document."
+    },
+    {
+      "name": "regulatory_identifier",
+      "value": "TA816",
+      "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
+    },
+    {
+      "name": "status",
+      "value": "Active",
+      "description": "Whether this document is Active or Deprecated within moalmanac-db."
+    }
+  ]
+}

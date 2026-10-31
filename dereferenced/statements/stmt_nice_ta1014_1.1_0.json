@@ -1,7 +1,7 @@
 {
   "id": "stmt:nice:ta1014:1.1:0",
   "type": "Statement",
-  "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Alectinib, within its marketing authorisation, as a treatment option for the adjuvant treatment of stage 1B (tumours 4 cm or larger) to 3A ALK-positive nonsmall-cell lung cancer (NSCLC) after complete tumour resection in adults. It is only recommended if the company provides it according to the commercial arrangement.",
+  "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended alectinib for the adjuvant treatment of adults with stage 1B (tumours 4 cm or larger) to 3A ALK-positive non-small-cell lung cancer after complete tumour resection. Alectinib is recommended within its marketing authorisation and subject to the commercial arrangement available to the NHS.",
   "contributions": [
     {
       "id": "ctrb:qub:2026-06-17:0",
@@ -59,17 +59,17 @@
         },
         {
           "name": "company",
-          "value": "Roche",
+          "value": null,
           "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
         },
         {
           "name": "drug_name_brand",
-          "value": "Alecensa",
+          "value": null,
           "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
         },
         {
           "name": "drug_name_generic",
-          "value": "Alectinib",
+          "value": null,
           "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
         },
         {
@@ -366,17 +366,17 @@
               },
               {
                 "name": "company",
-                "value": "Roche",
+                "value": null,
                 "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
               },
               {
                 "name": "drug_name_brand",
-                "value": "Alecensa",
+                "value": null,
                 "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
               },
               {
                 "name": "drug_name_generic",
-                "value": "Alectinib",
+                "value": null,
                 "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
               },
               {

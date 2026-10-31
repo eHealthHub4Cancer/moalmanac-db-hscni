@@ -1,7 +1,7 @@
 {
   "id": "stmt:nice:ta1043:1.1:1",
   "type": "Statement",
-  "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Osimertinib, within its marketing authorisation, as a treatment option for the adjuvant treatment of stage 1b to 3a non-small-cell lung cancer (NSCLC) after complete tumour resection. It is for adults whose tumours have epidermal growth factor receptor (EGFR) exon 19 deletions or EGFR exon 21 (L858R) substitution mutations. It is only recommended if: \u2022 osimertinib is stopped at 3 years, or earlier if there is disease recurrence or unacceptable toxicity and \u2022 the company provides it according to the commercial arrangement.",
+  "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended osimertinib for the adjuvant treatment of stage 1b to 3a non-small-cell lung cancer (NSCLC) after complete tumour resection in adults whose tumours have EGFR exon 19 deletions or EGFR exon 21 (L858R) substitution mutations, stopped at 3 years or earlier if there is disease recurrence or unacceptable toxicity. Osimertinib is recommended within its marketing authorisation and subject to the commercial arrangement available to the NHS.",
   "contributions": [
     {
       "id": "ctrb:qub:2026-06-17:0",
@@ -59,17 +59,17 @@
         },
         {
           "name": "company",
-          "value": "AstraZeneca",
+          "value": null,
           "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
         },
         {
           "name": "drug_name_brand",
-          "value": "Tagrisso",
+          "value": null,
           "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
         },
         {
           "name": "drug_name_generic",
-          "value": "Osimertinib",
+          "value": null,
           "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
         },
         {
@@ -406,7 +406,7 @@
       "value": {
         "id": "ind:nice:ta1043:1.1",
         "type": "Indication",
-        "description": "Osimertinib is recommended, within its marketing authorisation, as an option for the adjuvant treatment of stage 1b to 3a non-small-cell lung cancer (NSCLC) after complete tumour resection. It is for adults whose tumours have epidermal growth factor receptor (EGFR) exon 19 deletions or EGFR exon 21 (L858R) substitution mutations. It is only recommended if: \u2022 osimertinib is stopped at 3 years, or earlier if there is disease recurrence or unacceptable toxicity and \u2022 the company provides it according to the commercial arrangement.",
+        "description": "Osimertinib is recommended, within its marketing authorisation, as an option for the adjuvant treatment of stage 1b to 3a non-small-cell lung cancer (NSCLC) after complete tumour resection. It is for adults whose tumours have epidermal growth factor receptor (EGFR) exon 19 deletions or EGFR exon 21 (L858R) substitution mutations. It is only recommended if osimertinib is stopped at 3 years, or earlier if there is disease recurrence or unacceptable toxicity and the company provides it according to the commercial arrangement.",
         "contributions": [
           {
             "id": "ctrb:qub:2026-06-17:0",
@@ -464,17 +464,17 @@
               },
               {
                 "name": "company",
-                "value": "AstraZeneca",
+                "value": null,
                 "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
               },
               {
                 "name": "drug_name_brand",
-                "value": "Tagrisso",
+                "value": null,
                 "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
               },
               {
                 "name": "drug_name_generic",
-                "value": "Osimertinib",
+                "value": null,
                 "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
               },
               {

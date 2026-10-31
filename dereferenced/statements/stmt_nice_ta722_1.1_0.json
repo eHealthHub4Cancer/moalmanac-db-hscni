@@ -1,7 +1,7 @@
 {
   "id": "stmt:nice:ta722:1.1:0",
   "type": "Statement",
-  "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Pemigatinib, within its marketing authorisation, as a treatment option for treating locally advanced or metastatic cholangiocarcinoma with a fibroblast growth factor receptor 2 (FGFR2) fusion or rearrangement that has progressed after systemic therapy in adults. It is recommended only if the company provides pemigatinib according to the commercial arrangement.",
+  "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended pemigatinib for the treatment of adult patients with locally advanced or metastatic cholangiocarcinoma harbouring a fibroblast growth factor receptor 2 (FGFR2) fusion or rearrangement whose disease has progressed after systemic therapy. Pemigatinib is recommended within its marketing authorisation and subject to the commercial arrangement available to the NHS.",
   "contributions": [
     {
       "id": "ctrb:qub:2026-06-17:0",
@@ -59,17 +59,17 @@
         },
         {
           "name": "company",
-          "value": "Incyte",
+          "value": null,
           "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
         },
         {
           "name": "drug_name_brand",
-          "value": "Pemazyre",
+          "value": null,
           "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
         },
         {
           "name": "drug_name_generic",
-          "value": "Pemigatinib",
+          "value": null,
           "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
         },
         {
@@ -360,17 +360,17 @@
               },
               {
                 "name": "company",
-                "value": "Incyte",
+                "value": null,
                 "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
               },
               {
                 "name": "drug_name_brand",
-                "value": "Pemazyre",
+                "value": null,
                 "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
               },
               {
                 "name": "drug_name_generic",
-                "value": "Pemigatinib",
+                "value": null,
                 "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
               },
               {

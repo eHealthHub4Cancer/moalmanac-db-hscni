@@ -59,17 +59,17 @@
         },
         {
           "name": "company",
-          "value": "Pfizer",
+          "value": null,
           "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
         },
         {
           "name": "drug_name_brand",
-          "value": "Vizimpro",
+          "value": null,
           "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
         },
         {
           "name": "drug_name_generic",
-          "value": "Dacomitinib",
+          "value": null,
           "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
         },
         {
@@ -103,7 +103,7 @@
     },
     {
       "name": "statement description",
-      "value": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Dacomitinib, within its marketing authorisation, as a treatment option for untreated locally advanced or metastatic epidermal growth factor receptor (EGFR) mutation-positive non-small-cell lung cancer (NSCLC) in adults. It is recommended only if the company provides it according to the commercial arrangement.",
+      "value": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended dacomitinib for the treatment of untreated locally advanced or metastatic EGFR mutation-positive non-small-cell lung cancer (NSCLC) in adults. Dacomitinib is recommended within its marketing authorisation and subject to the commercial arrangement available to the NHS.",
       "description": "The description text for all Statements derived from this Indication."
     }
   ]

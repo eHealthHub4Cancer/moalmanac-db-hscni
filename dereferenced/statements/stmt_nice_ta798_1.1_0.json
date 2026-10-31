@@ -1,7 +1,7 @@
 {
   "id": "stmt:nice:ta798:1.1:0",
   "type": "Statement",
-  "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Durvalumab as an option for treating locally advanced unresectable non-small-cell lung cancer (NSCLC) in adults whose tumours express programmed cell death ligand 1 (PD-L1) on 1% or more of cells and whose disease has not progressed after platinum-based chemoradiation, only if: \u2022 they have had concurrent platinum-based chemoradiation \u2022 the company provides durvalumab according to the commercial arrangement.",
+  "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended durvalumab for the treatment of locally advanced unresectable non-small-cell lung cancer (NSCLC) in adults whose tumours express PD-L1 on 1% or more of cells and whose disease has not progressed after concurrent platinum-based chemoradiation. Durvalumab is recommended within its marketing authorisation and subject to the commercial arrangement available to the NHS.",
   "contributions": [
     {
       "id": "ctrb:qub:2026-06-17:0",
@@ -59,17 +59,17 @@
         },
         {
           "name": "company",
-          "value": "AstraZeneca",
+          "value": null,
           "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
         },
         {
           "name": "drug_name_brand",
-          "value": "Imfinzi",
+          "value": null,
           "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
         },
         {
           "name": "drug_name_generic",
-          "value": "Durvalumab",
+          "value": null,
           "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
         },
         {
@@ -266,7 +266,7 @@
       "value": {
         "id": "ind:nice:ta798:1.1",
         "type": "Indication",
-        "description": "Durvalumab is recommended as an option for treating locally advanced unresectable non-small-cell lung cancer (NSCLC) in adults whose tumours express programmed cell death ligand 1 (PD-L1) on 1% or more of cells and whose disease has not progressed after platinum-based chemoradiation, only if: \u2022 they have had concurrent platinum-based chemoradiation \u2022 the company provides durvalumab according to the commercial arrangement.",
+        "description": "Durvalumab is recommended as an option for treating locally advanced unresectable non-small-cell lung cancer (NSCLC) in adults whose tumours express programmed cell death ligand 1 (PD-L1) on 1% or more of cells and whose disease has not progressed after platinum-based chemoradiation, only if they have had concurrent platinum-based chemoradiation and the company provides durvalumab according to the commercial arrangement.",
         "contributions": [
           {
             "id": "ctrb:qub:2026-06-17:0",
@@ -324,17 +324,17 @@
               },
               {
                 "name": "company",
-                "value": "AstraZeneca",
+                "value": null,
                 "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
               },
               {
                 "name": "drug_name_brand",
-                "value": "Imfinzi",
+                "value": null,
                 "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
               },
               {
                 "name": "drug_name_generic",
-                "value": "Durvalumab",
+                "value": null,
                 "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
               },
               {

@@ -1,0 +1,110 @@
+{
+  "id": "ind:nice:ta523:1.1",
+  "type": "Indication",
+  "description": "Midostaurin is recommended, within its marketing authorisation, as an option in adults for treating newly diagnosed acute FLT3-mutation-positive myeloid leukaemia with standard daunorubicin and cytarabine as induction therapy, with high-dose cytarabine as consolidation therapy, and alone after complete response as maintenance therapy. It is recommended only if the company provides midostaurin with the discount agreed in the patient access scheme.",
+  "contributions": [
+    {
+      "id": "ctrb:qub:2026-06-17:0",
+      "type": "Contribution",
+      "description": "Initial curation of NICE approvals",
+      "date": "2026-06-17",
+      "contributor": {
+        "id": "agent:user:qub",
+        "type": "Agent",
+        "agentType": "contributor",
+        "name": "Queen's University Belfast",
+        "description": "Queen's University Belfast"
+      }
+    },
+    {
+      "id": "ctrb:nice:2018-06-13:0",
+      "type": "Contribution",
+      "description": "Indication recommended by NICE technology appraisal.",
+      "date": "2018-06-13",
+      "contributor": {
+        "id": "agent:org:nice",
+        "type": "Agent",
+        "agentType": "organization",
+        "name": "National Institute for Health and Care Excellence",
+        "description": "Regulatory and guidance body that issues Technology Appraisals recommending medicines for use in England and Wales, endorsed by Health and Social Care Northern Ireland (HSC NI) for use in Northern Ireland."
+      }
+    }
+  ],
+  "reportedIn": [
+    {
+      "id": "doc:nice:ta523",
+      "type": "Document",
+      "documentType": "Regulatory approval",
+      "name": "Rydapt (Midostaurin) [technology appraisal guidance]. NICE.",
+      "title": null,
+      "aliases": [],
+      "description": "Midostaurin for untreated acute myeloid leukaemia, 2018, National Institute for Health and Care Excellence website. https://www.nice.org.uk/guidance/ta523/resources/midostaurin-for-untreated-acute-myeloid-leukaemia-pdf-82606838794693. Revised June 2018. Accessed September 4, 2026.",
+      "urls": [
+        "https://www.nice.org.uk/guidance/ta523/resources/midostaurin-for-untreated-acute-myeloid-leukaemia-pdf-82606838794693",
+        "https://www.nice.org.uk/guidance/ta523"
+      ],
+      "doi": null,
+      "pmid": null,
+      "extensions": [
+        {
+          "name": "agent",
+          "value": {
+            "id": "agent:org:nice",
+            "type": "Agent",
+            "agentType": "organization",
+            "name": "National Institute for Health and Care Excellence",
+            "description": "Regulatory and guidance body that issues Technology Appraisals recommending medicines for use in England and Wales, endorsed by Health and Social Care Northern Ireland (HSC NI) for use in Northern Ireland."
+          },
+          "description": "The organization that published this document."
+        },
+        {
+          "name": "company",
+          "value": null,
+          "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
+        },
+        {
+          "name": "drug_name_brand",
+          "value": null,
+          "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
+        },
+        {
+          "name": "drug_name_generic",
+          "value": null,
+          "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
+        },
+        {
+          "name": "first_publication_date",
+          "value": null,
+          "description": "The publication date for the initial version of this document."
+        },
+        {
+          "name": "publication_date",
+          "value": "2018-06-13",
+          "description": "The publication date for the document."
+        },
+        {
+          "name": "regulatory_identifier",
+          "value": "TA523",
+          "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
+        },
+        {
+          "name": "status",
+          "value": "Active",
+          "description": "Whether this document is Active or Deprecated within moalmanac-db."
+        }
+      ]
+    }
+  ],
+  "extensions": [
+    {
+      "name": "status",
+      "value": "Approved",
+      "description": "Current approval status."
+    },
+    {
+      "name": "statement description",
+      "value": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended midostaurin, within its marketing authorisation, for treating newly diagnosed FLT3-mutation-positive acute myeloid leukaemia in adults: with standard daunorubicin and cytarabine as induction therapy, with high-dose cytarabine as consolidation therapy, and alone after complete response as maintenance therapy. Midostaurin is recommended within its marketing authorisation and subject to the discount agreed in the patient access scheme.",
+      "description": "The description text for all Statements derived from this Indication."
+    }
+  ]
+}

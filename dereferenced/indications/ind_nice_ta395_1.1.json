@@ -59,17 +59,17 @@
         },
         {
           "name": "company",
-          "value": "Novartis",
+          "value": null,
           "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
         },
         {
           "name": "drug_name_brand",
-          "value": "Zykadia",
+          "value": null,
           "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
         },
         {
           "name": "drug_name_generic",
-          "value": "Ceritinib",
+          "value": null,
           "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
         },
         {
@@ -103,7 +103,7 @@
     },
     {
       "name": "statement description",
-      "value": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Ceritinib, within its marketing authorisation, as a treatment option for treating advanced anaplastic lymphoma kinase positive non-small-cell lung cancer in adults who have previously had crizotinib. The drug is recommended only if the company provides it with the discount agreed in the patient access scheme.",
+      "value": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended ceritinib for the treatment of advanced anaplastic lymphoma kinase (ALK)-positive non-small-cell lung cancer (NSCLC) in adults who have previously been treated with crizotinib. Ceritinib is recommended within its marketing authorisation and subject to the commercial arrangement available to the NHS",
       "description": "The description text for all Statements derived from this Indication."
     }
   ]

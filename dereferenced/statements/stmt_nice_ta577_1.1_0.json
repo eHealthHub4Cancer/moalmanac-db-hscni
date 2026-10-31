@@ -1,7 +1,7 @@
 {
   "id": "stmt:nice:ta577:1.1:0",
   "type": "Statement",
-  "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended brentuximab vedotin as an option for treating CD30-positive cutaneous T-cell lymphoma (CTCL) in adults after at least 1 systemic therapy, with: mycosis fungoides (MF) stage 2B or above, primary cutaneous anaplastic large cell lymphoma (pcALCL), or S\u00e9zary syndrome. It is recommended only if the company provides brentuximab vedotin according to the commercial arrangement.",
+  "description": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended brentuximab vedotin for the treatment of adults with CD30-positive cutaneous T-cell lymphoma (CTCL) after at least 1 systemic therapy, with mycosis fungoides stage 2B or over, primary cutaneous anaplastic large cell lymphoma, or S\u00e9zary syndrome. Brentuximab vedotin is recommended within its marketing authorisation and subject to the commercial arrangement available to the NHS",
   "contributions": [
     {
       "id": "ctrb:qub:2026-06-17:0",
@@ -59,17 +59,17 @@
         },
         {
           "name": "company",
-          "value": "Seagen / Takeda",
+          "value": null,
           "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
         },
         {
           "name": "drug_name_brand",
-          "value": "Adcetris",
+          "value": null,
           "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
         },
         {
           "name": "drug_name_generic",
-          "value": "Brentuximab vedotin",
+          "value": null,
           "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
         },
         {
@@ -310,17 +310,17 @@
               },
               {
                 "name": "company",
-                "value": "Seagen / Takeda",
+                "value": null,
                 "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
               },
               {
                 "name": "drug_name_brand",
-                "value": "Adcetris",
+                "value": null,
                 "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
               },
               {
                 "name": "drug_name_generic",
-                "value": "Brentuximab vedotin",
+                "value": null,
                 "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
               },
               {

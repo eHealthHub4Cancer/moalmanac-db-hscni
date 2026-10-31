@@ -2,7 +2,7 @@
   "id": "doc:nice:ta668",
   "type": "Document",
   "documentType": "Regulatory approval",
-  "name": "Braftovi (Encorafenib plus cetuximab) [technology appraisal guidance]. NICE.",
+  "name": "Braftovi (Encorafenib) [technology appraisal guidance]. NICE.",
   "title": null,
   "aliases": [],
   "description": "Encorafenib plus cetuximab for previously treated BRAF V600E mutation-positive metastatic colorectal cancer, 2021, National Institute for Health and Care Excellence website. https://www.nice.org.uk/guidance/ta668/resources/encorafenib-plus-cetuximab-for-previously-treated-braf-v600e-mutationpositive-metastatic-colorectal-cancer-pdf-82609265839813. Revised January 2021. Accessed October 20, 2025.",
@@ -26,17 +26,17 @@
     },
     {
       "name": "company",
-      "value": "Pfizer",
+      "value": null,
       "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
     },
     {
       "name": "drug_name_brand",
-      "value": "Braftovi",
+      "value": null,
       "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
     },
     {
       "name": "drug_name_generic",
-      "value": "Encorafenib plus cetuximab",
+      "value": null,
       "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
     },
     {

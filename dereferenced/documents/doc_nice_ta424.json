@@ -1,0 +1,63 @@
+{
+  "id": "doc:nice:ta424",
+  "type": "Document",
+  "documentType": "Regulatory approval",
+  "name": "Perjeta (Pertuzumab) [technology appraisal guidance]. NICE.",
+  "title": null,
+  "aliases": [],
+  "description": "Pertuzumab for the neoadjuvant treatment of HER2-positive breast cancer, 2016, National Institute for Health and Care Excellence website. https://www.nice.org.uk/guidance/ta424/resources/pertuzumab-for-the-neoadjuvant-treatment-of-her2positive-breast-cancer-pdf-82604663691973. Revised December 2016. Accessed September 6, 2026.",
+  "urls": [
+    "https://www.nice.org.uk/guidance/ta424/resources/pertuzumab-for-the-neoadjuvant-treatment-of-her2positive-breast-cancer-pdf-82604663691973",
+    "https://www.nice.org.uk/guidance/ta424"
+  ],
+  "doi": null,
+  "pmid": null,
+  "extensions": [
+    {
+      "name": "agent",
+      "value": {
+        "id": "agent:org:nice",
+        "type": "Agent",
+        "agentType": "organization",
+        "name": "National Institute for Health and Care Excellence",
+        "description": "Regulatory and guidance body that issues Technology Appraisals recommending medicines for use in England and Wales, endorsed by Health and Social Care Northern Ireland (HSC NI) for use in Northern Ireland."
+      },
+      "description": "The organization that published this document."
+    },
+    {
+      "name": "company",
+      "value": null,
+      "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
+    },
+    {
+      "name": "drug_name_brand",
+      "value": null,
+      "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
+    },
+    {
+      "name": "drug_name_generic",
+      "value": null,
+      "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
+    },
+    {
+      "name": "first_publication_date",
+      "value": null,
+      "description": "The publication date for the initial version of this document."
+    },
+    {
+      "name": "publication_date",
+      "value": "2016-12-21",
+      "description": "The publication date for the document."
+    },
+    {
+      "name": "regulatory_identifier",
+      "value": "TA424",
+      "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
+    },
+    {
+      "name": "status",
+      "value": "Active",
+      "description": "Whether this document is Active or Deprecated within moalmanac-db."
+    }
+  ]
+}

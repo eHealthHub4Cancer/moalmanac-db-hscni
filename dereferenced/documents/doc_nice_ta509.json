@@ -26,17 +26,17 @@
     },
     {
       "name": "company",
-      "value": "Roche",
+      "value": null,
       "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
     },
     {
       "name": "drug_name_brand",
-      "value": "Perjeta",
+      "value": null,
       "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
     },
     {
       "name": "drug_name_generic",
-      "value": "Pertuzumab",
+      "value": null,
       "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
     },
     {

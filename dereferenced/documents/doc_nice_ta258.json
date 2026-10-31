@@ -26,17 +26,17 @@
     },
     {
       "name": "company",
-      "value": "Roche / OSI Pharmaceuticals",
+      "value": null,
       "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
     },
     {
       "name": "drug_name_brand",
-      "value": "Tarceva",
+      "value": null,
       "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
     },
     {
       "name": "drug_name_generic",
-      "value": "Erlotinib",
+      "value": null,
       "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
     },
     {

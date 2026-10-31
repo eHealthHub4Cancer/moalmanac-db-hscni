@@ -59,17 +59,17 @@
         },
         {
           "name": "company",
-          "value": "Roche / OSI Pharmaceuticals",
+          "value": null,
           "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
         },
         {
           "name": "drug_name_brand",
-          "value": "Tarceva",
+          "value": null,
           "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
         },
         {
           "name": "drug_name_generic",
-          "value": "Erlotinib",
+          "value": null,
           "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
         },
         {
@@ -103,7 +103,7 @@
     },
     {
       "name": "statement description",
-      "value": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended Erlotinib as an option for the first-line treatment of people with locally advanced or metastatic non-small-cell lung cancer (NSCLC) if: the manufacturer provides erlotinib at the discounted price agreed under the patient access scheme (as revised in 2012).",
+      "value": "The U.K. National Institute for Health and Care Excellence (NICE) has recommended erlotinib for the first-line treatment of locally advanced or metastatic non-small-cell lung cancer (NSCLC) in people who test positive for the epidermal growth factor receptor tyrosine kinase (EGFR-TK) mutation. Erlotinib is recommended within its marketing authorisation and subject to the commercial arrangement available to the NHS.",
       "description": "The description text for all Statements derived from this Indication."
     }
   ]

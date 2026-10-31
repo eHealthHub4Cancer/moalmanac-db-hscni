@@ -7548,12 +7548,36 @@
     "url": "https://healthservice.hse.ie/documents/8284/929_Dostarlimab_-_PACLi_CARBO_Regimen.pdf"
   },
   {
+    "id": "url:nice:ta34:label",
+    "url": "https://www.nice.org.uk/guidance/ta34/resources/guidance-on-the-use-of-trastuzumab-for-the-treatment-of-advanced-breast-cancer-pdf-2294590"
+  },
+  {
+    "id": "url:nice:ta34:overview",
+    "url": "https://www.nice.org.uk/guidance/ta34"
+  },
+  {
     "id": "url:nice:ta86:label",
     "url": "https://www.nice.org.uk/guidance/ta86/resources/imatinib-for-the-treatment-of-unresectable-andor-metastatic-gastrointestinal-stromal-tumours-pdf-2294822343877"
   },
   {
     "id": "url:nice:ta86:overview",
     "url": "https://www.nice.org.uk/guidance/ta86"
+  },
+  {
+    "id": "url:nice:ta192:label",
+    "url": "https://www.nice.org.uk/guidance/ta192/resources/gefitinib-for-the-firstline-treatment-of-locally-advanced-or-metastatic-nonsmallcell-lung-cancer-pdf-82598429712325"
+  },
+  {
+    "id": "url:nice:ta192:overview",
+    "url": "https://www.nice.org.uk/guidance/ta192"
+  },
+  {
+    "id": "url:nice:ta208:label",
+    "url": "https://www.nice.org.uk/guidance/ta208/resources/trastuzumab-for-the-treatment-of-her2positive-metastatic-gastric-cancer-pdf-82600195913413"
+  },
+  {
+    "id": "url:nice:ta208:overview",
+    "url": "https://www.nice.org.uk/guidance/ta208"
   },
   {
     "id": "url:nice:ta258:label",
@@ -7572,12 +7596,36 @@
     "url": "https://www.nice.org.uk/guidance/ta269"
   },
   {
+    "id": "url:nice:ta310:label",
+    "url": "https://www.nice.org.uk/guidance/ta310/resources/afatinib-for-treating-epidermal-growth-factor-receptor-mutationpositive-locally-advanced-or-metastatic-nonsmallcell-lung-cancer-pdf-82602414365381"
+  },
+  {
+    "id": "url:nice:ta310:overview",
+    "url": "https://www.nice.org.uk/guidance/ta310"
+  },
+  {
     "id": "url:nice:ta321:label",
     "url": "https://www.nice.org.uk/guidance/ta321/resources/dabrafenib-for-treating-unresectable-or-metastatic-brafv600-mutationpositive-melanoma-pdf-82602481870789"
   },
   {
     "id": "url:nice:ta321:overview",
     "url": "https://www.nice.org.uk/guidance/ta321"
+  },
+  {
+    "id": "url:nice:ta359:label",
+    "url": "https://www.nice.org.uk/guidance/ta359/resources/idelalisib-for-treating-chronic-lymphocytic-leukaemia-pdf-82602345940933"
+  },
+  {
+    "id": "url:nice:ta359:overview",
+    "url": "https://www.nice.org.uk/guidance/ta359"
+  },
+  {
+    "id": "url:nice:ta374:label",
+    "url": "https://www.nice.org.uk/guidance/ta374/resources/erlotinib-and-gefitinib-for-treating-nonsmallcell-lung-cancer-that-has-progressed-after-prior-chemotherapy-pdf-82602797436869"
+  },
+  {
+    "id": "url:nice:ta374:overview",
+    "url": "https://www.nice.org.uk/guidance/ta374"
   },
   {
     "id": "url:nice:ta395:label",
@@ -7596,12 +7644,60 @@
     "url": "https://www.nice.org.uk/guidance/ta396"
   },
   {
+    "id": "url:nice:ta401:label",
+    "url": "https://www.nice.org.uk/guidance/ta401/resources/bosutinib-for-previously-treated-chronic-myeloid-leukaemia-pdf-82604546774213"
+  },
+  {
+    "id": "url:nice:ta401:overview",
+    "url": "https://www.nice.org.uk/guidance/ta401"
+  },
+  {
     "id": "url:nice:ta406:label",
     "url": "https://www.nice.org.uk/guidance/ta406/resources/crizotinib-for-untreated-anaplastic-lymphoma-kinasepositive-advanced-nonsmallcell-lung-cancer-pdf-82604546118853"
   },
   {
     "id": "url:nice:ta406:overview",
     "url": "https://www.nice.org.uk/guidance/ta406"
+  },
+  {
+    "id": "url:nice:ta421:label",
+    "url": "https://www.nice.org.uk/guidance/ta421/resources/everolimus-with-exemestane-for-treating-advanced-breast-cancer-after-endocrine-therapy-pdf-82604658653125"
+  },
+  {
+    "id": "url:nice:ta421:overview",
+    "url": "https://www.nice.org.uk/guidance/ta421"
+  },
+  {
+    "id": "url:nice:ta422:label",
+    "url": "https://www.nice.org.uk/guidance/ta422/resources/crizotinib-for-previously-treated-anaplastic-lymphoma-kinasepositive-advanced-nonsmallcell-lung-cancer-pdf-82604660332741"
+  },
+  {
+    "id": "url:nice:ta422:overview",
+    "url": "https://www.nice.org.uk/guidance/ta422"
+  },
+  {
+    "id": "url:nice:ta424:label",
+    "url": "https://www.nice.org.uk/guidance/ta424/resources/pertuzumab-for-the-neoadjuvant-treatment-of-her2positive-breast-cancer-pdf-82604663691973"
+  },
+  {
+    "id": "url:nice:ta424:overview",
+    "url": "https://www.nice.org.uk/guidance/ta424"
+  },
+  {
+    "id": "url:nice:ta425:label",
+    "url": "https://www.nice.org.uk/guidance/ta425/resources/dasatinib-nilotinib-and-highdose-imatinib-for-treating-imatinibresistant-or-intolerant-chronic-myeloid-leukaemia-pdf-82604665371589"
+  },
+  {
+    "id": "url:nice:ta425:overview",
+    "url": "https://www.nice.org.uk/guidance/ta425"
+  },
+  {
+    "id": "url:nice:ta426:label",
+    "url": "https://www.nice.org.uk/guidance/ta426/resources/dasatinib-nilotinib-and-imatinib-for-untreated-chronic-myeloid-leukaemia-pdf-82604668434373"
+  },
+  {
+    "id": "url:nice:ta426:overview",
+    "url": "https://www.nice.org.uk/guidance/ta426"
   },
   {
     "id": "url:nice:ta428:label",
@@ -7620,12 +7716,60 @@
     "url": "https://www.nice.org.uk/guidance/ta429"
   },
   {
+    "id": "url:nice:ta439:label",
+    "url": "https://www.nice.org.uk/guidance/ta439/resources/cetuximab-and-panitumumab-for-previously-untreated-metastatic-colorectal-cancer-pdf-82604732556229"
+  },
+  {
+    "id": "url:nice:ta439:overview",
+    "url": "https://www.nice.org.uk/guidance/ta439"
+  },
+  {
+    "id": "url:nice:ta450:label",
+    "url": "https://www.nice.org.uk/guidance/ta450/resources/blinatumomab-for-previously-treated-philadelphiachromosomenegative-acute-lymphoblastic-leukaemia-pdf-82604838372037"
+  },
+  {
+    "id": "url:nice:ta450:overview",
+    "url": "https://www.nice.org.uk/guidance/ta450"
+  },
+  {
+    "id": "url:nice:ta451:label",
+    "url": "https://www.nice.org.uk/guidance/ta451/resources/ponatinib-for-treating-chronic-myeloid-leukaemia-and-acute-lymphoblastic-leukaemia-pdf-82604840051653"
+  },
+  {
+    "id": "url:nice:ta451:overview",
+    "url": "https://www.nice.org.uk/guidance/ta451"
+  },
+  {
     "id": "url:nice:ta458:label",
     "url": "https://www.nice.org.uk/guidance/ta458/resources/trastuzumab-emtansine-for-treating-her2positive-advanced-breast-cancer-after-trastuzumab-and-a-taxane-pdf-82604851808965"
   },
   {
     "id": "url:nice:ta458:overview",
     "url": "https://www.nice.org.uk/guidance/ta458"
+  },
+  {
+    "id": "url:nice:ta478:label",
+    "url": "https://www.nice.org.uk/guidance/ta478/resources/brentuximab-vedotin-for-treating-relapsed-or-refractory-systemic-anaplastic-large-cell-lymphoma-pdf-82604972741317"
+  },
+  {
+    "id": "url:nice:ta478:overview",
+    "url": "https://www.nice.org.uk/guidance/ta478"
+  },
+  {
+    "id": "url:nice:ta495:label",
+    "url": "https://www.nice.org.uk/guidance/ta495/resources/palbociclib-with-an-aromatase-inhibitor-for-previously-untreated-hormone-receptorpositive-her2negative-locally-advanced-or-metastatic-breast-cancer-pdf-82605088634821"
+  },
+  {
+    "id": "url:nice:ta495:overview",
+    "url": "https://www.nice.org.uk/guidance/ta495"
+  },
+  {
+    "id": "url:nice:ta496:label",
+    "url": "https://www.nice.org.uk/guidance/ta496/resources/ribociclib-with-an-aromatase-inhibitor-for-previously-untreated-hormone-receptorpositive-her2negative-locally-advanced-or-metastatic-breast-cancer-pdf-82605090314437"
+  },
+  {
+    "id": "url:nice:ta496:overview",
+    "url": "https://www.nice.org.uk/guidance/ta496"
   },
   {
     "id": "url:nice:ta500:label",
@@ -7644,12 +7788,28 @@
     "url": "https://www.nice.org.uk/guidance/ta509"
   },
   {
+    "id": "url:nice:ta523:label",
+    "url": "https://www.nice.org.uk/guidance/ta523/resources/midostaurin-for-untreated-acute-myeloid-leukaemia-pdf-82606838794693"
+  },
+  {
+    "id": "url:nice:ta523:overview",
+    "url": "https://www.nice.org.uk/guidance/ta523"
+  },
+  {
     "id": "url:nice:ta524:label",
     "url": "https://www.nice.org.uk/guidance/ta524/resources/brentuximab-vedotin-for-treating-cd30positive-hodgkin-lymphoma-pdf-82606840474309"
   },
   {
     "id": "url:nice:ta524:overview",
     "url": "https://www.nice.org.uk/guidance/ta524"
+  },
+  {
+    "id": "url:nice:ta526:label",
+    "url": "https://www.nice.org.uk/guidance/ta526/resources/arsenic-trioxide-for-treating-acute-promyelocytic-leukaemia-pdf-82606843833541"
+  },
+  {
+    "id": "url:nice:ta526:overview",
+    "url": "https://www.nice.org.uk/guidance/ta526"
   },
   {
     "id": "url:nice:ta531:label",
@@ -7668,6 +7828,22 @@
     "url": "https://www.nice.org.uk/guidance/ta536"
   },
   {
+    "id": "url:nice:ta541:label",
+    "url": "https://www.nice.org.uk/guidance/ta541/resources/inotuzumab-ozogamicin-for-treating-relapsed-or-refractory-bcell-acute-lymphoblastic-leukaemia-pdf-82606956367813"
+  },
+  {
+    "id": "url:nice:ta541:overview",
+    "url": "https://www.nice.org.uk/guidance/ta541"
+  },
+  {
+    "id": "url:nice:ta544:label",
+    "url": "https://www.nice.org.uk/guidance/ta544/resources/dabrafenib-with-trametinib-for-adjuvant-treatment-of-resected-braf-v600-mutationpositive-melanoma-pdf-82606961406661"
+  },
+  {
+    "id": "url:nice:ta544:overview",
+    "url": "https://www.nice.org.uk/guidance/ta544"
+  },
+  {
     "id": "url:nice:ta545:label",
     "url": "https://www.nice.org.uk/guidance/ta545/resources/gemtuzumab-ozogamicin-for-untreated-acute-myeloid-leukaemia-pdf-82606963086277"
   },
@@ -7682,6 +7858,22 @@
   {
     "id": "url:nice:ta562:overview",
     "url": "https://www.nice.org.uk/guidance/ta562"
+  },
+  {
+    "id": "url:nice:ta563:label",
+    "url": "https://www.nice.org.uk/guidance/ta563/resources/abemaciclib-with-an-aromatase-inhibitor-for-previously-untreated-hormone-receptorpositive-her2negative-locally-advanced-or-metastatic-breast-cancer-pdf-82607080659397"
+  },
+  {
+    "id": "url:nice:ta563:overview",
+    "url": "https://www.nice.org.uk/guidance/ta563"
+  },
+  {
+    "id": "url:nice:ta569:label",
+    "url": "https://www.nice.org.uk/guidance/ta569/resources/pertuzumab-for-adjuvant-treatment-of-her2positive-early-stage-breast-cancer-pdf-82607090737093"
+  },
+  {
+    "id": "url:nice:ta569:overview",
+    "url": "https://www.nice.org.uk/guidance/ta569"
   },
   {
     "id": "url:nice:ta571:label",
@@ -7700,12 +7892,36 @@
     "url": "https://www.nice.org.uk/guidance/ta577"
   },
   {
+    "id": "url:nice:ta584:label",
+    "url": "https://www.nice.org.uk/guidance/ta584/resources/atezolizumab-in-combination-for-treating-metastatic-nonsquamous-nonsmallcell-lung-cancer-pdf-82607203271365"
+  },
+  {
+    "id": "url:nice:ta584:overview",
+    "url": "https://www.nice.org.uk/guidance/ta584"
+  },
+  {
+    "id": "url:nice:ta589:label",
+    "url": "https://www.nice.org.uk/guidance/ta589/resources/blinatumomab-for-treating-acute-lymphoblastic-leukaemia-in-remission-with-minimal-residual-disease-activity-pdf-82607211669445"
+  },
+  {
+    "id": "url:nice:ta589:overview",
+    "url": "https://www.nice.org.uk/guidance/ta589"
+  },
+  {
     "id": "url:nice:ta595:label",
     "url": "https://www.nice.org.uk/guidance/ta595/resources/dacomitinib-for-untreated-egfr-mutationpositive-nonsmallcell-lung-cancer-pdf-82607265417157"
   },
   {
     "id": "url:nice:ta595:overview",
     "url": "https://www.nice.org.uk/guidance/ta595"
+  },
+  {
+    "id": "url:nice:ta612:label",
+    "url": "https://www.nice.org.uk/guidance/ta612/resources/neratinib-for-extended-adjuvant-treatment-of-hormone-receptorpositive-her2positive-early-stage-breast-cancer-after-adjuvant-trastuzumab-pdf-82608953431237"
+  },
+  {
+    "id": "url:nice:ta612:overview",
+    "url": "https://www.nice.org.uk/guidance/ta612"
   },
   {
     "id": "url:nice:ta628:label",
@@ -7716,12 +7932,52 @@
     "url": "https://www.nice.org.uk/guidance/ta628"
   },
   {
+    "id": "url:nice:ta630:label",
+    "url": "https://www.nice.org.uk/guidance/ta630/resources/larotrectinib-for-treating-ntrk-fusionpositive-solid-tumours-pdf-82609071004357"
+  },
+  {
+    "id": "url:nice:ta630:overview",
+    "url": "https://www.nice.org.uk/guidance/ta630"
+  },
+  {
+    "id": "url:nice:ta632:label",
+    "url": "https://www.nice.org.uk/guidance/ta632/resources/trastuzumab-emtansine-for-adjuvant-treatment-of-her2positive-early-breast-cancer-pdf-82609074363589"
+  },
+  {
+    "id": "url:nice:ta632:overview",
+    "url": "https://www.nice.org.uk/guidance/ta632"
+  },
+  {
+    "id": "url:nice:ta639:label",
+    "url": "https://www.nice.org.uk/guidance/ta639/resources/atezolizumab-with-nabpaclitaxel-for-untreated-pdl1positive-locally-advanced-or-metastatic-triplenegative-breast-cancer-pdf-82609086120901"
+  },
+  {
+    "id": "url:nice:ta639:overview",
+    "url": "https://www.nice.org.uk/guidance/ta639"
+  },
+  {
+    "id": "url:nice:ta642:label",
+    "url": "https://www.nice.org.uk/guidance/ta642/resources/gilteritinib-for-treating-relapsed-or-refractory-acute-myeloid-leukaemia-pdf-82609134829765"
+  },
+  {
+    "id": "url:nice:ta642:overview",
+    "url": "https://www.nice.org.uk/guidance/ta642"
+  },
+  {
     "id": "url:nice:ta643:label",
     "url": "https://www.nice.org.uk/guidance/ta643/resources/entrectinib-for-treating-ros1positive-advanced-nonsmallcell-lung-cancer-pdf-82609136509381"
   },
   {
     "id": "url:nice:ta643:overview",
     "url": "https://www.nice.org.uk/guidance/ta643"
+  },
+  {
+    "id": "url:nice:ta644:label",
+    "url": "https://www.nice.org.uk/guidance/ta644/resources/entrectinib-for-treating-ntrk-fusionpositive-solid-tumours"
+  },
+  {
+    "id": "url:nice:ta644:overview",
+    "url": "https://www.nice.org.uk/guidance/ta644"
   },
   {
     "id": "url:nice:ta653:label",
@@ -7764,12 +8020,44 @@
     "url": "https://www.nice.org.uk/guidance/ta670"
   },
   {
+    "id": "url:nice:ta683:label",
+    "url": "https://www.nice.org.uk/guidance/ta683/resources/pembrolizumab-with-pemetrexed-and-platinum-chemotherapy-for-untreated-metastatic-nonsquamous-nonsmallcell-lung-cancer-pdf-82609378374085"
+  },
+  {
+    "id": "url:nice:ta683:overview",
+    "url": "https://www.nice.org.uk/guidance/ta683"
+  },
+  {
+    "id": "url:nice:ta687:label",
+    "url": "https://www.nice.org.uk/guidance/ta687/resources/ribociclib-with-fulvestrant-for-treating-hormone-receptorpositive-her2negative-advanced-breast-cancer-after-endocrine-therapy-pdf-82609385092549"
+  },
+  {
+    "id": "url:nice:ta687:overview",
+    "url": "https://www.nice.org.uk/guidance/ta687"
+  },
+  {
     "id": "url:nice:ta689:label",
     "url": "https://www.nice.org.uk/guidance/ta689/resources/acalabrutinib-for-treating-chronic-lymphocytic-leukaemia-pdf-82609388451781"
   },
   {
     "id": "url:nice:ta689:overview",
     "url": "https://www.nice.org.uk/guidance/ta689"
+  },
+  {
+    "id": "url:nice:ta704:label",
+    "url": "https://www.nice.org.uk/guidance/ta704/resources/trastuzumab-deruxtecan-for-treating-her2positive-unresectable-or-metastatic-breast-cancer-after-2-or-more-antiher2-therapies-pdf-82611073106629"
+  },
+  {
+    "id": "url:nice:ta704:overview",
+    "url": "https://www.nice.org.uk/guidance/ta704"
+  },
+  {
+    "id": "url:nice:ta705:label",
+    "url": "https://www.nice.org.uk/guidance/ta705/resources/atezolizumab-monotherapy-for-untreated-advanced-nonsmallcell-lung-cancer-pdf-82611074786245"
+  },
+  {
+    "id": "url:nice:ta705:overview",
+    "url": "https://www.nice.org.uk/guidance/ta705"
   },
   {
     "id": "url:nice:ta709:label",
@@ -7780,12 +8068,60 @@
     "url": "https://www.nice.org.uk/guidance/ta709"
   },
   {
+    "id": "url:nice:ta713:label",
+    "url": "https://www.nice.org.uk/guidance/ta713/resources/nivolumab-for-advanced-nonsquamous-nonsmallcell-lung-cancer-after-chemotherapy-pdf-82611131893189"
+  },
+  {
+    "id": "url:nice:ta713:overview",
+    "url": "https://www.nice.org.uk/guidance/ta713"
+  },
+  {
+    "id": "url:nice:ta716:label",
+    "url": "https://www.nice.org.uk/guidance/ta716/resources/nivolumab-with-ipilimumab-for-previously-treated-metastatic-colorectal-cancer-with-high-microsatellite-instability-or-mismatch-repair-deficiency-pdf-82611136932037"
+  },
+  {
+    "id": "url:nice:ta716:overview",
+    "url": "https://www.nice.org.uk/guidance/ta716"
+  },
+  {
     "id": "url:nice:ta722:label",
     "url": "https://www.nice.org.uk/guidance/ta722/resources/pemigatinib-for-treating-relapsed-or-refractory-advanced-cholangiocarcinoma-with-fgfr2-fusion-or-rearrangement-pdf-82611190679749"
   },
   {
     "id": "url:nice:ta722:overview",
     "url": "https://www.nice.org.uk/guidance/ta722"
+  },
+  {
+    "id": "url:nice:ta725:label",
+    "url": "https://www.nice.org.uk/guidance/ta725/resources/abemaciclib-with-fulvestrant-for-treating-hormone-receptorpositive-her2negative-advanced-breast-cancer-after-endocrine-therapy-pdf-82611195718597"
+  },
+  {
+    "id": "url:nice:ta725:overview",
+    "url": "https://www.nice.org.uk/guidance/ta725"
+  },
+  {
+    "id": "url:nice:ta737:label",
+    "url": "https://www.nice.org.uk/guidance/ta737/resources/pembrolizumab-with-platinum-and-fluoropyrimidinebased-chemotherapy-for-untreated-advanced-oesophageal-and-gastrooesophageal-junction-cancer-pdf-82611259544005"
+  },
+  {
+    "id": "url:nice:ta737:overview",
+    "url": "https://www.nice.org.uk/guidance/ta737"
+  },
+  {
+    "id": "url:nice:ta739:label",
+    "url": "https://www.nice.org.uk/guidance/ta739/resources/atezolizumab-for-untreated-pdl1positive-advanced-urothelial-cancer-when-cisplatin-is-unsuitable-pdf-82611262903237"
+  },
+  {
+    "id": "url:nice:ta739:overview",
+    "url": "https://www.nice.org.uk/guidance/ta739"
+  },
+  {
+    "id": "url:nice:ta770:label",
+    "url": "https://www.nice.org.uk/guidance/ta770/resources/pembrolizumab-with-carboplatin-and-paclitaxel-for-untreated-metastatic-squamous-nonsmallcell-lung-cancer-pdf-82611489651397"
+  },
+  {
+    "id": "url:nice:ta770:overview",
+    "url": "https://www.nice.org.uk/guidance/ta770"
   },
   {
     "id": "url:nice:ta779:label",
@@ -7796,12 +8132,36 @@
     "url": "https://www.nice.org.uk/guidance/ta779"
   },
   {
+    "id": "url:nice:ta781:label",
+    "url": "https://www.nice.org.uk/guidance/ta781/resources/sotorasib-for-previously-treated-kras-g12c-mutationpositive-advanced-nonsmallcell-lung-cancer-pdf-82611551797189"
+  },
+  {
+    "id": "url:nice:ta781:overview",
+    "url": "https://www.nice.org.uk/guidance/ta781"
+  },
+  {
+    "id": "url:nice:ta784:label",
+    "url": "https://www.nice.org.uk/guidance/ta784/resources/niraparib-for-maintenance-treatment-of-relapsed-platinumsensitive-ovarian-fallopian-tube-and-peritoneal-cancer-pdf-82611556836037"
+  },
+  {
+    "id": "url:nice:ta784:overview",
+    "url": "https://www.nice.org.uk/guidance/ta784"
+  },
+  {
     "id": "url:nice:ta786:label",
     "url": "https://www.nice.org.uk/guidance/ta786/resources/tucatinib-with-trastuzumab-and-capecitabine-for-treating-her2positive-advanced-breast-cancer-after-2-or-more-antiher2-therapies-pdf-82611560195269"
   },
   {
     "id": "url:nice:ta786:overview",
     "url": "https://www.nice.org.uk/guidance/ta786"
+  },
+  {
+    "id": "url:nice:ta789:label",
+    "url": "https://www.nice.org.uk/guidance/ta789/resources/tepotinib-for-treating-advanced-nonsmallcell-lung-cancer-with-met-gene-alterations-pdf-82611565234117"
+  },
+  {
+    "id": "url:nice:ta789:overview",
+    "url": "https://www.nice.org.uk/guidance/ta789"
   },
   {
     "id": "url:nice:ta796:label",
@@ -7820,12 +8180,100 @@
     "url": "https://www.nice.org.uk/guidance/ta798"
   },
   {
+    "id": "url:nice:ta801:label",
+    "url": "https://www.nice.org.uk/guidance/ta801/resources/pembrolizumab-plus-chemotherapy-for-untreated-triplenegative-locally-recurrent-unresectable-or-metastatic-breast-cancer-pdf-82613244850117"
+  },
+  {
+    "id": "url:nice:ta801:overview",
+    "url": "https://www.nice.org.uk/guidance/ta801"
+  },
+  {
+    "id": "url:nice:ta810:label",
+    "url": "https://www.nice.org.uk/guidance/ta810/resources/abemaciclib-with-endocrine-therapy-for-adjuvant-treatment-of-hormone-receptorpositive-her2negative-nodepositive-early-breast-cancer-at-high-risk-of-recurrence-pdf-82613303636677"
+  },
+  {
+    "id": "url:nice:ta810:overview",
+    "url": "https://www.nice.org.uk/guidance/ta810"
+  },
+  {
+    "id": "url:nice:ta813:label",
+    "url": "https://www.nice.org.uk/guidance/ta813/resources/asciminib-for-treating-chronic-myeloid-leukaemia-after-2-or-more-tyrosine-kinase-inhibitors-pdf-82613308675525"
+  },
+  {
+    "id": "url:nice:ta813:overview",
+    "url": "https://www.nice.org.uk/guidance/ta813"
+  },
+  {
+    "id": "url:nice:ta816:label",
+    "url": "https://www.nice.org.uk/guidance/ta816/resources/alpelisib-with-fulvestrant-for-treating-hormone-receptorpositive-her2negative-pik3camutated-advanced-breast-cancer-pdf-82613313714373"
+  },
+  {
+    "id": "url:nice:ta816:overview",
+    "url": "https://www.nice.org.uk/guidance/ta816"
+  },
+  {
+    "id": "url:nice:ta817:label",
+    "url": "https://www.nice.org.uk/guidance/ta817/resources/nivolumab-for-adjuvant-treatment-of-invasive-urothelial-cancer-at-high-risk-of-recurrence-pdf-82613315393989"
+  },
+  {
+    "id": "url:nice:ta817:overview",
+    "url": "https://www.nice.org.uk/guidance/ta817"
+  },
+  {
+    "id": "url:nice:ta819:label",
+    "url": "https://www.nice.org.uk/guidance/ta819/resources/sacituzumab-govitecan-for-treating-unresectable-triplenegative-advanced-breast-cancer-after-2-or-more-therapies-pdf-82613318753221"
+  },
+  {
+    "id": "url:nice:ta819:overview",
+    "url": "https://www.nice.org.uk/guidance/ta819"
+  },
+  {
+    "id": "url:nice:ta836:label",
+    "url": "https://www.nice.org.uk/guidance/ta836/resources/palbociclib-with-fulvestrant-for-treating-hormone-receptorpositive-her2negative-advanced-breast-cancer-after-endocrine-therapy-pdf-82613434646725"
+  },
+  {
+    "id": "url:nice:ta836:overview",
+    "url": "https://www.nice.org.uk/guidance/ta836"
+  },
+  {
+    "id": "url:nice:ta851:label",
+    "url": "https://www.nice.org.uk/guidance/ta851/resources/pembrolizumab-for-neoadjuvant-and-adjuvant-treatment-of-triplenegative-early-or-locally-advanced-breast-cancer-pdf-82613547180997"
+  },
+  {
+    "id": "url:nice:ta851:overview",
+    "url": "https://www.nice.org.uk/guidance/ta851"
+  },
+  {
+    "id": "url:nice:ta857:label",
+    "url": "https://www.nice.org.uk/guidance/ta857/resources/nivolumab-with-platinum-and-fluoropyrimidinebased-chemotherapy-for-untreated-her2negative-advanced-gastric-gastrooesophageal-junction-or-oesophageal-adenocarcinoma-pdf-82613557258693"
+  },
+  {
+    "id": "url:nice:ta857:overview",
+    "url": "https://www.nice.org.uk/guidance/ta857"
+  },
+  {
     "id": "url:nice:ta862:label",
     "url": "https://www.nice.org.uk/guidance/ta862/resources/trastuzumab-deruxtecan-for-treating-her2positive-unresectable-or-metastatic-breast-cancer-after-1-or-more-antiher2-treatments-pdf-82613609326789"
   },
   {
     "id": "url:nice:ta862:overview",
     "url": "https://www.nice.org.uk/guidance/ta862"
+  },
+  {
+    "id": "url:nice:ta865:label",
+    "url": "https://www.nice.org.uk/guidance/ta865/resources/nivolumab-with-fluoropyrimidine-and-platinumbased-chemotherapy-for-untreated-unresectable-advanced-recurrent-or-metastatic-oesophageal-squamous-cell-carcinoma-pdf-82613614365637"
+  },
+  {
+    "id": "url:nice:ta865:overview",
+    "url": "https://www.nice.org.uk/guidance/ta865"
+  },
+  {
+    "id": "url:nice:ta886:label",
+    "url": "https://www.nice.org.uk/guidance/ta886/resources/olaparib-for-adjuvant-treatment-of-brca-mutationpositive-her2negative-highrisk-early-breast-cancer-after-chemotherapy-pdf-82613736977605"
+  },
+  {
+    "id": "url:nice:ta886:overview",
+    "url": "https://www.nice.org.uk/guidance/ta886"
   },
   {
     "id": "url:nice:ta887:label",
@@ -7844,6 +8292,14 @@
     "url": "https://www.nice.org.uk/guidance/ta898"
   },
   {
+    "id": "url:nice:ta908:label",
+    "url": "https://www.nice.org.uk/guidance/ta908/resources/olaparib-for-maintenance-treatment-of-relapsed-platinumsensitive-ovarian-fallopian-tube-or-peritoneal-cancer-after-2-or-more-courses-of-platinumbased-chemotherapy-pdf-82615433389765"
+  },
+  {
+    "id": "url:nice:ta908:overview",
+    "url": "https://www.nice.org.uk/guidance/ta908"
+  },
+  {
     "id": "url:nice:ta911:label",
     "url": "https://www.nice.org.uk/guidance/ta911/resources/selpercatinib-for-untreated-ret-fusionpositive-advanced-nonsmallcell-lung-cancer-pdf-82615482098629"
   },
@@ -7852,12 +8308,52 @@
     "url": "https://www.nice.org.uk/guidance/ta911"
   },
   {
+    "id": "url:nice:ta914:label",
+    "url": "https://www.nice.org.uk/guidance/ta914/resources/pembrolizumab-for-previously-treated-endometrial-biliary-colorectal-gastric-or-small-intestine-cancer-with-high-microsatellite-instability-or-mismatch-repair-deficiency-pdf-82615487137477"
+  },
+  {
+    "id": "url:nice:ta914:overview",
+    "url": "https://www.nice.org.uk/guidance/ta914"
+  },
+  {
     "id": "url:nice:ta931:label",
     "url": "https://www.nice.org.uk/guidance/ta931/resources/zanubrutinib-for-treating-chronic-lymphocytic-leukaemia-pdf-82615603030981"
   },
   {
     "id": "url:nice:ta931:overview",
     "url": "https://www.nice.org.uk/guidance/ta931"
+  },
+  {
+    "id": "url:nice:ta939:label",
+    "url": "https://www.nice.org.uk/guidance/ta939/resources/pembrolizumab-plus-chemotherapy-with-or-without-bevacizumab-for-persistent-recurrent-or-metastatic-cervical-cancer-pdf-82615616467909"
+  },
+  {
+    "id": "url:nice:ta939:overview",
+    "url": "https://www.nice.org.uk/guidance/ta939"
+  },
+  {
+    "id": "url:nice:ta946:label",
+    "url": "https://www.nice.org.uk/guidance/ta946/resources/olaparib-with-bevacizumab-for-maintenance-treatment-of-advanced-highgrade-epithelial-ovarian-fallopian-tube-or-primary-peritoneal-cancer-pdf-82615671309253"
+  },
+  {
+    "id": "url:nice:ta946:overview",
+    "url": "https://www.nice.org.uk/guidance/ta946"
+  },
+  {
+    "id": "url:nice:ta948:label",
+    "url": "https://www.nice.org.uk/guidance/ta948/resources/ivosidenib-for-treating-advanced-cholangiocarcinoma-with-an-idh1-r132-mutation-after-1-or-more-systemic-treatments-pdf-82615675254469"
+  },
+  {
+    "id": "url:nice:ta948:overview",
+    "url": "https://www.nice.org.uk/guidance/ta948"
+  },
+  {
+    "id": "url:nice:ta952:label",
+    "url": "https://www.nice.org.uk/guidance/ta952/resources/talazoparib-for-treating-her2negative-advanced-breast-cancer-with-germline-brca-mutations-pdf-82615725642949"
+  },
+  {
+    "id": "url:nice:ta952:overview",
+    "url": "https://www.nice.org.uk/guidance/ta952"
   },
   {
     "id": "url:nice:ta962:label",
@@ -7876,12 +8372,36 @@
     "url": "https://www.nice.org.uk/guidance/ta977"
   },
   {
+    "id": "url:nice:ta979:label",
+    "url": "https://www.nice.org.uk/guidance/ta979/resources/ivosidenib-with-azacitidine-for-untreated-acute-myeloid-leukaemia-with-an-idh1-r132-mutation-pdf-82615858332613"
+  },
+  {
+    "id": "url:nice:ta979:overview",
+    "url": "https://www.nice.org.uk/guidance/ta979"
+  },
+  {
+    "id": "url:nice:ta997:label",
+    "url": "https://www.nice.org.uk/guidance/ta997/resources/pembrolizumab-with-platinum-and-fluoropyrimidinebased-chemotherapy-for-untreated-advanced-her2negative-gastric-or-gastrooesophageal-junction-adenocarcinoma-pdf-82615975905733"
+  },
+  {
+    "id": "url:nice:ta997:overview",
+    "url": "https://www.nice.org.uk/guidance/ta997"
+  },
+  {
     "id": "url:nice:ta1005:label",
     "url": "https://www.nice.org.uk/guidance/ta1005/resources/futibatinib-for-previously-treated-advanced-cholangiocarcinoma-with-fgfr2-fusion-or-rearrangement-pdf-2973528214975429"
   },
   {
     "id": "url:nice:ta1005:overview",
     "url": "https://www.nice.org.uk/guidance/ta1005"
+  },
+  {
+    "id": "url:nice:ta1013:label",
+    "url": "https://www.nice.org.uk/guidance/ta1013/resources/quizartinib-for-induction-consolidation-and-maintenance-treatment-of-newly-diagnosed-flt3itdpositive-acute-myeloid-leukaemia-pdf-2973528272082373"
+  },
+  {
+    "id": "url:nice:ta1013:overview",
+    "url": "https://www.nice.org.uk/guidance/ta1013"
   },
   {
     "id": "url:nice:ta1014:label",
@@ -7892,12 +8412,60 @@
     "url": "https://www.nice.org.uk/guidance/ta1014"
   },
   {
+    "id": "url:nice:ta1021:label",
+    "url": "https://www.nice.org.uk/guidance/ta1021/resources/crizotinib-for-treating-ros1positive-advanced-nonsmallcell-lung-cancer-pdf-2973528329189317"
+  },
+  {
+    "id": "url:nice:ta1021:overview",
+    "url": "https://www.nice.org.uk/guidance/ta1021"
+  },
+  {
+    "id": "url:nice:ta1027:label",
+    "url": "https://www.nice.org.uk/guidance/ta1027/resources/tebentafusp-for-treating-advanced-uveal-melanoma-pdf-2973528339267013"
+  },
+  {
+    "id": "url:nice:ta1027:overview",
+    "url": "https://www.nice.org.uk/guidance/ta1027"
+  },
+  {
+    "id": "url:nice:ta1030:label",
+    "url": "https://www.nice.org.uk/guidance/ta1030/resources/durvalumab-with-chemotherapy-before-surgery-neoadjuvant-then-alone-after-surgery-adjuvant-for-treating-resectable-nonsmallcell-lung-cancer-pdf-2973528387975877"
+  },
+  {
+    "id": "url:nice:ta1030:overview",
+    "url": "https://www.nice.org.uk/guidance/ta1030"
+  },
+  {
     "id": "url:nice:ta1036:label",
     "url": "https://www.nice.org.uk/guidance/ta1036/resources/elacestrant-for-treating-oestrogen-receptorpositive-her2negative-advanced-breast-cancer-with-an-esr1-mutation-after-endocrine-treatment-pdf-2973528398053573"
   },
   {
     "id": "url:nice:ta1036:overview",
     "url": "https://www.nice.org.uk/guidance/ta1036"
+  },
+  {
+    "id": "url:nice:ta1038:label",
+    "url": "https://www.nice.org.uk/guidance/ta1038/resources/selpercatinib-for-advanced-thyroid-cancer-with-ret-alterations-after-treatment-with-a-targeted-cancer-drug-in-people-12-years-and-over-pdf-2973528401412805"
+  },
+  {
+    "id": "url:nice:ta1038:overview",
+    "url": "https://www.nice.org.uk/guidance/ta1038"
+  },
+  {
+    "id": "url:nice:ta1039:label",
+    "url": "https://www.nice.org.uk/guidance/ta1039/resources/selpercatinib-for-advanced-thyroid-cancer-with-ret-alterations-untreated-with-a-targeted-cancer-drug-in-people-12-years-and-over-pdf-2973528403092421"
+  },
+  {
+    "id": "url:nice:ta1039:overview",
+    "url": "https://www.nice.org.uk/guidance/ta1039"
+  },
+  {
+    "id": "url:nice:ta1040:label",
+    "url": "https://www.nice.org.uk/guidance/ta1040/resources/olaparib-for-treating-brca-mutationpositive-her2negative-advanced-breast-cancer-after-chemotherapy-pdf-2973528448442053"
+  },
+  {
+    "id": "url:nice:ta1040:overview",
+    "url": "https://www.nice.org.uk/guidance/ta1040"
   },
   {
     "id": "url:nice:ta1042:label",
@@ -7916,12 +8484,60 @@
     "url": "https://www.nice.org.uk/guidance/ta1043"
   },
   {
+    "id": "url:nice:ta1049:label",
+    "url": "https://www.nice.org.uk/guidance/ta1049/resources/blinatumomab-with-chemotherapy-for-consolidation-treatment-of-philadelphiachromosomenegative-cd19positive-minimal-residual-diseasenegative-bcell-precursor-acute-lymphoblastic-leukaemia-pdf-2973528463558597"
+  },
+  {
+    "id": "url:nice:ta1049:overview",
+    "url": "https://www.nice.org.uk/guidance/ta1049"
+  },
+  {
+    "id": "url:nice:ta1055:label",
+    "url": "https://www.nice.org.uk/guidance/ta1055/resources/rucaparib-for-maintenance-treatment-of-advanced-ovarian-fallopian-tube-and-peritoneal-cancer-after-response-to-firstline-platinumbased-chemotherapy-pdf-2973528517306309"
+  },
+  {
+    "id": "url:nice:ta1055:overview",
+    "url": "https://www.nice.org.uk/guidance/ta1055"
+  },
+  {
     "id": "url:nice:ta1059:label",
     "url": "https://www.nice.org.uk/guidance/ta1059/resources/brentuximab-vedotin-in-combination-for-untreated-stage-3-or-4-cd30positive-hodgkin-lymphoma-pdf-2973528524024773"
   },
   {
     "id": "url:nice:ta1059:overview",
     "url": "https://www.nice.org.uk/guidance/ta1059"
+  },
+  {
+    "id": "url:nice:ta1060:label",
+    "url": "https://www.nice.org.uk/guidance/ta1060/resources/osimertinib-with-pemetrexed-and-platinumbased-chemotherapy-for-untreated-egfr-mutationpositive-advanced-nonsmallcell-lung-cancer-pdf-2973528569374405"
+  },
+  {
+    "id": "url:nice:ta1060:overview",
+    "url": "https://www.nice.org.uk/guidance/ta1060"
+  },
+  {
+    "id": "url:nice:ta1062:label",
+    "url": "https://www.nice.org.uk/guidance/ta1062/resources/erdafitinib-for-treating-unresectable-or-metastatic-urothelial-cancer-with-fgfr3-alterations-after-a-pd1-or-pdl1-inhibitor-pdf-2973528572733637"
+  },
+  {
+    "id": "url:nice:ta1062:overview",
+    "url": "https://www.nice.org.uk/guidance/ta1062"
+  },
+  {
+    "id": "url:nice:ta1063:label",
+    "url": "https://www.nice.org.uk/guidance/ta1063/resources/capivasertib-with-fulvestrant-for-treating-hormone-receptorpositive-her2negative-advanced-breast-cancer-after-endocrine-treatment-pdf-2973528574413253"
+  },
+  {
+    "id": "url:nice:ta1063:overview",
+    "url": "https://www.nice.org.uk/guidance/ta1063"
+  },
+  {
+    "id": "url:nice:ta1064:label",
+    "url": "https://www.nice.org.uk/guidance/ta1064/resources/dostarlimab-with-platinumbased-chemotherapy-for-treating-primary-advanced-or-recurrent-endometrial-cancer-with-high-microsatellite-instability-or-mismatch-repair-deficiency-pdf-2973528576092869"
+  },
+  {
+    "id": "url:nice:ta1064:overview",
+    "url": "https://www.nice.org.uk/guidance/ta1064"
   },
   {
     "id": "url:nice:ta1065:label",
@@ -7938,6 +8554,118 @@
   {
     "id": "url:nice:ta1071:overview",
     "url": "https://www.nice.org.uk/guidance/ta1071"
+  },
+  {
+    "id": "url:nice:ta1079:label",
+    "url": "https://www.nice.org.uk/guidance/ta1079/resources/fruquintinib-for-previously-treated-metastatic-colorectal-cancer"
+  },
+  {
+    "id": "url:nice:ta1079:overview",
+    "url": "https://www.nice.org.uk/guidance/ta1079"
+  },
+  {
+    "id": "url:nice:ta1086:label",
+    "url": "https://www.nice.org.uk/guidance/ta1086/resources/ribociclib-with-an-aromatase-inhibitor-for-adjuvant-treatment-of-hormone-receptorpositive-her2negative-early-breast-cancer-at-high-risk-of-recurrence-pdf-2973528700384453"
+  },
+  {
+    "id": "url:nice:ta1086:overview",
+    "url": "https://www.nice.org.uk/guidance/ta1086"
+  },
+  {
+    "id": "url:nice:ta1103:label",
+    "url": "https://www.nice.org.uk/guidance/ta1103/resources/lorlatinib-for-alkpositive-advanced-nonsmallcell-lung-cancer-that-has-not-been-treated-with-an-alk-inhibitor-pdf-2973530388398533"
+  },
+  {
+    "id": "url:nice:ta1103:overview",
+    "url": "https://www.nice.org.uk/guidance/ta1103"
+  },
+  {
+    "id": "url:nice:ta1117:label",
+    "url": "https://www.nice.org.uk/guidance/ta1117/resources/dostarlimab-with-platinumcontaining-chemotherapy-for-treating-primary-advanced-or-recurrent-endometrial-cancer-with-microsatellite-stability-or-mismatch-repair-proficiency-pdf-2973530455583173"
+  },
+  {
+    "id": "url:nice:ta1117:overview",
+    "url": "https://www.nice.org.uk/guidance/ta1117"
+  },
+  {
+    "id": "url:nice:ta1122:label",
+    "url": "https://www.nice.org.uk/guidance/ta1122/resources/amivantamab-with-lazertinib-for-untreated-egfr-mutationpositive-advanced-nonsmallcell-lung-cancer-pdf-2973530507651269"
+  },
+  {
+    "id": "url:nice:ta1122:overview",
+    "url": "https://www.nice.org.uk/guidance/ta1122"
+  },
+  {
+    "id": "url:nice:ta1127:label",
+    "url": "https://www.nice.org.uk/guidance/ta1127/resources/nivolumab-with-chemotherapy-for-neoadjuvant-treatment-then-alone-for-adjuvant-treatment-of-resectable-nonsmallcell-lung-cancer-pdf-2973530516049349"
+  },
+  {
+    "id": "url:nice:ta1127:overview",
+    "url": "https://www.nice.org.uk/guidance/ta1127"
+  },
+  {
+    "id": "url:nice:ta1147:label",
+    "url": "https://www.nice.org.uk/guidance/ta1147/resources/vorasidenib-for-treating-astrocytoma-or-oligodendroglioma-with-idh1-or-idh2-mutations-after-surgery-in-people-12-years-and-over-pdf-2973530636981701"
+  },
+  {
+    "id": "url:nice:ta1147:overview",
+    "url": "https://www.nice.org.uk/guidance/ta1147"
+  },
+  {
+    "id": "url:nice:ta1150:label",
+    "url": "https://www.nice.org.uk/guidance/ta1150/resources/encorafenib-with-binimetinib-for-treating-braf-v600e-mutationpositive-advanced-nonsmallcell-lung-cancer-pdf-2973530685690565"
+  },
+  {
+    "id": "url:nice:ta1150:overview",
+    "url": "https://www.nice.org.uk/guidance/ta1150"
+  },
+  {
+    "id": "url:nice:ta1153:label",
+    "url": "https://www.nice.org.uk/guidance/ta1153/resources/zanidatamab-for-treating-her2positive-advanced-biliary-tract-cancer-after-1-or-more-lines-of-systemic-treatment-pdf-2973530690729413"
+  },
+  {
+    "id": "url:nice:ta1153:overview",
+    "url": "https://www.nice.org.uk/guidance/ta1153"
+  },
+  {
+    "id": "url:nice:ta1156:label",
+    "url": "https://www.nice.org.uk/guidance/ta1156/resources/osimertinib-for-treating-egfr-mutationpositive-unresectable-locally-advanced-nonsmallcell-lung-cancer-after-platinumbased-chemoradiotherapy-pdf-2973530695768261"
+  },
+  {
+    "id": "url:nice:ta1156:overview",
+    "url": "https://www.nice.org.uk/guidance/ta1156"
+  },
+  {
+    "id": "url:nice:ta1158:label",
+    "url": "https://www.nice.org.uk/guidance/ta1158/resources/amivantamab-with-carboplatin-and-pemetrexed-for-untreated-egfr-exon-20-insertion-mutationpositive-advanced-nonsmallcell-lung-cancer-pdf-2973530699127493"
+  },
+  {
+    "id": "url:nice:ta1158:overview",
+    "url": "https://www.nice.org.uk/guidance/ta1158"
+  },
+  {
+    "id": "url:nice:ta1165:label",
+    "url": "https://www.nice.org.uk/guidance/ta1165/resources/cemiplimab-with-platinumbased-chemotherapy-for-untreated-advanced-nonsmallcell-lung-cancer-pdf-2973530754554821"
+  },
+  {
+    "id": "url:nice:ta1165:overview",
+    "url": "https://www.nice.org.uk/guidance/ta1165"
+  },
+  {
+    "id": "url:nice:ta1169:label",
+    "url": "https://www.nice.org.uk/guidance/ta1169/resources/mirvetuximab-soravtansine-for-treating-folate-receptoralphapositive-platinumresistant-epithelial-ovarian-fallopian-tube-or-primary-peritoneal-cancer-pdf-2973530761273285"
+  },
+  {
+    "id": "url:nice:ta1169:overview",
+    "url": "https://www.nice.org.uk/guidance/ta1169"
+  },
+  {
+    "id": "url:nice:ta1189:label",
+    "url": "https://www.nice.org.uk/guidance/ta1189/resources/dostarlimab-for-previously-treated-advanced-or-recurrent-endometrial-cancer-with-high-microsatellite-instability-or-mismatch-repair-deficiency-pdf-2973530882205637"
+  },
+  {
+    "id": "url:nice:ta1189:overview",
+    "url": "https://www.nice.org.uk/guidance/ta1189"
   },
   {
     "id": "url:fda:veppanu:label",
